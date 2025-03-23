@@ -2,4 +2,4 @@ This is a language learning web app that uses vanulla javascript and is built on
 
 It has Japanese lessons in it right now.
 
-Once you get everything going, you run "npm run build" or "npm build run" or something like that to build and upload it all to the firebase server.
+Please read the .md files in their appropriate locations for further details. Startup info is in the general architecture one for once you get firebase set up.
