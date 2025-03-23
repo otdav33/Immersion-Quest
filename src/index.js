@@ -7,20 +7,9 @@ import { initializeApp } from "firebase/app";
 import { getAnalytics } from "firebase/analytics";
 import { getFirestore, doc, setDoc, addDoc, collection, serverTimestamp, query, where, orderBy, limit, getDoc, getDocs, updateDoc, Timestamp } from "firebase/firestore";
 import { getAuth, createUserWithEmailAndPassword, signInWithEmailAndPassword, signOut, sendPasswordResetEmail, GoogleAuthProvider, signInWithPopup } from "firebase/auth";
-// TODO: Add SDKs for Firebase products that you want to use
-// https://firebase.google.com/docs/web/setup#available-libraries
 
-// Your web app's Firebase configuration
-// For Firebase JS SDK v7.20.0 and later, measurementId is optional
-const firebaseConfig = {
-apiKey: "AIzaSyBBtZvv_iBPwFrL9GWPKo4XBywXZysXYOs",
-authDomain: "language-learning-app-ff8ec.firebaseapp.com",
-projectId: "language-learning-app-ff8ec",
-storageBucket: "language-learning-app-ff8ec.appspot.com",
-messagingSenderId: "563354718576",
-appId: "1:563354718576:web:15d37b1e22898da7137fb5",
-measurementId: "G-9CRKZX46B8"
-};
+// Add your firebse config here:
+const firebaseConfig = 
 
 // Initialize Firebase
 const app = initializeApp(firebaseConfig);
@@ -48,50 +37,6 @@ var speakerNumber = 2;
 var showRomanization = false;
 var firstLesson = 1;
 
-
-function gtag_report_conversion(url) {
-    var callback = function () {
-        if (typeof(url) != 'undefined') {
-            window.location = url;
-        }
-    };
-    gtag('event', 'conversion', {
-        'send_to': 'AW-16565511483/wUYSCO61p9kZELvKhts9',
-        'value': 2.0,
-        'currency': 'USD',
-        'event_callback': callback
-    });
-    return false;
-}
-
-function gtag_report_conversion_custom(value) {
-    var callback = function () {
-        if (typeof(url) != 'undefined') {
-            window.location = url;
-        }
-    };
-    gtag('event', 'conversion', {
-        'send_to': 'AW-16565511483/wUYSCO61p9kZELvKhts9',
-        'value': value,
-        'currency': 'USD',
-        'event_callback': callback
-    });
-}
-
-
-function hamburgerTray() {
-    const hamburgerTray = document.getElementById('hamburger-container');
-    const hamburgerButton = document.getElementById('hamburgerbutton');
-    if (hamburgerTray.hidden) {
-        //open hamburger tray
-        hamburgerTray.hidden = false;
-        hamburgerButton.classList.add('selected');
-    } else {
-        //close hamburger tray
-        hamburgerTray.hidden = true;
-        hamburgerButton.classList.remove('selected');
-    }
-}
 
 function lessonSelectorMenu() {
     const lessonSelectorTray = document.getElementById('lessonselector-container');
@@ -780,7 +725,7 @@ function loadLesson(lessonIndex, exerciseIndex = 0) {
                                 value = 1;
                             }
                         }
-                        gtag_report_conversion_custom(value);
+                        //gtag_report_conversion_custom(value);
                     });
             } else {
                 feedbackArea.innerHTML = "The lesson could not be retrieved. Please sign up to the mailing list to be notified when that lesson is done (<a href=\"https://groups.google.com/g/immersion-quest\">https://groups.google.com/g/immersion-quest</a>). A discussion board is also available there in addition to normal updates. It is possible that there was a network error when retrieving the lesson.";
