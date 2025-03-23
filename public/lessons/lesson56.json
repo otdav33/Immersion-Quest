@@ -1,0 +1,106 @@
+[
+  {
+    "type": "intro",
+    "pretext": "Let's take a break from learning the small “Ya” (ャ), “Yu” (ュ), and “Yo” (ョ). Take this short quiz before you proceed to the next lesson. But first, let’s review:"
+  },
+  {
+    "type": "mc",
+    "prompt": "K and S",
+    "options": [
+      "Kya – キャ",
+      "Kyu – キュ",
+      "Kyo – キョ",
+      "Sha – シャ",
+      "Shu – シュ",
+      "Sho – ショ"
+    ]
+  },
+  {
+    "type": "mc",
+    "prompt": "T and N",
+    "options": [
+      "Cha – チャ",
+      "Chu – チュ",
+      "Cho – チョ",
+      "Nya – ニャ",
+      "Nyu – ニュ",
+      "Nyo – ニョ"
+    ]
+  },
+  {
+    "type": "mc",
+    "prompt": "H, M, and R",
+    "options": [
+      "Hya – ヒャ",
+      "Hyu – ヒュ",
+      "Hyo – ヒョ",
+      "Mya – ミャ",
+      "Myu – ミュ",
+      "Myo – ミョ",
+      "Rya – リャ",
+      "Ryu – リュ",
+      "Ryo – リョ"
+    ]
+  },
+  {
+    "type": "mc",
+    "prompt": "Kya and Shu",
+    "options": ["キャ and シュ", "キャ and シャ", "キョ and シュ"],
+    "answer": "キャ and シュ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Chu and Cho",
+    "options": ["チョ and チャ", "チャ and チュ", "チュ and チョ"],
+    "answer": "チュ and チョ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Hya and Mya",
+    "options": ["ヒャ and ミャ", "ヒョ and ミョ", "ヒュ and ミュ"],
+    "answer": "ヒャ and ミャ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Kyu and Sha",
+    "options": ["キャ and シュ", "キュ and シャ", "キョ and ショ"],
+    "answer": "キュ and シャ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Kyo and Sho",
+    "options": ["キョ and シュ", "キュ and シュ", "キョ and ショ"],
+    "answer": "キョ and ショ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ryo and Rya",
+    "options": ["リョ and リャ", "リュ andリャ", "リョ andリュ"],
+    "answer": "リョ and リャ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Myu and Nyo",
+    "options": ["ミョ and ニョ", "ミュ and ニョ", "ミュ and ニュ"],
+    "answer": "ミュ and ニョ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Nya and Cha",
+    "options": ["ニョ and チャ", "ニャ and チャ", "ニュ and チュ"],
+    "answer": "ニャ and チャ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Myo and Hyu",
+    "options": ["ミャ and ヒャ", "ミョ and ヒョ", "ミョ and ヒュ"],
+    "answer": "ミョ and ヒュ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Nyu and Ryu",
+    "options": ["ニャ and リュ", "ニャ and リョ", "ヒュ and リュ"],
+    "answer": "ヒュ and リュ"
+  },
+  {"type": "mc", "prompt": "Hyo", "options": ["ヒョ", "ヒャ", "ヒュ"], "answer": "ヒョ"}
+]

@@ -1,0 +1,133 @@
+[
+  {
+    "type": "intro",
+    "pretext": "Unfortunately, there is no secret trick for memorizing the Chinese characters used in Japanese (called \"kanji\"), so just try your best to remember the different strokes and/or the shape. They are used everywhere in Japanese, so it is important to know them. For hiragana and katakana (the phonetic characters), there is a charming song for learning the alphabet that can easily be found on the internet.",
+    "prompt": "<ruby>水<rt>みず</rt></ruby><span class=\"romanization\"> (Mizu)</span> - water",
+    "options": ["水"]
+  },
+  {
+    "type": "mc",
+    "prompt": "水：",
+    "options": ["water", "ice", "hail", "book"],
+    "answer": "water"
+  },
+  {
+    "type": "mc",
+    "prompt": "water:",
+    "options": ["水", "永", "氷", "求", "沓", "本"],
+    "answer": "水",
+    "wrong-answer-text": "Easy mistake. Kanji (Chinese characters) are arguably the hardest part of Japanese."
+  },
+  {
+    "type": "intro",
+    "prompt": "<ruby>下さい<rt>ください</rt></ruby><span class=\"romanization\"> (Kudasai)</span> - please",
+    "options": ["下さい"]
+  },
+  {
+    "type": "mc",
+    "prompt": "please:",
+    "options": ["下さい", "上さい", "下ざぃ", "与える"],
+    "answer": "下さい",
+    "wrong-answer-text": "Easy mistake. Kanji (Chinese characters) are arguably the hardest part of Japanese."
+  },
+  {
+    "type": "mc",
+    "prompt": "下さい:",
+    "options": ["please", "thank you", "you're welcome", "excuse me"],
+    "answer": "please"
+  },
+  {
+    "type": "t",
+    "prompt": "水下さい：",
+    "options": ["water", "please", "thank", "you", "juice", "yes"],
+    "answer": ["water", "please"]
+  },
+  {
+    "type": "intro",
+    "prompt": "はい<span class=\"romanization\"> (Hai)</span> - yes",
+    "options": ["はい"]
+  },
+  {
+    "type": "t",
+    "prompt": "はい、水下さい。",
+    "options": ["water", "please", "thank", "juice", "yes", "me"],
+    "answer": ["yes", "water", "please"]
+  },
+  {
+    "type": "intro",
+    "prompt": "<ruby>ジュース<rt>じゅうす</rt></ruby><span class=\"romanization\"> (Jūsu)</span> - juice",
+    "options": ["ジュース"]
+  },
+  {
+    "type": "mc",
+    "prompt": "yes",
+    "options": ["ない", "はい", "ジュース", "下さい"],
+    "answer": "はい"
+  },
+  {
+    "type": "t",
+    "prompt": "はいはい",
+    "options": ["yes", "yes", "juice", "water"],
+    "answer": ["yes", "yes"]
+  },
+  {
+    "type": "t",
+    "prompt": "ジュース下さい：",
+    "options": ["water", "please", "thank", "you", "juice", "yes"],
+    "answer": ["juice", "please"]
+  },
+  {
+    "type": "intro",
+    "prompt": "<ruby>注文<rt>ちゅうもん</rt></ruby><span class=\"romanization\"> (Chūmon)</span> - order (like at a restaurant, for instance)",
+    "options": ["注文"]
+  },
+  {
+    "type": "mc",
+    "prompt": "order:",
+    "options": ["注文", "往文", "汪文", "注立", "注又", "往立"],
+    "answer": "注文"
+  },
+  {
+    "type": "intro",
+    "prompt": "\"Xは\"<span class=\"romanization\"> (X wa)</span> more or less means \"as for X,\"",
+    "options": ["は"]
+  },
+  {
+    "type": "t",
+    "pretext": "Japanese is a super vague language. For the following example, assume that \"注文\" is meant to mean \"your order.\"",
+    "prompt": "注文は：",
+    "options": ["as for", "your order"],
+    "answer": ["as for", "your order"]
+  },
+  {
+    "type": "storyintro",
+    "prompt": "<h1>Story: Pretend Café</h1><p>click next</p>"
+  },
+  {
+    "type": "story",
+    "pretext": "You and your friend are both 5 years old. You two are pretending to be in a café. The \"waitress\" is going from table to table, taking orders. She gets to your table and says:",
+    "prompt": "注文は？",
+    "options": ["水下さい", "ジュース下さい"]
+  },
+  {
+    "type": "storyoutro",
+    "prompt": "A little while later, you are given your order."
+  },
+  {
+    "type": "outro",
+    "prompt": "<p>Congratulations on finishing your first lesson!</p><p>If you would like to give any feedback, please contact physalismedia@gmail.com. Expect a short response within a couple days.</p><p>I believe that the most important part of learning a language is to show up and put time in. As such, you will be sent rather persistent reminders to learn every day. After 3 days of inactivity, I will assume you have given up completely and will stop sending reminders. Despite the fact that I do it for fun, learning a language is difficult, a lot of work, and tedious. Understand that it is something you do despite the pain.</p><p>-Owen</p>"
+  },
+  {
+    "type": "survey",
+    "prompt": "<p>Completely optional, but promise to yourself to learn for at least two weeks. After that point, you should be in the habit and it gets easier. You do not lose out on any features on this platform by saying no. Technically, it's just a survey question.</p><p>Beyond that, see you tomorrow for the next lesson.</p>",
+    "options": ["I promise.", "I do not promise."]
+  },
+  {
+    "type": "requiresignin",
+    "prompt": "<p>Please create an account before going forward.</p><p>You click the \"login/logout\" button to make a tray appear, then you can create an account there.</p><p>You can just hit \"sign in with google\" if you don't want to have to remember a password.</p><p>I will be holding onto the \"Next\" button until you are logged in.</p>"
+  },
+  {
+    "type": "newcards",
+    "cards": ["水", "下さい", "はい", "ジュース", "注文", "は"]
+  }
+]

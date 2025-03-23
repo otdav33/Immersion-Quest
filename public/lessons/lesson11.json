@@ -1,0 +1,51 @@
+[
+{"type": "preloadsounds", "sounds": ["わ", "を", "ん"]},
+  {
+    "type": "mc",
+    "pretext": "The next consonant is “W,” which is only paired with two vowels, “a” and “o.” “Wa” and “Wo”.",
+    "options": ["Wa - わ", "Wo - を"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Wa” is written as “わ.” Its character is similar to “Re” (れ) but instead of curving outwards, it curves inwards. It kinda looks like a sWAn, which you can use to help you remember the character. </p><img src='img/mnemonics/Hiragana/W and N/wa_mnemonics.jpg'>",
+    "options": ["Wa - わ"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “わ” below:</p><img src='img/hiragana/wa.png'>",
+	"tracing": ["わ1", "わ2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Wa",
+    "options": ["れ", "る", "り", "わ"],
+    "answer": "わ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Wo” is represented by the character “を.” Think of it as a stick man WAlking over a really low “c”. </p><img src='img/mnemonics/Hiragana/W and N/wo_mnemonics.jpg'>",
+    "options": ["Wo - を"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “を” below:</p><img src='img/hiragana/wo.png'>",
+	"tracing": ["を1", "を2", "を3"]
+  },
+  {"type": "mc", "prompt": "Wo", "options": ["ろ", "を", "り", "や", "を"], "answer":"を"},
+  {
+    "type": "mc",
+    "prompt": "The last letter of this lesson is simply the consonant “N”. It’s represented by the character “ん.” It’s easy to remember its character as it already looks like the small letter “n”, only with a slightly longer upper tip. </p><img src='img/mnemonics/Hiragana/W and N/n_mnemonics.jpg'>",
+    "options": ["N - ん"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “ん” below:</p><img src='img/hiragana/n.png'>",
+	"tracing": ["ん1"]
+  },
+  {"type": "mc", "prompt": "N", "options": ["ん", "う", "お", "れ"], "answer": "ん"},
+  {
+    "type": "mc",
+    "prompt": "Those were the last consonant-vowel combinations in hiragana! To recap:",
+    "options": ["Wa - わ", "Wo - を", "N - ん"]
+  }
+]

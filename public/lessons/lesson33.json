@@ -1,0 +1,104 @@
+[
+{"type": "preloadsounds", "sounds": ["カ", "キ", "ク", "ケ", "コ", "カク"]},
+  {
+    "type": "intro",
+    "pretext": "Let’s move onto the “K” sounds in katakana. ",
+    "options": ["Ka – カ", "Ki – キ", "Ku – ク", "Ke – ケ", "Ko – コ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ka” is written as “カ.” It’s similar to the hiragana character of “Ka” (か). </p><img src='img/mnemonics/Katakana/K/ka_katakana.jpg'>",
+    "options": ["Ka – カ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “カ” below:",
+	"tracing": ["カ1", "カ2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ka",
+    "options": ["コ", "カ", "か", "ケ"],
+    "answer": "カ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ki” is written as “キ.” It looks like its hiragana counterpart “Ki” (き) except without the small curve at the end. </p><img src='img/mnemonics/Katakana/K/ki_katakana.jpg'>",
+    "options": ["Ki – キ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “キ” below:",
+	"tracing": ["キ1", "キ2", "キ3"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ki",
+    "options": ["き", "キ", "カ", "ケ"],
+    "answer": "キ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ku” is written as “ク.” It looks like a “COO”k’s hat. </p><img src='img/mnemonics/Katakana/K/ku_katakana.jpg'>",
+    "options": ["Ku – ク"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ク” below:",
+	"tracing": ["ク1", "ク2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ku ",
+    "options": ["カ", "ケ", "ク", "コ"],
+    "answer": "ク"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ke” is written as “ケ.” It already looks like the capital letter “K.” This can help you remember the character. </p><img src='img/mnemonics/Katakana/K/ke_katakana.jpg'>",
+    "options": ["Ke – ケ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ケ” below:",
+	"tracing": ["ケ1", "ケ2", "ケ3"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ke",
+    "options": ["ケ", "ク", "カ", "キ"],
+    "answer": "ケ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ko” is written as “コ.” It looks like a boxing glove, something a boxer would use to K.O someone. </p><img src='img/mnemonics/Katakana/K/ko_katakana.jpg'>",
+    "options": ["Ko – コ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “コ” below:",
+	"tracing": ["コ1", "コ2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ko",
+    "options": ["カ", "コ", "ケ", "ク"],
+    "answer": "コ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the katakana characters for the “K” consonant syllables in Japanese! To recap:",
+    "options": ["Ka – カ", "Ki – キ", "Ku – ク", "Ke – ケ", "Ko – コ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s see how these characters are used in a Japanese word. “Kaku” means “write.” In katakana, it is written as “カク”.",
+    "options": ["Kaku – カク"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Kaku",
+    "options": ["ココ", "ネコ", "カク", "カオ"],
+    "answer": "カク"
+  }
+]

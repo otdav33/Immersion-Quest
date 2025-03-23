@@ -1,0 +1,19 @@
+[
+{"type": "mc", "prompt": "water:", "options": ["水", "永", "氷", "求", "沓", "本"], "answer": "水"},
+{"type": "mc", "prompt": "please:", "options": ["下さい", "上さい", "下ざぃ", "与える"], "answer": "下さい"},
+{"type": "t", "prompt": "juice, please:", "options": ["水", "ある", "下さい", "りんご", "ジュース", "注文"], "answer": ["ジュース", "下さい"]},
+{"type": "mc", "prompt": "yes", "options": ["ない", "はい", "ジュース", "下さい"], "answer": "はい"},
+{"type": "t", "prompt": "the order is juice:", "options": ["注文", "は", "水", "下さい", "ジュース"], "answer": ["注文", "は", "ジュース"]},
+{"type": "t", "pretext": "、 is just a comma in Japanese", "prompt": "はい、注文は水：", "options": ["the", "yes", "order", "is", "apple", "juice", "water", "please"], "answer": ["yes", "the", "order", "is", "water"]},
+{"type": "intro", "prompt": "これ - this", "options": ["これ"]},
+{"type": "t", "prompt": "this is an apple:", "options": ["注文", "は", "りんご", "下さい", "これ"], "answer": ["これ", "は", "りんご"]},
+{"type": "t", "prompt": "りんごはある：", "options": ["apples", "exist", "please", "yes"], "answer": ["apples", "exist"]},
+{"type": "t", "prompt": "I drink juice: ", "options": ["水", "は", "りんご", "飲む", "ジュース"], "answer": ["ジュース", "は", "飲む"]},
+{"type": "storyintro", "prompt": "<h1>Story 2: In the Café 2</h1>"},
+{"type": "story", "pretext": "You are in the same café as last time.", "prompt": "注文は？", "options": ["水下さい"]},
+{"type": "t", "pretext": "A little while later, you are given juice by mistake. Explain that you were given the wrong order.", "options": ["これ", "は", "ジュース", "注文", "は", "水"], "answer": ["これ", "は", "ジュース", "注文", "は", "水"]},
+{"type": "storyoutro", "prompt": "A little while later, you are given the correct order and an apology. Note: If you said this in real life, you would sound like you were 4 years old. Before long, you will surpass the Japanese knowledge of even the most well-spoken 5 year old."},
+{"type": "newcards", "cards": ["これ"]},
+{"type": "cardpractice"},
+{"type": "outro", "prompt": "At this point, you should have a pretty good feel for the nature of this language learning app. Feel free to leave a 5-star review. If it is not 5 stars, send me a detailed email at physalismedia@gmail.com so that I can make things right and provide the best experience going forward. See you next lesson."}
+]

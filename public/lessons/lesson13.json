@@ -1,0 +1,126 @@
+[
+  {
+    "type": "intro",
+    "pretext": "You’ve made it through the basic characters in hiragana! Congratulations! Let’s test how much you’ve retained. This time, there won’t be any recaps. But don’t worry! You don’t have to take this test until you feel like you’re ready. You can skip this test and proceed to the next lesson."
+  },
+  {"type": "mc", "prompt": "a", "options": ["お", "い", "あ", "え"], "answer": "あ"},
+  {"type": "mc", "prompt": "o", "options": ["い", "お", "え", "あ"], "answer": "お"},
+  {"type": "mc", "prompt": "i", "options": ["い", "え", "あ", "う"], "answer": "い"},
+  {"type": "mc", "prompt": "e", "options": ["う", "い", "お", "え"], "answer": "え"},
+  {"type": "mc", "prompt": "u", "options": ["あ", "い", "う", "お"], "answer": "う"},
+  {
+    "type": "mc",
+    "prompt": "Ka and Ta",
+    "options": ["と and も", "か and こ", "かand た", "て and と"],
+    "answer": "かand た"
+  },
+  {
+    "type": "mc",
+    "prompt": "Sa and ha",
+    "options": ["ほ and ふ", "さ and は", "せ and そ", "し and み"],
+    "answer": "さ and は"
+  },
+  {
+    "type": "mc",
+    "prompt": "Shi and Chi",
+    "options": ["し and き", "ひ and へ", "む and め", "し and ち"],
+    "answer": "し and ち"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ma and Mu",
+    "options": ["も and め", "は and や", "ま and む", "ら and ち"],
+    "answer": "ま and む"
+  },
+  {
+    "type": "mc",
+    "prompt": "Mo and No",
+    "options": ["よ and ま", "も and の", "ゆ and る", "ち and た"],
+    "answer": "も and の"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ku and Tsu",
+    "options": ["か and た", "な and に", "く and つ", "くand す"],
+    "answer": "く and つ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Hu and Me",
+    "options": ["ふ and め", "め and ほ", "ま and や", "ら and り"],
+    "answer": "ふ and め"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ya and Yo",
+    "options": ["ゆ and や", "や and よ", "れ andろ", "さ and そ"],
+    "answer": "や and よ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ra and Ri",
+    "options": ["ら and ち", "す andつ", "て and ん", "ら andり"],
+    "answer": "ら andり"
+  },
+  {
+    "type": "mc",
+    "prompt": "Wa and O",
+    "options": ["わ and こ", "せ and ね", "わ and を", "も and る"],
+    "answer": "わ and を"
+  },
+  {"type": "mc", "prompt": "N", "options": ["お", "い", "ん", "あ"], "answer": "ん"},
+  {
+    "type": "mc",
+    "prompt": "Ai (love)",
+    "options": ["あい", "いえ", "おい", "ひと"],
+    "answer": "あい"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ie (House)",
+    "options": ["おい", "あい", "いえ", "ゆめ"],
+    "answer": "いえ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Nani (What)",
+    "options": ["つち", "すひ", "ひと", "なに"],
+    "answer": "なに"
+  },
+  {
+    "type": "mc",
+    "prompt": "Hito (People)",
+    "options": ["まち", "ひと", "ゆめ", "すし"],
+    "answer": "ひと"
+  },
+  {
+    "type": "mc",
+    "prompt": "Yume (dream)",
+    "options": ["ゆめ", "つち", "あい", "おい"],
+    "answer": "ゆめ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Sushi",
+    "options": ["つち", "まち", "すし", "なに"],
+    "answer": "すし"
+  },
+  {
+    "type": "mc",
+    "prompt": "Kuruma (car)",
+    "options": ["かたかな", "くるま", "かせき", "ひらがな"],
+    "answer": "くるま"
+  },
+  {
+    "type": "mc",
+    "prompt": "tsuchi (soil)",
+    "options": ["まち", "つち", "すし", "ゆめ"],
+    "answer": "つち"
+  },
+  {
+    "type": "mc",
+    "prompt": "Machi (town)",
+    "options": ["すし", "つち", "ひと", "まち"],
+    "answer": "まち"
+  }
+]

@@ -1,0 +1,104 @@
+[
+{"type": "preloadsounds", "sounds": ["マ", "ミ", "ム", "メ", "モ", "マチ"]},
+  {
+    "type": "intro",
+    "pretext": "The “M” sounds in katakana are:",
+    "options": ["Ma – マ", "Mi – ミ", "Mu – ム", "Me – メ", "Mo – モ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ma” is written as “マ.” Think of a Marker drawing a “T” that has fallen on its side. </p><img src='img/mnemonics/Katakana/M/ma_katakana.jpg'>",
+    "options": ["Ma – マ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “マ” below:",
+	"tracing": ["マ1", "マ2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ma",
+    "options": ["モ", "マ", "メ", "ム"],
+    "answer": "マ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Mi” is written as “ミ.” You can remember this by picturing lines on a MIll. </p><img src='img/mnemonics/Katakana/M/mi_katakana.jpg'>",
+    "options": ["Mi – ミ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ミ” below:",
+	"tracing": ["ミ1", "ミ2", "ミ3"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Mi",
+    "options": ["マ", "モ", "ム", "ミ"],
+    "answer": "ミ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Mu” is written as “ム.” Think of it as part of an antler of a MOOse. </p><img src='img/mnemonics/Katakana/M/mu_katakana.jpg'>",
+    "options": ["Mu – ム"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ム” below:",
+	"tracing": ["ム1", "ム2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Mu",
+    "options": ["マ", "ム", "メ", "ミ"],
+    "answer": "ム"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Me” is written as “メ.” You can look at it as two rulers used to MEasure something forming an “X”. </p><img src='img/mnemonics/Katakana/M/me_katakana.jpg'>",
+    "options": ["Me – メ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “メ” below:",
+	"tracing": ["メ1", "メ2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Me",
+    "options": ["ム", "モ", "メ", "マ"],
+    "answer": "メ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Mo” is written as “モ.” This one should be easy to remember as it already looks like its hiragana counterpart “Mo” (も), only a lot sharper and straighter. </p><img src='img/mnemonics/Katakana/M/mo_katakana.jpg'>",
+    "options": ["Mo – モ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “モ” below:",
+	"tracing": ["モ1", "モ2", "モ3"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Mo",
+    "options": ["マ", "モ", "メ", "ム"],
+    "answer": "モ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the katakana characters of the “M” sounds in Japanese. To recap:",
+    "options": ["Ma – マ", "Mi – ミ", "Mu – ム", "Me – メ", "Mo – も"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Machi” means “town.” In katakana, it is written as “マチ”.",
+    "options": ["Machi – マチ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Machi",
+    "options": ["モチ", "トリ", "マチ", "カク"],
+    "answer": "マチ"
+  }
+]

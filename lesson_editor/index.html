@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Lesson Editor</title>
+    <link rel="stylesheet" href="style.css" />
+    <script defer src="main.js"></script>
+  </head>
+  <body>
+    <div class="flex-down">
+      <h3>Lesson Editor</h3>
+
+      <div id="formContainer" class="tray">
+      </div>
+      <div class="flex-grow">
+        <button id="addExerciseButton" onclick="addExercise()">+</button>
+      </div>
+
+      <div id="bottombar" class="bottombar">
+        <div class="bottombarcontainer">
+          <textarea class="feedback" id="messageArea">Output will appear here.</textarea>
+          <button id="generateButton" onclick="generate()">Generate</button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

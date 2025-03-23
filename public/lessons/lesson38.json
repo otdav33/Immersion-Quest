@@ -1,0 +1,104 @@
+[
+{"type": "preloadsounds", "sounds": ["ハ", "ヒ", "フ", "ヘ", "ホ", "ヒト"]},
+  {
+    "type": "intro",
+    "pretext": "The “H” sound in katakana are represented by the characters:",
+    "options": ["Ha – ハ", "Hi – ヒ", "Hu – フ", "He – ヘ", "Ho – ホ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ha” is written as “ハ.” It has a triangular shape to it, similar to a witch’s HAt. </p><img src='img/mnemonics/Katakana/H/ha_katakana.jpg'>",
+    "options": ["Ha – ハ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ハ” below:",
+	"tracing": ["ハ1", "ハ2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ha",
+    "options": ["ホ", "ハ", "ヒ", "フ"],
+    "answer": "ハ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Hi” is written as “ヒ.” It looks like the letter “Y” but if it broke its HIp. </p><img src='img/mnemonics/Katakana/H/hi_katakana.jpg'>",
+    "options": ["Hi – ヒ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ヒ” below:",
+	"tracing": ["ヒ1", "ヒ2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Hi",
+    "options": ["ハ", "フ", "ヒ", "ホ"],
+    "answer": "ヒ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Hu” is written as “フ.” Just like the hiragana character, this can sometimes be spelled as “Fu” in romaji. You can think of it as a pair of tongs, used to pick up FOOd. </p><img src='img/mnemonics/Katakana/H/fu_katakana.jpg'>",
+    "options": ["Hu – フ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “フ” below:",
+	"tracing": ["フ1"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Hu",
+    "options": ["ヒ", "フ", "ハ", "ヘ"],
+    "answer": "フ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“He” is written as “ヘ.” This one is easy to remember if you’ve already memorized the hiragana characters since this one looks like its hiragana counterpart “He” (へ). </p><img src='img/mnemonics/Katakana/H/he_katakana.jpg'>",
+    "options": ["He – ヘ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ヘ” below:",
+	"tracing": ["ヘ1"]
+  },
+  {
+    "type": "mc",
+    "prompt": "He",
+    "options": ["ハ", "ヒ", "ホ", "ヘ"],
+    "answer": "ヘ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ho” is written as “ホ.” You can remember its character by thinking of a HOly cross. </p><img src='img/mnemonics/Katakana/H/ho_katakana.jpg'>",
+    "options": ["Ho – ホ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ホ” below:",
+	"tracing": ["ホ1", "ホ2", "ホ3", "ホ4"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ho",
+    "options": ["ヒ", "ホ", "フ", "ハ"],
+    "answer": "ホ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the katakana characters for the “H” consonant sounds in Japanese. Let’s review:",
+    "options": ["Ha – ハ", "Hi – ヒ", "Hu – フ", "He – ヘ", "Ho – ホ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Hito” means “people” in Japanese. It is written in katakana as “ヒト”.",
+    "options": ["Hito – ヒト"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Hito",
+    "options": ["ヒト", "ネコ", "ツチ", "スシ"],
+    "answer": "ヒト"
+  }
+]

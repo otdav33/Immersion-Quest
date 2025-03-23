@@ -1,0 +1,108 @@
+[
+{"type": "preloadsounds", "sounds": ["た", "ち", "つ", "て", "と", "つち"]},
+  {
+    "type": "mc",
+    "pretext": "Now that you’ve learned vowels, as well as the consonant-vowel combinations of “K” and “S”, let’s proceed to “T”.",
+    "options": ["Ta - た", "Chi - ち", "Tsu - つ", "Te - て", "To - と"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ta” is written as “た”. The character itself already looks like the word “Ta” which makes it a lot easier to remember. </p><img src='img/mnemonics/Hiragana/T/ta_mnemonics.jpg'>",
+    "options": ["Ta - た"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “た” below:</p><img src='img/hiragana/ta.png'>",
+	"tracing": ["た1", "た2", "た3", "た4"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ta",
+    "options": ["た", "つ", "と", "ち"],
+    "answer": "た"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Chi,” which technically doesn’t have a “T,” is grouped in with the consonant-vowel combinations “T”. Similar to “S” where there is no “Si” sound, “T” has no “Ti” sound. “Chi” is written as “ち”. It looks like the number “5”. </p><img src='img/mnemonics/Hiragana/T/chi_mnemonics.jpg'>",
+    "options": ["Chi - ち"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “ち” below:</p><img src='img/hiragana/chi.png'>",
+	"tracing": ["ち1", "ち2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Chi",
+    "options": ["つ", "ち", "て", "と"],
+    "answer": "ち"
+  },
+  {
+    "type": "mc",
+    "prompt": "Unlike the other hiragana letters, “tsu” is its own sound. Its sound is similar to that of blowing on the opening of a bottle. It is represented by the character “つ,” which looks like the tip of a shoe. </p><img src='img/mnemonics/Hiragana/T/tsu_mnemonics.jpg'>",
+    "options": ["Tsu - つ"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “つ” below:</p><img src='img/hiragana/tsu.png'>",
+	"tracing": ["つ1"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Tsu",
+    "options": ["つ", "て", "と", "た"],
+    "answer": "つ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Te” is written as “て”. The word “Te” also means “Hand” in Japanese. If you look at the palm of your hand, you’ll see that the creases resemble the character of “Te”. </p><img src='img/mnemonics/Hiragana/T/te_mnemonics.jpg'>",
+    "options": ["Te - て"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “て” below:</p><img src='img/hiragana/te.png'>",
+	"tracing": ["て1"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Te",
+    "options": ["た", "て", "つ", "と"],
+    "answer": "て"
+  },
+  {
+    "type": "mc",
+    "prompt": "“To” is represented by the character “と”. It looks like the letter “Y” if it was getting ready to jump. You can also think of a TOad to remember the character. </p><img src='img/mnemonics/Hiragana/T/to_mnemonics.jpg'>",
+    "options": ["To - と"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “と” below:</p><img src='img/hiragana/to.png'>",
+	"tracing": ["と1", "と2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "To",
+    "options": ["ち", "と", "つ", "た"],
+    "answer": "と"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the “T” consonant and vowel combinations in hiragana. To recap:",
+    "options": ["Ta - た", "Chi - ち", "Tsu - つ", "Te - て", "To - と"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s learn a couple of words using the consonant-vowels of “T”. Remember, you don’t have to memorize the meaning of these words. This is just so you can recognize the characters being used."
+  },
+  {
+    "type": "mc",
+    "prompt": "“Tsuchi” means “Soil” and is written as “つち”.",
+    "options": ["Tsuchi - つち"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Soil",
+    "options": ["ちつ", "つち", "ちち"],
+    "answer": "つち"
+  }
+]

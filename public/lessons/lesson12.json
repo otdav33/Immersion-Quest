@@ -1,0 +1,81 @@
+[
+  {
+    "type": "mc",
+    "pretext": "That was a lot. You deserve another break! And by break, you get a bunch of questions reviewing what you’ve learned."
+  },
+  {"type": "mc", "prompt": "Y", "options": ["Ya - や", "Yu - ゆ", "Yo - よ"]},
+  {
+    "type": "mc",
+    "prompt": "R",
+    "options": ["Ra - ら", "Ri - り", "Ru - る", "Re - れ", "Ro - ろ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "W and N",
+    "options": ["Wa - わ", "Wo - を", "N - ん"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Yo",
+    "options": ["よ", "ゆ", "わ", "る"],
+    "answer": "よ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ya and Yu",
+    "options": ["や and ゆ", "や and よ", "よ and  ゆ"],
+    "answer": "や and ゆ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ra and Re",
+    "options": ["ら and れ", "る and り", "ら and ろ"],
+    "answer": "ら and れ"
+  },
+  {
+    "type": "mc",
+    "prompt": "る",
+    "options": ["Ru", "Ro", "Ra", "Ri"],
+    "answer": "Ru"
+  },
+  {
+    "type": "mc",
+    "prompt": "ろ",
+    "options": ["Ra", "Ro", "Ri", "Ru"],
+    "answer": "Ro"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ri",
+    "options": ["れ", "わ", "ら", "り"],
+    "answer": "り"
+  },
+  {
+    "type": "mc",
+    "prompt": "Wa",
+    "options": ["れ", "わ", "を", "ん"],
+    "answer": "わ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Wo",
+    "options": ["や", "ゆ", "を", "む"],
+    "answer": "を"
+  },
+  {
+    "type": "mc",
+    "prompt": "nn",
+    "options": ["ええ", "いい", "へへ", "んん"],
+    "answer": "んん"
+  },
+  {
+    "type": "mc",
+    "prompt": "RISU",
+    "options": ["りす", "ねこ", "いぬ"],
+    "answer": "りす"
+  },
+  {
+    "type": "outro",
+    "prompt": "You did it! You learned the basic consonant-vowel combinations in hiragana as well as how to say and write them. Have a bunch of cookies!"
+  }
+]

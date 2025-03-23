@@ -1,0 +1,126 @@
+[
+  {
+    "type": "intro",
+    "pretext": "You’ve learned the basic characters of katakana! Well done! Take this test to see how much information you’ve retained. If you feel like you’re not ready, you can skip this and come back later!"
+  },
+  {"type": "mc", "prompt": "e", "options": ["エ", "イ", "オ", "ア"], "answer": "エ"},
+  {"type": "mc", "prompt": "a", "options": ["オ", "エ", "イ", "ア"], "answer": "ア"},
+  {"type": "mc", "prompt": "u", "options": ["オ", "ウ", "エ", "ア"], "answer": "ウ"},
+  {"type": "mc", "prompt": "o", "options": ["ア", "オ", "エ", "イ"], "answer": "オ"},
+  {"type": "mc", "prompt": "i", "options": ["ア", "オ", "イ", "エ"], "answer": "イ"},
+  {
+    "type": "mc",
+    "prompt": "Shi and Chi　",
+    "options": ["サ and チ", "テ and ト", "シ and チ", "ソ and シ"],
+    "answer": "シ and チ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Sa and Ha",
+    "options": ["モ and ノ", "サ and ハ", "ハ and ヒ", "シ and ソ"],
+    "answer": "サ and ハ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ka and Ta",
+    "options": ["コ and ト", "ツ and ス", "セ and ク", "カ and タ"],
+    "answer": "カ and タ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ma and Mu",
+    "options": ["メ and モ", "モ and ム", "マ and ム", "マ and モ"],
+    "answer": "マ and ム"
+  },
+  {
+    "type": "mc",
+    "prompt": "Mo and No",
+    "options": ["サ and ハ", "モ and ノ", "ラ and リ", "カ and ク"],
+    "answer": "モ and ノ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ku and Tsu",
+    "options": ["コ and セ", "チ and シ", "ク and ツ", "タand コ"],
+    "answer": "ク and ツ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Hu and Me",
+    "options": ["フ and メ", "マ and ミ", "ム and ツ", "ナ and ツ"],
+    "answer": "フ and メ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ya and Yo",
+    "options": ["フ and ハ", "ヤ and ヨ", "ワ andヲ", "ユ and ヤ"],
+    "answer": "ヤ and ヨ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ra and Ri",
+    "options": ["リ and キ", "ラ andト", "ハ and ホ", "ラ andリ"],
+    "answer": "ラ andリ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Wa and Wo",
+    "options": ["ヲ and ワ", "ノ and コ", "ワ and ヲ", "シ and セ"],
+    "answer": "ワ and ヲ"
+  },
+  {"type": "mc", "prompt": "N", "options": ["マ", "オ", "ン", "ア"], "answer": "ン"},
+  {
+    "type": "mc",
+    "prompt": "Katakana",
+    "options": ["カタカナ", "ヒラガナ", "バナナ", "ナカマ"],
+    "answer": "カタカナ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ai",
+    "options": ["オイ", "イエ", "アイ", "エイ"],
+    "answer": "アイ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Hito",
+    "options": ["ネコ", "カク", "マチ", "ヒト"],
+    "answer": "ヒト"
+  },
+  {
+    "type": "mc",
+    "prompt": "Yume",
+    "options": ["トリ", "ユメ", "ネコ", "ヒト"],
+    "answer": "ユメ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Neko",
+    "options": ["ネコ", "ユメ", "スシ", "カク"],
+    "answer": "ネコ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Kaku",
+    "options": ["トリ", "カク", "マチ", "スシ"],
+    "answer": "カク"
+  },
+  {
+    "type": "mc",
+    "prompt": "Sushi",
+    "options": ["ツチ", "ヒト", "スシ", "ユメ"],
+    "answer": "スシ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Machi",
+    "options": ["ヒト", "マチ", "スシ", "トリ"],
+    "answer": "マチ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Machi",
+    "options": ["スシ", "ユメ", "ヒト", "ツチ"],
+    "answer": "ツチ"
+  }
+]

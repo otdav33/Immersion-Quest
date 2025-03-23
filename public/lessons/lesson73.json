@@ -1,0 +1,125 @@
+[
+  {
+    "type": "intro",
+    "pretext": "\"です\" means \"is,\" but unlike \"だ,\" it can be used with \"か\" and such. \"です\" is also more formal. Textbooks will tell you that it is \"keigo,\" but I will assume you are here to learn Japanese and not to study it. If you want to study it, you can do that once you can speak it (and it will be easier, too).",
+    "prompt": "です - is (more formal)",
+    "options": ["です"]
+  },
+  {
+    "type": "t",
+    "prompt": "りんごです。",
+    "options": ["apples", "these", "are", "oranges"],
+    "answer": ["these", "are", "apples"]
+  },
+  {
+    "type": "t",
+    "pretext": "Note (you'll figure things out even if you don't read this): In terms of level of formality, you usually use words like \"です\" when the person you are talking to is unknown to you, when writing a formal letter, etc. You don't generally use it with your friends. \"Could you use slang in this situation\" is a good test. Also, only the last verb in a sentence needs to be the formal version to make the whole sentence formal (\"です\" is a verb meaning \"to be\").",
+    "prompt": "This is an orange.",
+    "options": [
+      "オレンジ",
+      "<ruby class=\"required\">です<rt>required</rt></ruby>",
+      "は",
+      "<ruby class=\"required\">これ<rt>required</rt></ruby>",
+      "水"
+    ],
+    "answer": [
+      "<ruby class=\"required\">これ<rt>required</rt></ruby>",
+      "は",
+      "オレンジ",
+      "<ruby class=\"required\">です<rt>required</rt></ruby>"
+    ]
+  },
+  {
+    "type": "t",
+    "prompt": "りんごですか？",
+    "options": ["apples", "these", "are"],
+    "answer": ["are", "these", "apples"]
+  },
+  {
+    "type": "intro",
+    "pretext": "This character is easy to remember because it is <b>ONE</b> line. It looks exactly like a dash, but it doesn't get confusing.",
+    "prompt": "<ruby>一<rt>いち</rt></ruby> - one",
+    "options": ["一"]
+  },
+  {
+    "type": "mc",
+    "prompt": "one:",
+    "options": ["艹", "一", "二", "三", "上"],
+    "answer": "一"
+  },
+  {
+    "type": "intro",
+    "pretext": "There is a word for \"to like\" in Japanese, but it is very rarely used. Instead, Japanese people will use the word \"好き\" (an adjective) to talk about things they like.",
+    "prompt": "<p><ruby>好き<rt>すき</rt></ruby> (sometimes pronounced \"ski\", other times exactly like it's spelled) - liked</p><p>The character 好 is a combination of 女 (woman) and 子 (child) because mothers love their children (or at least are supposed to).</p>",
+    "options": ["好き"]
+  },
+  {
+    "type": "t",
+    "pretext": "<p>Literally \"I am an orange enjoyer\" or \"As for me, oranges are liked\" depending on how you think about it.</p><p>Note: Keep in mind that people would only say this example in very casual settings. \"私はオレンジが好き\" is a more grammatically standard way of saying it, and we will get to the \"が\" particle later. You could also omit \"私は\" if it is clear that you are talking about yourself.</p>",
+    "prompt": "私はオレンジ好き",
+    "options": ["I", "like", "oranges"],
+    "answer": ["I", "like", "oranges"]
+  },
+  {
+    "type": "t",
+    "prompt": "I like apples",
+    "options": ["好き", "りんご", "オレンジ", "下さい"],
+    "answer": ["りんご", "好き"]
+  },
+  {
+    "type": "t",
+    "prompt": "これ、好き",
+    "options": ["this", "I", "is", "not", "like", "core", "apples"],
+    "answer": ["I", "like", "this"]
+  },
+  {
+    "type": "intro",
+    "prompt": "<ruby>一番<rt>いちばん</rt></ruby> - best/#1/upmost/first",
+    "options": ["一番"]
+  },
+  {
+    "type": "t",
+    "pretext": "I personally think that apples are just OK.",
+    "prompt": "Apples are #1!",
+    "options": ["一番", "りんご", "は"],
+    "answer": ["りんご", "は", "一番"]
+  },
+  {
+    "type": "mc",
+    "prompt": "一番好き",
+    "options": ["favorite", "apple", "orange", "drink"],
+    "answer": "favorite"
+  },
+  {
+    "type": "t",
+    "prompt": "オレンジ、一番好きです",
+    "options": ["oranges", "are", "my", "favorite", "is"],
+    "answer": ["oranges", "are", "my", "favorite"]
+  },
+  {
+    "type": "t",
+    "prompt": "Apples are my favorite",
+    "options": ["好き", "りんご", "一番", "オレンジ", "じゃない"]
+  },
+  {
+    "type": "t",
+    "prompt": "I don't like water",
+    "options": ["りんご", "水", "じゃない", "好き", "何"],
+    "answer": ["水", "好き", "じゃない"]
+  },
+  {"type": "storyintro", "prompt": "<h1>Story 4: Farm Tour</h1>"},
+  {
+    "type": "story",
+    "pretext": "You are on a farm tour. The farmer is showing you around his orchard.",
+    "prompt": "🍎<br>これはりんごです"
+  },
+  {"type": "story", "prompt": "🍊<br>これはオレンジです"},
+  {"type": "story", "prompt": "He shows you an irrigation line.<br>これは水です"},
+  {"type": "survey", "prompt": "一番好きは何ですか？", "options": ["りんご", "オレンジ", "水"]},
+  {
+    "type": "storyoutro",
+    "prompt": "The farmer allows you to consume it directly."
+  },
+  {"type": "newcards", "cards": ["です", "一", "好き", "一番"]},
+  {"type": "cardpractice"}
+]

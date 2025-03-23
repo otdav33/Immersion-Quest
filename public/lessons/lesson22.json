@@ -1,0 +1,77 @@
+[
+{"type": "preloadsounds", "sounds": ["きゃ", "きゅ", "きょ", "しゃ", "しゅ", "しょ"]},
+  {
+    "type": "intro",
+    "pretext": "In hiragana, the consonant-vowel combinations “Ya,” “Yu,” and “Yo,” have a small version that can be combined with the “i” vowel sound of each consonant. This removes the “i” and is replaced by “ya,” “yu,” or “yo.”"
+  },
+  {
+    "type": "mc",
+    "prompt": "When you add the small “や,” “ゆ,” and “よ” next to the “i” vowels in “K” sounds, they become “Kya,” “Kyu,” and “Kyo”",
+    "options": ["Kya – きゃ", "Kyu – きゅ", "Kyo – きょ"]
+  },
+  {"type": "mc", "prompt": "“Kya” is written as “きゃ”.", "options": ["Kya – きゃ"]},
+  {
+    "type": "mc",
+    "prompt": "Kya",
+    "options": ["きょ", "きゃ", "きゅ"],
+    "answer": "きゃ"
+  },
+  {"type": "mc", "prompt": "“Kyu” is written as “きゅ”.", "options": ["Kyu – きゅ"]},
+  {
+    "type": "mc",
+    "prompt": "Kyu",
+    "options": ["きゃ", "きゅ", "きょ"],
+    "answer": "きゅ"
+  },
+  {"type": "mc", "prompt": "“Kyo” is written as “きょ”.", "options": ["Kyo – きょ"]},
+  {
+    "type": "mc",
+    "prompt": "Kyo",
+    "options": ["きゅ", "きゃ", "きょ"],
+    "answer": "きょ"
+  },
+  {
+    "type": "mc",
+    "prompt": "If you take the “i” vowels from “S” sounds in hiragana and write “や,” “ゆ,” and “よ”  next to them, you get a combination of “Sha,” “Shu,” and “Sho”.",
+    "options": ["Sha – しゃ", "Shu – しゅ", "Sho – しょ"]
+  },
+  {"type": "mc", "prompt": "“Sha” is written as “しゃ”.", "options": ["Sha – しゃ"]},
+  {
+    "type": "mc",
+    "prompt": "Sha",
+    "options": ["しゃ", "しょ", "しゅ"],
+    "answer": "しゃ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Shu” is written as “しゅ”. ",
+    "options": ["Shu – しゅ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Shu",
+    "options": ["しゃ", "しょ", "しゅ"],
+    "answer": "しゅ"
+  },
+  {"type": "mc", "prompt": "“Sho” is written as “しょ”.", "options": ["Sho – しょ"]},
+  {
+    "type": "mc",
+    "prompt": "Sho",
+    "options": ["しょ", "しゃ", "しゅ"],
+    "answer": "しょ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the “K” and “S” sounds in hiragana combined with the small “や,” “ゆ,” and “よ”. To recap:"
+  },
+  {
+    "type": "mc",
+    "prompt": "K",
+    "options": ["Kya – きゃ", "Kyu – きゅ", "Kyo – きょ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "S",
+    "options": ["Sha – しゃ", "Shu – しゅ", "Sho – しょ"]
+  }
+]

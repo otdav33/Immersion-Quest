@@ -1,0 +1,84 @@
+[
+{"type": "preloadsounds", "sounds": ["が", "ぎ", "ぐ", "げ", "ご", "ひらがな"]},
+  {
+    "type": "intro",
+    "pretext": "Besides the basic consonant-vowel combinations in hiragana, markers can be added to the characters to change their sound. These markers are known as dakuten/handakuten and they are these small dots and circles added on the upper right of a basic hiragana character. Dakuten (゛) and handakuten (゜). Colloquially, dakuten is called “ten-ten” which literally means “dot-dot” or “dots”, and handakuten is known as “maru” which means “circle”. ",
+    "options": ["Dakuten - ゛", "Handakuten - ゜"]
+  },
+  {
+    "type": "mc",
+    "prompt": "In Japanese, you can turn “K” sounds into “G” sounds by adding dakuten (゛) to their characters.",
+    "options": ["Ga - が", "Gi – ぎ", "Gu – ぐ", "Ge – げ", "Go – ご"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ga” is written as “が”.",
+    "options": ["Ga - が"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ga",
+    "options": ["が", "ぎ", "ぐ", "ご"],
+    "answer": "が"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Gi” is written as “ぎ”.",
+    "options": ["Gi – ぎ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Gi",
+    "options": ["ぐ", "ご", "が", "ぎ"],
+    "answer": "ぎ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Gu” is represented by the character “ぐ”.",
+    "options": ["Gu – ぐ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Gu",
+    "options": ["が", "げ", "ぐ", "ご"],
+    "answer": "ぐ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ge” is written as “げ”.",
+    "options": ["Ge – げ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ge",
+    "options": ["ぐ", "が", "げ", "ご"],
+    "answer": "げ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Go” is written as “ご”.",
+    "options": ["Go – ご"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Go",
+    "options": ["が", "ご", "げ", "ぎ"],
+    "answer": "ご"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the “G” sounds in hiragana. To recap:",
+    "options": ["Ga - が", "Gi – ぎ", "Gu – ぐ", "Ge – げ", "Go – ご"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s learn a word that utilizes “G” sounds as well as a couple of the characters we’ve already learned. “Hi-ra-ga-na” uses the consonant-vowels “Hi” (ひ) “Ra” (ら) “Ga” (が) “Na” (な).",
+    "options": ["Hiragana － ひらがな"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Hiragana",
+    "options": ["ひらがな", "だんせい", "みず", "くちびる"],
+    "answer": "ひらがな"
+  }
+]

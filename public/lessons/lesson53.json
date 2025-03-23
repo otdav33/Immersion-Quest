@@ -1,0 +1,95 @@
+[
+{"type": "preloadsounds", "sounds": ["キャ", "キュ", "キョ", "シャ", "シュ", "ショ"]},
+  {
+    "type": "intro",
+    "pretext": "Similar to hiragana, katakana also has small versions of “Ya” (ヤ), “Yu” (ユ), and “Yo” (ヨ) which change the “i” vowel sound of the consonants when written next to them. This removes the “i” and replaces it with either “Ya” “Yu” or “Yo,” depending on the character used. "
+  },
+  {
+    "type": "mc",
+    "prompt": "When written with the small ヤ, ユ, and ヨ, the “i” vowel sounds for the consonant “K” becomes “Kya,” “Kyu,” and “Kyo”.",
+    "options": ["Kya – キャ", "Kyu – キュ", "Kyo – キョ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Kya” is written as “キャ”.",
+    "options": ["Kya – キャ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Kya",
+    "options": ["キョ", "キュ", "キャ"],
+    "answer": "キャ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Kyu” is written as “キュ”.",
+    "options": ["Kyu – キュ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Kyu",
+    "options": ["キャ", "キュ", "キョ"],
+    "answer": "キュ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Kyo” is written as “キョ”.",
+    "options": ["Kyo – キョ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Kyo ",
+    "options": ["キュ", "キョ", "キャ"],
+    "answer": "キョ"
+  },
+  {
+    "type": "mc",
+    "prompt": "If you take the “i” vowel sound from the “S” consonant in katakana and write them with “ャ,” “ュ,” and “ョ,” you get “Sha,” “Shu,” and “Sho”.",
+    "options": ["Sha – シャ", "Shu – シュ", "Sho – ショ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Sha” is written as “シャ”.",
+    "options": ["Sha – シャ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Sha",
+    "options": ["シャ", "ショ", "シュ"],
+    "answer": "シャ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Shu” is written as “シュ”.",
+    "options": ["Shu – シュ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Shu",
+    "options": ["ショ", "シャ", "シュ"],
+    "answer": "シュ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Sho” is written as “ショ”.",
+    "options": ["Sho – ショ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Sho",
+    "options": ["シュ", "ショ", "シャ"],
+    "answer": "ショ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the “i” vowel sounds of the “K” and “S” consonants combined with the small “ャ,” “ュ,” and “ョ” in katakana. To recap:",
+    "options": [
+      "Kya – キャ",
+      "Kyu – キュ",
+      "Kyo – キョ",
+      "Sha – シャ",
+      "Shu – シュ",
+      "Sho – ショ"
+    ]
+  }
+]

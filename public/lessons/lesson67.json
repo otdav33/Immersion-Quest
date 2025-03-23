@@ -1,0 +1,12 @@
+[
+{"type": "intro", "pretext": "Good job on remembering to come back. Showing up to the lessons is half the battle. I hope you have been getting the email reminder notifications if applicable. Sometimes they go to the spam folder (flag them as not spam).", "prompt": "りんご - apple", "options": ["りんご"]},
+{"type": "t", "prompt": "Apples, please：", "options": ["りんご", "下さい", "水", "ジュース"], "answer": ["りんご", "下さい"]},
+{"type": "intro", "prompt": "ある - exists (inanimate objects)", "options": ["ある"]},
+{"type": "t", "prompt": "りんごはある：", "options": ["apples", "exist", "please", "yes"], "answer": ["apples", "exist"]},
+{"type": "t", "pretext": "Hint: it's exactly the same as the last question.", "prompt": "There is an apple：", "options": ["りんご", "は", "ある"], "answer": ["りんご", "は", "ある"], "wrong-answer-text": "In informal speech, sometimes people will skip particles like \"は\". It is more correct to include them, especially for formal speech, so include it when you are supposed to, at least for the purpose of these questions."},
+{"type": "t", "pretext": "You can think of it as being \"As for water, it does exist.\"", "prompt": "water exisis：", "options": ["りんご", "ある", "は", "水", "下さい", "ジュース"], "answer": ["水", "は", "ある"]},
+{"type": "newcards", "cards": ["りんご", "ある"]},
+{"type": "outro", "prompt": "All right, that is all the new material for this lesson. What will come next is flashcard review for vocabulary, pretty much. Every time you learn a new word, you get cards, and you study them at a certain point in each lesson. There is a spaced repetition algorithm that schedules when to show you cards, and it works best if study consistently."},
+{"type": "cardpractice"},
+{"type": "outro", "prompt": "That was all the cards! Same time tomorrow?"}
+]

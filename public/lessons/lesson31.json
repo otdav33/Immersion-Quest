@@ -1,0 +1,136 @@
+[
+  {
+    "type": "intro",
+    "pretext": "You made it through the lessons about the small characters of や, ゆ, よ, and つ! You’ve also learned about the long vowel sounds in hiragana! Good job! Take this test to see how much you’ve retained. You don’t have to take the test right now. You can proceed to the next lesson and come back when you feel like you’re ready.  "
+  },
+  {
+    "type": "mc",
+    "prompt": "きゃ",
+    "options": ["Kyo", "Mya", "Nyu", "Kya"],
+    "answer": "Kya"
+  },
+  {
+    "type": "mc",
+    "prompt": "ちょ",
+    "options": ["Cho", "Cha", "Ryo", "Rya"],
+    "answer": "Cho"
+  },
+  {
+    "type": "mc",
+    "prompt": "にゅ",
+    "options": ["Jya", "Nyu", "Myo", "Mya"],
+    "answer": "Nyu"
+  },
+  {
+    "type": "mc",
+    "prompt": "ぴゅ",
+    "options": ["Pyu", "Pya", "Byu", "Byo"],
+    "answer": "Pyu"
+  },
+  {
+    "type": "mc",
+    "prompt": "ひょ",
+    "options": ["Hyu", "Gyo", "Kya", "Hyo"],
+    "answer": "Hyo"
+  },
+  {
+    "type": "mc",
+    "prompt": "しゃ",
+    "options": ["Cha", "Sha", "Rya", "Gya"],
+    "answer": "Sha"
+  },
+  {
+    "type": "mc",
+    "prompt": "じゅ",
+    "options": ["Shu", "Ryo", "Jyu", "Kya"],
+    "answer": "Jyu"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Meow”",
+    "options": ["しゃ", "にゃ", "みゃ", "きゃ"],
+    "answer": "にゃ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Cho",
+    "options": ["しょ", "ちゅ", "きょ", "ちょ"],
+    "answer": "ちょ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Gyo",
+    "options": ["ぎゃ", "きょ", "きゅ", "ぎょ"],
+    "answer": "ぎょ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Bya",
+    "options": ["びゃ", "ぴゃ", "びゅ", "ぴゅ"],
+    "answer": "びゃ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Mya",
+    "options": ["にゃ", "みゃ", "りゅ", "りゃ"],
+    "answer": "みゃ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Myu",
+    "options": ["にゅ", "にゃ", "みゅ", "みゃ"],
+    "answer": "みゅ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Pya",
+    "options": ["ぴゃ", "びゃ", "ぴゅ", "ぴょ"],
+    "answer": "ぴゃ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Byo",
+    "options": ["ぴょ", "りょ", "みょ", "びょ"],
+    "answer": "びょ"
+  },
+  {
+    "type": "mc",
+    "prompt": "ぽけっと ",
+    "options": ["Poketto", "Poketxto", "Poketsu", "Poketsuto"],
+    "answer": "Poketto"
+  },
+  {"type": "mc", "prompt": "Happa", "options": ["はっぱ", "はつぱ"], "answer": "はっぱ"},
+  {"type": "mc", "prompt": "Kitte", "options": ["きつて", "きって"], "answer": "きって"},
+  {
+    "type": "mc",
+    "prompt": "Shitsurei",
+    "options": ["しつれい", "しっれい"],
+    "answer": "しつれい"
+  },
+  {
+    "type": "mc",
+    "prompt": "Shitsumon",
+    "options": ["しっもん", "しつもん"],
+    "answer": "しつもん"
+  },
+  {
+    "type": "mc",
+    "prompt": "Kappa",
+    "options": ["かっぱ", "かつぱ", "がっぱ", "がつぱ"],
+    "answer": "かっぱ"
+  },
+  {"type": "mc", "prompt": "Ryū", "options": ["りゅ", "りゅう"], "answer": "りゅう"},
+  {
+    "type": "mc",
+    "prompt": "Gakusei",
+    "options": ["がくせ", "がくせい"],
+    "answer": "がくせい"
+  },
+  {
+    "type": "mc",
+    "prompt": "Kō kō",
+    "options": ["ここ", "こうこう"],
+    "answer": "こうこう"
+  },
+  {"type": "mc", "prompt": "Kyō", "options": ["きょう", "きょ"], "answer": "きょう"}
+]

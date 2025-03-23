@@ -1,0 +1,104 @@
+[
+{"type": "preloadsounds", "sounds": ["ま", "み", "む", "め", "も", "まち"]},
+  {
+    "type": "mc",
+    "pretext": "For the consonant “M,” its consonant-vowel combinations in hiragana are:",
+    "options": ["Ma - ま", "Mi - み", "Mu - む", "Me - め", "Mo - も"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ma” is written as “ま.” Think of it as a scroll for a MAp. </p><img src='img/mnemonics/Hiragana/M/ma_mnemonics.jpg'>",
+    "options": ["Ma - ま"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “ま” below:</p><img src='img/hiragana/ma.png'>",
+	"tracing": ["ま1", "ま2", "ま3"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ma",
+    "options": ["も", "め", "ま", "み"],
+    "answer": "ま"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Mi” is written as “み.” It kind of looks like the letter “H”. You can think of the handle of a MIrror to help you remember the character. </p><img src='img/mnemonics/Hiragana/M/mi_mnemonics.jpg'>",
+    "options": ["Mi - み"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “み” below:</p><img src='img/hiragana/mi.png'>",
+	"tracing": ["み1", "み2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Mi",
+    "options": ["め", "み", "ま", "む"],
+    "answer": "み"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Mu” is written as “む.” It looks like a note on a MUsic sheet. </p><img src='img/mnemonics/Hiragana/M/mu_mnemonics.jpg'>",
+    "options": ["Mu - む"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “む” below:</p><img src='img/hiragana/mu.png'>",
+	"tracing": ["む1", "む2", "む3"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Mu",
+    "options": ["め", "も", "ま", "む"],
+    "answer": "む"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Me” is written as “め.” It similar to “Nu” (ぬ) except it doesn’t have a curl at the bottom right. Think of it as a slice of a waterMElon. </p><img src='img/mnemonics/Hiragana/M/me_mnemonics.jpg'>",
+    "options": ["Me - め"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “め” below:</p><img src='img/hiragana/me.png'>",
+	"tracing": ["め1", "め2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Me",
+    "options": ["み", "め", "む", "も"],
+    "answer": "め"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Mo” is written as “も.” It’s similar to a small “t” but with a hooked end and with two lines going through it instead of one. It looks like the tip of a therMOmeter. </p><img src='img/mnemonics/Hiragana/M/mo_mnemonics.jpg'>",
+    "options": ["Mo - も"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “も” below:</p><img src='img/hiragana/mo.png'>",
+	"tracing": ["も1", "も2", "も3"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Mo",
+    "options": ["も", "め", "み", "ま"],
+    "answer": "も"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the “M” consonant-vowels in hiragana! To recap:",
+    "options": ["Ma - ま", "Mi - み", "Mu - む", "Me - め", "Mo - も"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s use a character from the “M” consonant-vowel sounds on a word! “Town,” in Japanese, is “machi,” which uses the hiragana characters “ま” and “ち”.",
+    "options": ["Machi - まち"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Town",
+    "options": ["くま", "まち", "くく"],
+    "answer": "まち"
+  }
+]

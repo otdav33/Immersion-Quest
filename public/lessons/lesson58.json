@@ -1,0 +1,93 @@
+[
+{"type": "preloadsounds", "sounds": ["ビャ", "ビュ", "ビョ", "ピャ", "ピュ", "ピョ"]},
+  {
+    "type": "intro",
+    "pretext": "The “i” vowel sound of the consonant sounds “B” and “P” becomes “Bya,” “Byu,” “Byo,” “Pya,” “Pyu,” and “Pyo” when written with “ャ,” “ュ,” and “ョ”.",
+    "options": [
+      "Bya – ビャ",
+      "Byu – ビュ",
+      "Byo – ビョ",
+      "Pya – ピャ",
+      "Pyu – ピュ",
+      "Pyo – ピョ"
+    ]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Bya” is written as “ビャ”.",
+    "options": ["Bya – ビャ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Bya",
+    "options": ["ビョ", "ビュ", "ビャ"],
+    "answer": "ビャ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Byu” is written as “ビュ”.",
+    "options": ["Byu – ビュ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Byu",
+    "options": ["ビョ", "ビャ", "ビュ"],
+    "answer": "ビュ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Byo” is written as “ビョ”.",
+    "options": ["Byo – ビョ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Byo",
+    "options": ["ビャ", "ビョ", "ビュ"],
+    "answer": "ビョ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Pya” is written as “ピャ”.",
+    "options": ["Pya – ピャ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Pya",
+    "options": ["ピャ", "ピョ", "ピュ"],
+    "answer": "ピャ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Pyu” is written as “ピュ”.",
+    "options": ["Pyu – ピュ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Pyu",
+    "options": ["ピョ", "ピュ", "ピャ"],
+    "answer": "ピュ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Pyo” is written as “ピョ”.",
+    "options": ["Pyo – ピョ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Pyo",
+    "options": ["ピョ", "ピャ", "ピュ"],
+    "answer": "ピョ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the “i” vowel sound of “B” and “P” combined with “ャ,” “ュ,” and “ョ”. To recap:",
+    "options": [
+      "Bya – ビャ",
+      "Byu – ビュ",
+      "Byo – ビョ",
+      "Pya – ピャ",
+      "Pyu – ピュ",
+      "Pyo – ピョ"
+    ]
+  }
+]

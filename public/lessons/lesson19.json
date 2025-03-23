@@ -1,0 +1,79 @@
+[
+{"type": "preloadsounds", "sounds": ["ぱ", "ぴ", "ぷ", "ぺ", "ぽ", "えんぴつ"]},
+  {
+    "type": "intro",
+    "pretext": "When you add dakuten (゛) to “H” sounds in hiragana, they become “B” sounds. However, if you modify them using handakuten (ﾟ) or maru instead of dakuten (゛), they turn into “P” sounds.",
+    "options": ["Pa – ぱ", "Pi – ぴ", "Pu – ぷ", "Pe – ぺ", "Po – ぽ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Pa” is written as “ぱ”.",
+    "options": ["Pa – ぱ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Pa",
+    "options": ["ぺ", "ぽ", "ぱ", "ぴ"],
+    "answer": "ぱ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Pi” is written as “ぴ”.",
+    "options": ["Pi – ぴ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Pi",
+    "options": ["ぽ", "ぴ", "ぺ", "ぷ"],
+    "answer": "ぴ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Pu” is represented by the character “ぷ”.",
+    "options": ["Pu – ぷ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Pu",
+    "options": ["ぱ", "ぷ", "ぺ", "ぴ"],
+    "answer": "ぷ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Pe” is written as “ぺ”.",
+    "options": ["Pe – ぺ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Pe ",
+    "options": ["ぽ", "ぱ", "ぴ", "ぺ"],
+    "answer": "ぺ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Po” is written as “ぽ”.",
+    "options": ["Po – ぽ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Po",
+    "options": ["ぴ", "ぺ", "ぽ", "ぷ"],
+    "answer": "ぽ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the hiragana characters for the “P” sounds. To recap:",
+    "options": ["Pa – ぱ", "Pi – ぴ", "Pu – ぷ", "Pe – ぺ", "Po – ぽ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s learn a word using the “P” sound in Hiragana. “ENPITSU” means “Pencil” and it is written with the characters “E” (え) “N” (ん) “Pi” (ぴ) “Tsu” (つ).",
+    "options": ["Enpitsu – えんぴつ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Enpitsu",
+    "options": ["えんぴつ", "ひらがな", "くちびる", "かたかな"],
+    "answer": "えんぴつ"
+  }
+]

@@ -1,0 +1,85 @@
+[
+{"type": "preloadsounds", "sounds": ["ア", "イ", "ウ", "エ", "オ", "アア", "イイ", "ウウ", "エエ", "オオ", "アイ", "イエ"]},
+  {
+    "type": "intro",
+    "pretext": "Katakana is another writing system in Japanese that is mainly used for words borrowed from foreign languages or just simply foreign words. They are also used for emphasis. Katakana uses the same set of sounds as hiragana but they are represented by different characters. The characters in katakana are a lot sharper and blockish than hiragana. Because of this, hiragana is sometimes regarded as a feminine form of writing while katakana and kanji are seen as more masculine."
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s learn the vowels in katakana first. ",
+    "options": ["a – ア ", "i – イ", "u – ウ", "e – エ", "o – オ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“A” is represented by the character “ア.” You can remember this by picturing the capital letter “A” on its side. </p><img src='img/mnemonics/Katakana/Vowels/a_katakana.jpg'>",
+    "options": ["a – ア", "aa – アア"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ア” below:",
+	"tracing": ["ア1", "ア2"]
+  },
+  {"type": "mc", "prompt": "a", "options": ["オ", "エ", "ア", "イ"], "answer": "ア"},
+  {
+    "type": "mc",
+    "prompt": "“I” is written as “イ.” It looks like a tree branch. Think of it as something a b“i”rd would perch itself on. </p><img src='img/mnemonics/Katakana/Vowels/i_katakana.jpg'>",
+    "options": ["i – イ", "ii – イイ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “イ” below:",
+	"tracing": ["イ1", "イ2"]
+  },
+  {"type": "mc", "prompt": "i", "options": ["エ", "ア", "イ", "オ"]},
+  {
+    "type": "mc",
+    "prompt": "“U” is written as “ウ.” This one is easy to remember if you’ve already memorized the hiragana characters as this one looks like the hiragana “u,” (う) only a lot sharper. </p><img src='img/mnemonics/Katakana/Vowels/u_katakana.jpg'>",
+    "options": ["u – ウ", "uu – ウウ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ウ” below:",
+	"tracing": ["ウ1", "ウ2", "ウ3"]
+  },
+  {"type": "mc", "prompt": "u", "options": ["オ", "ウ", "ア", "イ"], "answer": "ウ"},
+  {
+    "type": "mc",
+    "prompt": "“E” is represented by the character “エ.” This might be confusing to beginners as the character looks like the capital “I”. In english, “i” makes the long vowel sound “EE”. You can use this to remember the character “エ”. </p><img src='img/mnemonics/Katakana/Vowels/e_katakana.jpg'>",
+    "options": ["e – エ", "ee – エエ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “エ” below:",
+	"tracing": ["エ1", "エ2", "エ3"]
+  },
+  {"type": "mc", "prompt": "e", "options": ["エ", "オ", "ア", "イ"], "answer": "エ"},
+  {
+    "type": "mc",
+    "prompt": "“O” is written with the character “オ.” It looks like a man standing in front of an awestruck crowd going “Oooooh!”. </p><img src='img/mnemonics/Katakana/Vowels/o_katakana.jpg'>",
+    "options": ["o – オ", "oo – オオ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “オ” below:",
+	"tracing": ["オ1", "オ2", "オ3"]
+  },
+  {"type": "mc", "prompt": "o", "options": ["ウ", "イ", "オ", "ア"], "answer": "オ"},
+  {
+    "type": "mc",
+    "prompt": "Let’s take the words we learned in the hiragana lessons and see how they’re written in katakana! Don’t worry about memorizing any of the words. This is only so you can recognize the characters. "
+  },
+  {"type": "mc", "prompt": "“Ai” in katakana is “アイ”.", "options": ["Ai – アイ"]},
+  {
+    "type": "mc",
+    "prompt": "Ai",
+    "options": ["オイ", "アイ", "エイ", "イエ"],
+    "answer": "アイ"
+  },
+  {"type": "mc", "prompt": "“Ie” in katakana is “イエ”.", "options": ["Ie – イエ"]},
+  {
+    "type": "mc",
+    "prompt": "Ie",
+    "options": ["オイ", "アイ", "エイ", "イエ"],
+    "answer": "イエ"
+  }
+]

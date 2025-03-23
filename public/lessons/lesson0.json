@@ -1,0 +1,8 @@
+[
+{"type": "survey", "pretext": "Welcome to Immersion Quest! If you already have an account, please log in now. If you can still see this after logging in, please refresh the page to resume your progress.", "prompt": "Where did you hear about the service?", "options": ["web search", "youtube channel", "advertisement", "by recommendation", "from direct outreach"]},
+{"type": "survey", "prompt": "Why are you learning Japanese", "options": ["travel", "work", "as a hobby", "to consume japanese-language media", "to live in Japan", "no particular reason", "out of boredom", "other"]},
+{"type": "survey", "prompt": "How much Japanese do you know?", "options": ["none or only a few words", "only basic words and phrases", "I can carry out basic conversations", "I can carry out more advanced conversations", "I am fluent"]},
+{"type": "survey", "prompt": "Do you know a similar language (e.g. Korean)?", "options": ["yes", "no"]},
+{"type": "survey", "prompt": "Choose a daily learning goal:", "options": ["5 minutes per day", "10 minutes per day", "15 minutes per day (recommended)", "20 minutes per day", "other:"]},
+{"type": "survey", "prompt": "Start at the beginning?", "options": ["yes", "skip past hiragana and katakana"]}
+]

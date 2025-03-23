@@ -1,0 +1,133 @@
+[
+  {
+    "type": "intro",
+    "pretext": "Congratulations! You’ve finished your lessons on katakana! Take this test and see how far you’ve come. If you feel like you’re still not ready, you can skip this test and come back to it later. "
+  },
+  {
+    "type": "mc",
+    "prompt": "Da and Dji",
+    "options": ["ダ and ヂ", "ヅ and ヂ", "デ and ド", "ヂ and ヅ"],
+    "answer": "ダ and ヂ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Pa and Pi",
+    "options": ["ポ and パ", "プ and ピ", "パ and ピ", "ペ and パ"],
+    "answer": "パ and ピ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Bu and Zo",
+    "options": ["バ and ビ", "ジ and ビ", "ボ and ズ", "ブ and ゾ"],
+    "answer": "ブ and ゾ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Za and Go",
+    "options": ["ズ and ギ", "ザ and ゴ", "ギ and ゲ", "ゾ and ザ"],
+    "answer": "ザ and ゴ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Po and Bi",
+    "options": ["パ and ブ", "ボ and ピ", "ポ and ビ", "プ and ベ"],
+    "answer": "ポ and ビ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Do and Da",
+    "options": ["ド and ダ", "ヅ and デ", "ガ and ギ", "デ and ヂ"],
+    "answer": "ド and ダ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ji and Dji",
+    "options": ["ザ and ズ", "ジ and ヂ", "ド and ズ", "ヂ and ズ"],
+    "answer": "ジ and ヂ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ge and Pu",
+    "options": ["ポ and パ", "ゴ and ピ", "ガ and ペ", "ゲ and プ"],
+    "answer": "ゲ and プ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ba and Bo",
+    "options": ["ビ and ベ", "ブ and ボ", "バ and ボ", "ベ and バ"],
+    "answer": "バ and ボ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ze and Be",
+    "options": ["ザ and ベ", "ズ and ボ", "ジ and ビ", "ズ and バ"],
+    "answer": "ザ and ベ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Vu",
+    "options": ["バ", "ヴ", "ガ", "ギ"],
+    "answer": "ヴ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Fa and Fe",
+    "options": ["フォ and フィ", "フ and ヴ", "ファ and フェ", "フェ and ファ"],
+    "answer": "ファ and フェ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ti and Du",
+    "options": ["ディ and トゥ", "シェ and チェ", "ジェ and ヴァ", "ティ and ドゥ"],
+    "answer": "ティ and ドゥ"
+  },
+  {
+    "type": "mc",
+    "prompt": "She and Che",
+    "options": ["ティ and トゥ", "シェ and チェ", "ディ and ドゥ", "ヴィ and ヴェ "],
+    "answer": "シェ and チェ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ve and Vo",
+    "options": ["ヴェ and ヴォ", "ヴァ and ヴィ", "ヴィ and ヴォ", "ヴェ and ヴィ"],
+    "answer": "ヴェ and ヴォ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Fu and Fi",
+    "options": ["フェ and ファ", "フ and フィ", "ヴ and ヴィ", "フェ and フィ"],
+    "answer": "フ and フィ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Kohi",
+    "options": ["ケーキ", "パーティー", "コーヒー", "タトゥー"],
+    "answer": "コーヒー"
+  },
+  {"type": "mc", "prompt": "Keki", "options": ["タトゥー", "コーヒー", "バッグ", "ケーキ"]},
+  {
+    "type": "mc",
+    "prompt": "Pati",
+    "options": ["コーヒー", "パーティー", "タトゥー", "ケーキ"],
+    "answer": "パーティー"
+  },
+  {
+    "type": "mc",
+    "prompt": "Tatu",
+    "options": ["タトゥー", "パーティー", "ポケット", "コーヒー"],
+    "answer": "タトゥー"
+  },
+  {
+    "type": "mc",
+    "prompt": "Poketto",
+    "options": ["ケーキ", "バッグ", "パーティー", "ポケット"],
+    "answer": "ポケット"
+  },
+  {
+    "type": "mc",
+    "prompt": "Baggu",
+    "options": ["ケーキ", "タトゥー", "バッグ", "ポケット"],
+    "answer": "バッグ"
+  }
+]

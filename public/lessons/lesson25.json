@@ -1,0 +1,118 @@
+[
+  {
+    "type": "mc",
+    "prompt": "You’ve learned about the small “や,” “ゆ,” and “よ” and what happens when you combine them with the basic consonant sounds in hiragana. Test your knowledge and take a quiz! First, let’s recap:"
+  },
+  {
+    "type": "mc",
+    "prompt": "K and S",
+    "options": [
+      "Kya – きゃ",
+      "Kyu – きゅ",
+      "Kyo – きょ",
+      "Sha – しゃ",
+      "Shu – しゅ",
+      "Sho – しょ"
+    ]
+  },
+  {
+    "type": "mc",
+    "prompt": "C and N",
+    "options": [
+      "Cha – ちゃ",
+      "Chu – ちゅ",
+      "Cho – ちょ",
+      "Nya – にゃ",
+      "Nyu – にゅ",
+      "Nyo – にょ"
+    ]
+  },
+  {
+    "type": "mc",
+    "prompt": "H, M, and R",
+    "options": [
+      "Hya – ひゃ",
+      "Hyu – ひゅ",
+      "Hyo – ひょ",
+      "Myi – みぃ",
+      "Myu – みゅ",
+      "Myo – みょ",
+      "Rya – りゃ",
+      "Ryu – りゅ",
+      "Ryo – りょ"
+    ]
+  },
+  {
+    "type": "mc",
+    "prompt": "Kya",
+    "options": ["きゃ", "きょ", "きゅ"],
+    "answer": "きゃ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Sho",
+    "options": ["しゃ", "しょ", "しゅ"],
+    "answer": "しょ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Cha",
+    "options": ["ちょ", "ちゃ", "ちゅ"],
+    "answer": "ちゃ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Hya",
+    "options": ["ひょ", "ひゅ", "ひゃ"],
+    "answer": "ひゃ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Myu",
+    "options": ["みゅ", "みょ", "みゃ"],
+    "answer": "みゅ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ryo",
+    "options": ["りゃ", "りょ", "りゅ"],
+    "answer": "りょ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Kyo",
+    "options": ["きゃ", "きゅ", "きょ"],
+    "answer": "きょ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Sha",
+    "options": ["しょ", "しゃ", "しゅ"],
+    "answer": "しゃ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Cho",
+    "options": ["ちゃ", "ちゅ", "ちょ", "ちょ"],
+    "answer": "ちょ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Hyu",
+    "options": ["ひゅ", "ひゃ", "ひょ"],
+    "answer": "ひゅ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Mya",
+    "options": ["みょ", "みゅ", "みゃ"],
+    "answer": "みゃ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Rya",
+    "options": ["りゃ", "りゅ", "りょ"],
+    "answer": "りゃ"
+  },
+  {"type": "mc", "prompt": "Chu", "options": ["ちょ", "ちゃ", "ちゅ"], "answer": "ちゅ"}
+]

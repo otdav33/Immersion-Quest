@@ -1,0 +1,80 @@
+[
+{"type": "preloadsounds", "sounds": ["ざ", "じ", "ず", "ぜ", "ぞ", "かぞく"]},
+  {
+    "type": "intro",
+    "pretext": "The “Z” sound can be made when you add dakuten (゛) to the “S” sounds in hiragana. Just like in “S” sounds, there is no “Zi” in “Z” sounds.",
+    "prompt": " ",
+    "options": ["Za – ざ", "Ji – じ", "Zu – ず", "Ze – ぜ", "Zo – ぞ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Za” is written as “ざ”.",
+    "options": ["Za – ざ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Za",
+    "options": ["じ", "ぞ", "ざ", "ぜ"],
+    "answer": "じ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ji,” although not a “Z,” belongs in the “Z” category. Similar to the “S” consonant syllables, “Z” has no “Zi” sound. “Ji” is written as the character “じ”.",
+    "options": ["Ji – じ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ji",
+    "options": ["ず", "ぜ", "じ", "ぞ"],
+    "answer": "じ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Zu” is represented by the character “ず”.",
+    "options": ["Zu – ず"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Zu",
+    "options": ["ず", "ぜ", "ぞ", "し"],
+    "answer": "ず"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ze” is written as “ぜ”.",
+    "options": ["Ze – ぜ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ze",
+    "options": ["じ", "ざ", "ぞ", "ぜ"],
+    "answer": "ぜ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Zo” is written as “ぞ”.",
+    "options": ["Zo – ぞ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Zo",
+    "options": ["ざ", "ぞ", "ぜ", "ず"],
+    "answer": "ぞ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the “Z” sounds in hiragana! To recap:",
+    "options": ["Za – ざ", "Ji – じ", "Zu – ず", "Ze – ぜ", "Zo – ぞ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s learn a word! “Kazoku” means “family” and it is written with the  character “Ka,” (か) “Zo,” (ぞ) and “Ku” (く).",
+    "options": ["Kazoku – かぞく"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Kazoku",
+    "options": ["ここ", "くま", "かぞく", "ほし"],
+    "answer": "かぞく"
+  }
+]

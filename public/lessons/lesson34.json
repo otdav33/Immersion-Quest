@@ -1,0 +1,104 @@
+[
+{"type": "preloadsounds", "sounds": ["サ", "シ", "ス", "セ", "ソ", "スシ"]},
+  {
+    "type": "intro",
+    "pretext": "For the consonant “S”, we have:",
+    "options": ["Sa – サ", "Shi – シ", "Su – ス", "Se – セ", "So – ソ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Sa” is written as “サ.” It looks like a SAmurai sword on top of a wooden frame. </p><img src='img/mnemonics/Katakana/S/sa_katakana.jpg'>",
+    "options": ["Sa – サ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “サ” below:",
+	"tracing": ["サ1", "サ2", "サ3"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Sa",
+    "options": ["ソ", "サ", "セ", "ス"],
+    "answer": "サ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Shi” is written as “シ.” You can remember the character by picturing an emoticon of a sheepish smile. </p><img src='img/mnemonics/Katakana/S/shi_katakana.jpg'>",
+    "options": ["Shi – シ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “シ” below:",
+	"tracing": ["シ1", "シ2", "シ3"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Shi",
+    "options": ["サ", "ソ", "シ", "ス"],
+    "answer": "シ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Su” is written as “ス.” Think of it as half of a bowl of SOUp. </p><img src='img/mnemonics/Katakana/S/su_katakana.jpg'>",
+    "options": ["Su – ス"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ス” below:",
+	"tracing": ["ス1", "ス2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Su",
+    "options": ["サ", "ソ", "シ", "ス"],
+    "answer": "ス"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Se” is written as “セ.” This one is easy to remember since it already looks like the hiragana counterpart, “Se” (せ) but without the extra line on the right. </p><img src='img/mnemonics/Katakana/S/se_katakana.jpg'>",
+    "options": ["Se – セ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “セ” below:",
+	"tracing": ["セ1", "セ2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Se",
+    "options": ["ス", "ソ", "セ", "サ"],
+    "answer": "セ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“So” is represented by the character “ソ.” You can think of it as a needle and a thread, something one would use to SEW. </p><img src='img/mnemonics/Katakana/S/so_katakana.jpg'>",
+    "options": ["So – ソ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ソ” below:",
+	"tracing": ["ソ1", "ソ2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "So",
+    "options": ["サ", "シ", "ソ", "ス"],
+    "answer": "ソ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the katakana characters for the “S” consonant sounds in Japanese. Let’s recap:",
+    "options": ["Sa – サ", "Shi – シ", "Su – ス", "Se – セ", "So – ソ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "In katakana, “sushi” is written as “スシ”.",
+    "options": "Sushi – スシ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Sushi ",
+    "options": ["ネコ", "ツチ", "スシ", "カク"],
+    "answer": "スシ"
+  }
+]

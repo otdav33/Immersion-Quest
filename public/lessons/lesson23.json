@@ -1,0 +1,77 @@
+[
+{"type": "preloadsounds", "sounds": ["ちゃ", "ちゅ", "ちょ", "にゃ", "にゅ", "にょ"]},
+  {
+    "type": "intro",
+    "pretext": "Similar to “K” and “S”, combining the “i” vowel syllable “Chi” with “や,” “ゆ,” and “よ,” you get “Cha,” “Chu,” and “Cho”.",
+    "options": ["Cha – ちゃ", "Chu – ちゅ", "Cho – ちょ"]
+  },
+  {"type": "mc", "prompt": "“Cha” is written as “ちゃ”.", "options": ["Cha – ちゃ"]},
+  {
+    "type": "mc",
+    "prompt": "Cha",
+    "options": ["ちょ", "ちゅ", "ちゃ"],
+    "answer": "ちゃ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Chu” is written as “ちゅ”.",
+    "options": ["Chu – ちゅ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Chu",
+    "options": ["ちゃ", "ちゅ", "ちょ"],
+    "answer": "ちゅ"
+  },
+  {"type": "mc", "prompt": "“Cho” is written as “ちょ”.", "options": ["Cho – ちょ"]},
+  {
+    "type": "mc",
+    "prompt": "Cho",
+    "options": ["ちゅ", "ちょ", "ちゃ"],
+    "answer": "ちょ"
+  },
+  {
+    "type": "mc",
+    "prompt": "The “N” sound with the vowel “i” in hiragana becomes “Nya,” “Nyu,” and “Nyo” when you combine them with “や,” “ゆ,” and “よ”.",
+    "options": ["Nya – にゃ", "Nyu – にゅ", "Nyo – にょ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Nya” is written as “にゃ”. “Nya” is also the Japanese version of a cat's “Meow”.",
+    "options": ["Nya – にゃ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Nya",
+    "options": ["にょ", "にゅ", "にゃ "],
+    "answer": "にゃ "
+  },
+  {"type": "mc", "prompt": "“Nyu” is written as “にゅ”.", "options": ["Nyu – にゅ"]},
+  {
+    "type": "mc",
+    "prompt": "Nyu",
+    "options": ["にょ", "にゅ", "にゃ"],
+    "answer": "にゅ"
+  },
+  {"type": "mc", "prompt": "“Nyo” is written as “にょ”.", "options": ["Nyo – にょ"]},
+  {
+    "type": "mc",
+    "prompt": "Nyo",
+    "options": ["にょ", "にゅ", "にゃ"],
+    "answer": "にょ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the “i” vowel sounds of “T” and “N” combined with “や,” “ゆ,” and “よ.” Let’s review!"
+  },
+  {
+    "type": "mc",
+    "prompt": "C",
+    "options": ["Cha – ちゃ", "Chu – ちゅ", "Cho – ちょ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "N",
+    "options": ["Nya – にゃ", "Nyu – にゅ", "Nyo – にょ"]
+  }
+]

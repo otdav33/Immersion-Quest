@@ -1,0 +1,59 @@
+[
+{"type": "preloadsounds", "sounds": ["ザ", "ジ", "ズ", "ゼ", "ゾ", "カゾク"]},
+  {
+    "type": "intro",
+    "pretext": "By adding dakuten to the “S” characters in katakana, they become “Z” sounds except for “shi,” which becomes “ji.”",
+    "options": ["Za – ザ", "Ji – ジ", "Zu – ズ", "Ze – ゼ", "Zo – ゾ"]
+  },
+  {"type": "mc", "prompt": "“Za” is written as “ザ”.", "options": ["Za – ザ"]},
+  {
+    "type": "mc",
+    "prompt": "Za",
+    "options": ["ゾ", "ザ", "ジ", "ズ"],
+    "answer": "ザ"
+  },
+  {"type": "mc", "prompt": "“Ji” is written as “ジ”.", "options": ["Ji – ジ"]},
+  {
+    "type": "mc",
+    "prompt": "Ji",
+    "options": ["ザ", "ズ", "ゾ", "ジ"],
+    "answer": "ジ"
+  },
+  {"type": "mc", "prompt": "“Zu” is written as “ズ”.", "options": ["Zu – ズ"]},
+  {
+    "type": "mc",
+    "prompt": "Zu",
+    "options": ["ゾ", "ザ", "ズ", "ゼ"],
+    "answer": "ズ"
+  },
+  {"type": "mc", "prompt": "“Ze” is written as “ゼ”.", "options": ["Ze – ゼ"]},
+  {
+    "type": "mc",
+    "prompt": "Ze",
+    "options": ["ゾ", "ゼ", "ザ", "ジ"],
+    "answer": "ゼ"
+  },
+  {"type": "mc", "prompt": "“Zo” is written as “ゾ”.", "options": ["Zo – ゾ"]},
+  {
+    "type": "mc",
+    "prompt": "Zo",
+    "options": ["ゾ", "ザ", "ズ", "ジ"],
+    "answer": "ゾ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the “Z” sounds in katakana. To recap:",
+    "options": ["Za – ザ", "Ji – ジ", "Zu – ズ", "Ze – ゼ", "Zo – ゾ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s use a character with the “Z” sound in a Japanese word. “Kazoku” means “family” and you can write it with the katakana characters “ka”(カ) “zo”(ゾ) “ku”(ク).",
+    "options": ["Kazoku – カゾク"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Kazoku ",
+    "options": ["デンワ", "カゾク", "ナカマ", "ジカン"],
+    "answer": "カゾク"
+  }
+]

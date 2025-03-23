@@ -1,0 +1,79 @@
+[
+{"type": "preloadsounds", "sounds": ["だ", "ぢ", "づ", "で", "ど", "でんわ"]},
+  {
+    "type": "intro",
+    "pretext": "“T” sounds in Hiragana, when modified with dakuten (゛), give you “D” sounds.",
+    "options": ["Da – だ", "Dji – ぢ", "Dzu – づ ", "De – で", "Do – ど"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Da” is written as “だ”.",
+    "options": ["Da – だ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Da",
+    "options": ["ぢ", "ど", "だ", "づ"],
+    "answer": "だ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Dji” is written as “ぢ”.",
+    "options": ["Dji – ぢ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Dji",
+    "options": ["ど", "ぢ", "づ", "で"],
+    "answer": "ぢ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Dzu” is written as “づ”.",
+    "options": "Dzu - づ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Dzu",
+    "options": ["だ", "で", "ど", "づ"],
+    "answer": "づ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“De” is represented by the character “で”.",
+    "options": ["De – で"]
+  },
+  {
+    "type": "mc",
+    "prompt": "De",
+    "options": ["で", "だ", "づ", "ぢ"],
+    "answer": "で"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Do” is written in hiragana as “ど”.",
+    "options": ["Do – ど"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Do",
+    "options": ["だ", "ぢ", "ど", "で"],
+    "answer": "ど"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the “D” sounds in hiragana. To recap:",
+    "options": ["Da – だ", "Dji – ぢ", "Dzu – づ ", "De – で", "Do – ど"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s learn a word using the “D” sound in hiragana. “Denwa” means “telephone” in Japanese. It is written with the hiragana “De” (で) “N” (ん) and “Wa” (わ).",
+    "options": ["Denwa – でんわ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Denwa",
+    "options": ["ひらがな", "くちびる", "でんわ", "みず"],
+    "answer": "でんわ"
+  }
+]

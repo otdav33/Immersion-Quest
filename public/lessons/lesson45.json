@@ -1,0 +1,59 @@
+[
+{"type": "preloadsounds", "sounds": ["ガ", "ギ", "グ", "ゲ", "ゴ", "ガクセイ"]},
+  {
+    "type": "intro",
+    "pretext": "Just like in hiragana, katakana characters can also be modified using dakuten (ﾞ) and handakuten ( ﾟ ). When you modify the “K” sounds with dakuten, it turns into “G” sounds.",
+    "options": ["Ga – ガ", "Gi – ギ", "Gu – グ", "Ge – ゲ", "Go – ゴ"]
+  },
+  {"type": "mc", "prompt": "“Ga” is written as “ガ”.", "options": ["Ga – ガ"]},
+  {
+    "type": "mc",
+    "prompt": "Ga",
+    "options": ["ゴ", "ゲ", "ゲ", "ガ"],
+    "answer": "ガ"
+  },
+  {"type": "mc", "prompt": "“Gi” is written as “ギ”.", "options": ["Gi – ギ"]},
+  {
+    "type": "mc",
+    "prompt": "Gi",
+    "options": ["グ", "ギ", "ゴ", "ガ"],
+    "answer": "ギ"
+  },
+  {"type": "mc", "prompt": "“Gu” is written as “グ”.", "options": ["Gu –グ"]},
+  {
+    "type": "mc",
+    "prompt": "Gu",
+    "options": ["ゴ", "ガ", "グ", "ゲ"],
+    "answer": "グ"
+  },
+  {"type": "mc", "prompt": "“Ge” is written as “ゲ”.", "options": ["Ge –ゲ"]},
+  {
+    "type": "mc",
+    "prompt": "Ge",
+    "options": ["ゴ", "ゲ", "ガ", "ギ"],
+    "answer": "ゲ"
+  },
+  {"type": "mc", "prompt": " “Go” is written as “ゴ”.", "options": ["Go –ゴ"]},
+  {
+    "type": "mc",
+    "prompt": "Go",
+    "options": ["ガ", "ギ", "ゲ", "ゴ"],
+    "answer": "ゴ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the “G” sounds in katakana. Let’s review:",
+    "options": ["Ga – ガ", "Gi – ギ", "Gu – グ", "Ge – ゲ", "Go – ゴ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s use a character with dakuten in a Japanese word. Remember, you don’t have to memorize this word. You simply have to remember the characters that are being used. “ガクセイ” means “student.” In romaji, it is written as “gakusei”. It uses the modified character “ga”. ",
+    "options": ["Gakusei –　ガクセイ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Gakusei",
+    "options": ["バナナ", "ガクセイ", "ヒラガナ", "カタカナ"],
+    "answer": "ガクセイ"
+  }
+]

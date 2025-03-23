@@ -1,0 +1,104 @@
+[
+{"type": "preloadsounds", "sounds": ["な", "に", "ぬ", "ね", "の", "ねこ"]},
+  {
+    "type": "mc",
+    "pretext": "For the consonant “N” and its vowel combinations. It’s:",
+    "options": ["Na - な", "Ni - に", "Nu - ぬ", "Ne - ね", "No - の"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Na” is written as “な.” If you imagine a face, it looks like one NAsty scar on the left of the eye. </p><img src='img/mnemonics/Hiragana/N/na_mnemonics.jpg'>",
+    "options": ["Na - な"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “な” below:</p><img src='img/hiragana/na.png'>",
+	"tracing": ["な1", "な2", "な3", "な4"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Na",
+    "options": ["ぬ", "ね", "な", "の"],
+    "answer": "な"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ni” is written as “に”. You can visualize the creases of your KNEE to help you remember the character “に”. </p><img src='img/mnemonics/Hiragana/N/ni_mnemonics.jpg'>",
+    "options": ["Ni - に"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “に” below:</p><img src='img/hiragana/ni.png'>",
+	"tracing": ["に1", "に2", "に3"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ni",
+    "options": ["の", "に", "ね", "ぬ"],
+    "answer": "に"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Nu” is represented by the character “ぬ.” It looks like a pair of chopsticks picking up a string of NOOdles. </p><img src='img/mnemonics/Hiragana/N/nu_mnemonics.jpg'>",
+    "options": ["Nu - ぬ"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “ぬ” below:</p><img src='img/hiragana/nu.png'>",
+	"tracing": ["ぬ1", "ぬ2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Nu",
+    "options": ["ね", "の", "な", "ぬ"],
+    "answer": "ぬ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ne” is represented by the character “ね.” A fun way to remember the character would be to think of a fusion between the small letters of “n” and “e”, except there was a mishap and the “e” became upside down. </p><img src='img/mnemonics/Hiragana/N/ne_mnemonics.jpg'>",
+    "options": ["Ne - ね"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “ね” below:</p><img src='img/hiragana/ne.png'>",
+	"tracing": ["ね1", "ね2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ne",
+    "options": ["の", "な", "ね", "に"],
+    "answer": "ね"
+  },
+  {
+    "type": "mc",
+    "prompt": "“No” is represented by the character “の.” Similar to “Ne,” think of a fusion between “n” and “o,” except “o” went a little too far inside the “n”. </p><img src='img/mnemonics/Hiragana/N/no_mnemonics.jpg'>",
+    "options": ["No - の"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “の” below:</p><img src='img/hiragana/no.png'>",
+	"tracing": ["の1"]
+  },
+  {
+    "type": "mc",
+    "prompt": "No",
+    "options": ["の", "な", "に", "ぬ"],
+    "answer": "の"
+  },
+  {
+    "type": "mc",
+    "prompt": "And those were the “N” consonant and vowel combinations in hiragana. To recap:",
+    "options": ["Na - な", "Ni - に", "Nu - ぬ", "Ne - ね", "No - の"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s learn a few words using the hiragana characters we’ve learned. Let's begin with “neko” which is “cat” in Japanese. It uses “Ne” (ね) and “Ko” (こ).",
+    "options": ["Neko - ねこ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Cat",
+    "options": ["にく", "いぬ", "ねこ"],
+    "answer": "ねこ"
+  }
+]

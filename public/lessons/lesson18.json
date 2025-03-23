@@ -1,0 +1,79 @@
+[
+{"type": "preloadsounds", "sounds": ["ば", "び", "ぶ", "べ", "ぼ", "ぶた"]},
+  {
+    "type": "intro",
+    "pretext": "Adding dakuten (゛) to “H” sounds in hiragana will give you “B” sounds.",
+    "options": ["Ba – ば", "Bi – び", "Bu – ぶ", "Be – べ", "Bo – ぼ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ba” is written as “ば”.",
+    "options": ["Ba – ば"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ba",
+    "options": ["べ", "び", "ば", "ぼ"],
+    "answer": "ば"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Bi” is written as “び”.",
+    "options": ["Bi – び"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Bi",
+    "options": ["び", "ば", "ぶ", "ぼ"],
+    "answer": "び"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Bu” is represented by the character “ぶ”.",
+    "options": ["Bu - ぶ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Bu",
+    "options": ["ぼ", "べ", "ぶ", "ば"],
+    "answer": "ぶ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Be” is written as “べ”.",
+    "options": ["Be – べ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Be",
+    "options": ["び", "べ", "ぶ", "ば"],
+    "answer": "べ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Bo” is written in hiragana as “ぼ”.",
+    "options": ["Bo – ぼ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Bo",
+    "options": ["ば", "び", "ぶ", "ぼ"],
+    "answer": "ぼ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the consonant-vowels “B” in hiragana. To recap:",
+    "options": ["Ba – ば", "Bi – び", "Bu – ぶ", "Be – べ", "Bo – ぼ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s learn a word using the “B” sound in Hiragana. “Buta” means “pig” and it is spelled with the characters “Bu” (ぶ) and “Ta” (た).",
+    "options": ["Buta – ぶた"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Buta",
+    "options": ["あい", "いえ", "ぶた", "おい"],
+    "answer": "ぶた"
+  }
+]

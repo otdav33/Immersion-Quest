@@ -1,0 +1,59 @@
+[
+{"type": "preloadsounds", "sounds": ["パ", "ピ", "プ", "ペ", "ポ", "パン"]},
+  {
+    "type": "intro",
+    "pretext": "“H” sounds can also be modified using handakuten (゜). This turns the “H” sounds into “P” sounds.",
+    "options": ["Pa – パ", "Pi – ピ", "Pu – プ", "Pe – ペ", "Po – ポ"]
+  },
+  {"type": "mc", "prompt": "“Pa” is written as “パ”.", "options": ["Pa – パ"]},
+  {
+    "type": "mc",
+    "prompt": "Pa",
+    "options": ["ポ", "ピ", "パ", "プ"],
+    "answer": "パ"
+  },
+  {"type": "mc", "prompt": "“Pi” is written as “ピ”.", "options": ["Pi – ピ"]},
+  {
+    "type": "mc",
+    "prompt": "Pi",
+    "options": ["ペ", "ピ", "パ", "プ"],
+    "answer": "ピ"
+  },
+  {"type": "mc", "prompt": "“Pu” is written as “プ”.", "options": ["Pu – プ"]},
+  {
+    "type": "mc",
+    "prompt": "Pu",
+    "options": ["パ", "ペ", "ピ", "プ"],
+    "answer": "プ"
+  },
+  {"type": "mc", "prompt": "“Pe” is written as “ペ”.", "options": ["Pe – ペ"]},
+  {
+    "type": "mc",
+    "prompt": "Pe",
+    "options": ["ポ", "パ", "ペ", "ピ"],
+    "answer": "ペ"
+  },
+  {"type": "mc", "prompt": "“Po” is written as “ポ”.", "options": ["Po – ポ"]},
+  {
+    "type": "mc",
+    "prompt": "Po ",
+    "options": ["ポ", "プ", "パ", "ピ"],
+    "answer": "ポ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the “P” sounds in katakana. Let’s review:",
+    "options": ["Pa – パ", "Pi – ピ", "Pu – プ", "Pe – ペ", "Po – ポ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Bread” in Japanese is “pan.” This is written in katakana as “パン”.",
+    "options": ["Pan – パン"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Pan ",
+    "options": ["アイ", "オイ", "パン", "ポイ"],
+    "answer": "パン"
+  }
+]

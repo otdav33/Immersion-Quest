@@ -1,0 +1,115 @@
+[
+{"type": "preloadsounds", "sounds": ["か", "き", "く", "け", "こ", "かく", "ここ"]},
+  {
+    "type": "mc",
+    "pretext": "Let’s start with the consonant “K”.",
+    "options": ["Ka – か", "Ki – き", "Ku – く", "Ke – け", "Ko – こ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ka” is represented by the character “か”. You can easily remember it by picturing it as a butcher knife KA-tting something. </p><img src='img/mnemonics/Hiragana/K/ka_mnemonics.jpg'>",
+	"options": ["Ka - か"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “か” below:</p><img src='img/hiragana/ka.png'>",
+	"tracing": ["か1", "か2", "か3"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ka",
+    "options": ["き", "か", "こ", "く"],
+    "answer": "か"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ki” is represented by the character “き”. It sounds similar to the English word “Key”, which you can also use to remember the character as it looks like a key. </p><img src='img/mnemonics/Hiragana/K/ki_mnemonics.jpg'>",
+    "options": ["Ki - き"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “き” below:</p><img src='img/hiragana/ki.png'>",
+	"tracing": ["き1", "き2", "き3", "き4"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ki",
+    "options": ["き", "く", "け", "か"],
+    "answer": "き"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ku” is written as “く”. It looks like the “Less Than” sign <. It also looks like a bird opening its mouth to go “COO”. </p><img src='img/mnemonics/Hiragana/K/ku_mnemonics.jpg'>",
+    "options": ["Ku - く"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “く” below:</p><img src='img/hiragana/ku.png'>",
+	"tracing": ["く1"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ku",
+    "options": ["こ", "く", "き", "か"],
+    "answer": "く"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ke” is written as “け”. Remember it by comparing it to the English word “Keg”. Its character also looks like the drawing of a keg. </p><img src='img/mnemonics/Hiragana/K/ke_mnemonics.jpg'>",
+    "options": ["Ke - け"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “け” below:</p><img src='img/hiragana/ke.png'>",
+	"tracing": ["け1", "け2", "け3"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ke",
+    "options": ["き", "か", "け", "こ"],
+    "answer": "け"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ko” is written as “こ”. Picture a KOi fish. </p><img src='img/mnemonics/Hiragana/K/ko_mnemonics.jpg'>",
+    "options": ["Ko - こ"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “こ” below:</p><img src='img/hiragana/ko.png'>",
+	"tracing": ["こ1", "こ2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ko",
+    "options": ["か", "き", "く", "こ"],
+    "answer": "こ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the consonant-vowels pairs for the “K” sounds in hiragana. To recap:",
+    "options": ["Ka – か", "Ki – き", "Ku – く", "Ke – け", "Ko – こ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s use what we’ve learned by applying them to a few Japanese words. Remember, you don't have to memorize the word and its meaning. This is simply so you learn to recognize the characters when reading. “Kaku” means “Write”. It is written as “かく,” the Hiragana symbols for “Ka” and “Ku”.",
+    "options": ["Kaku – かく"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Kaku",
+    "options": ["かく", "ここ", "くう"],
+    "answer": "かく"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Koko” means “Here”. It is written in hiragana as “ここ”.",
+    "options": ["Koko – ここ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Koko",
+    "options": ["くう", "ここ", "かお"],
+    "answer": "ここ"
+  }
+]

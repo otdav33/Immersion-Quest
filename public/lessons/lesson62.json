@@ -1,0 +1,52 @@
+[
+{"type": "preloadsounds", "sounds": ["ヴァ", "ヴィ", "ヴ", "ヴェ", "ヴォ"]},
+  {
+    "type": "intro",
+    "pretext": "Another important consonant sound missing in Japanese is the “V” sound. In order to get the “V” sound, you would first need to modify the character “U” (ウ) with dakuten (ﾞ ). This turns “U” (ウ) into “Vu” (ヴ). After that, it’s only a matter of writing the respective small vowels after the character “ヴ” to get the rest of the “V” sounds.",
+    "options": ["Va – ヴァ", "Vi – ヴィ", "Vu – ヴ", "Ve – ヴェ", "Vo – ヴォ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "\"Va\" is written as \"ヴァ\".",
+    "options": ["Va – ヴァ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Va",
+    "options": ["ヴァ", "ヴィ", "ヴェ", "ヴォ"],
+    "answer": "ヴァ"
+  },
+  {"type": "mc", "prompt": "“Vi” is written as “ヴィ”.", "options": ["Vi – ヴィ"]},
+  {
+    "type": "mc",
+    "prompt": "Vi",
+    "options": ["ヴォ", "ヴァ", "ヴィ", "ヴェ"],
+    "answer": "ヴィ"
+  },
+  {"type": "mc", "prompt": "“Vu” is written as “ヴ”.", "options": ["Vu – ヴ"]},
+  {
+    "type": "mc",
+    "prompt": "Vu",
+    "options": ["ダ", "ガ", "ゾ", "ヴ"],
+    "answer": "ヴ"
+  },
+  {"type": "mc", "prompt": "“Ve” is written as “ヴェ”.", "options": ["Ve – ヴェ"]},
+  {
+    "type": "mc",
+    "prompt": "Ve",
+    "options": ["ヴォ", "ヴェ", "ヴィ", "ヴァ"],
+    "answer": "ヴェ"
+  },
+  {"type": "mc", "prompt": "“Vo” is written as “ヴォ”.", "options": ["Vo – ヴォ"]},
+  {
+    "type": "mc",
+    "prompt": "Vo",
+    "options": ["ヴィ", "ヴェ", "ヴォ", "ヴァ"],
+    "answer": "ヴォ"
+  },
+  {
+    "type": "mc",
+    "prompt": "And that was the last of the missing Japanese syllable sounds. To recap:",
+    "options": ["Va – ヴァ", "Vi – ヴィ", "Vu – ヴ", "Ve – ヴェ", "Vo – ヴォ"]
+  }
+]

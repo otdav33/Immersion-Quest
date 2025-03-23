@@ -1,0 +1,72 @@
+[
+  {
+    "type": "intro",
+    "prompt": "<ruby>食べる<rt>たべる</rt></ruby> - to eat",
+    "options": ["食べる"]
+  },
+  {
+    "type": "t",
+    "prompt": "I eat.",
+    "options": ["食べる", "ジュース", "は", "私", "飲む"],
+    "answer": ["私", "は", "食べる"]
+  },
+  {
+    "type": "intro",
+    "pretext": "English is a subject-object-verb language, meaning that English sentences are generally composed of a subject, then a verb, then an object. E.g. \"I eat fruit\" would have \"I\" be the subject, \"eat\" be the verb and \"fruit\" be the object. In Japanese, word order does not tell you which thing is the subject and which is the object. Instead, you can use particles. The particle to mark the object is \"を\" (it is called the \"object marker particle\"). For example, to say \"apples are eaten,\" you would say \"りんごを食べる\"",
+    "prompt": "を - object marker particle",
+    "options": ["を"]
+  },
+  {
+    "type": "t",
+    "prompt": "私はりんごを食べる。",
+    "options": ["I", "apples", "eat"],
+    "answer": ["I", "eat", "apples"]
+  },
+  {
+    "type": "t",
+    "pretext": "Assume the subject \"I\" must be specified.",
+    "prompt": "I drink juice",
+    "options": ["ジュース", "私", "は", "を飲む"],
+    "answer": ["私", "は", "ジュース", "を飲む"]
+  },
+  {
+    "type": "t",
+    "pretext": "<p>In the previous exercise, I grouped \"を\" and \"飲む\" together into a single option. They are two separate words. It's just that \"私はジュースを飲む\" is equivalent to \"ジュースを私は飲む。\"</p><p>Note: Which one is most natural depends on the context. For example, if someone asked, \"What do you drink?\" you might respond with \"私はジュースを飲む.\" But if someone asked, \"Who drinks the juice?\" you might respond with \"ジュースを私は飲む\" to emphasize that it is you who drinks the juice. It's a small detail that you don't really have to worry about.</p>",
+    "prompt": "はい、私は水を飲む",
+    "options": ["juice", "I", "drink", "water", "apple", "yes", "please"],
+    "answer": ["yes", "I", "drink", "water"]
+  },
+  {
+    "type": "intro",
+    "prompt": "<ruby>何<rt>なに</rt></ruby> - what",
+    "options": ["何"]
+  },
+  {
+    "type": "mc",
+    "prompt": "what",
+    "options": ["何", "可", "荷", "佝", "阿"]
+  },
+  {
+    "type": "t",
+    "pretext": "Note: Questions in Japanese always have an upward inflection at the end.",
+    "prompt": "何を食べる？",
+    "options": ["eat", "do", "what", "you", "juice"],
+    "answer": ["what", "do", "you", "eat"]
+  },
+  {"type": "storyintro", "prompt": "<h1>Story 3: Child in the Café</h1>"},
+  {
+    "type": "survey",
+    "pretext": "A child comes up to you with something to say.",
+    "prompt": "何を飲む？",
+    "options": ["水", "ジュース"]
+  },
+  {
+    "type": "t",
+    "prompt": "<span class=\"loadFromSurvey\" id=\"beverageOption\" data-question=\"何を飲む？\"></span>を飲む？",
+    "options": ["はい", "下さい", "りんご"],
+    "answer": ["はい"]
+  },
+  {"type": "storyoutro", "prompt": "The child leaves without saying anything."},
+  {"type": "newcards", "cards": ["食べる", "を", "何"]},
+  {"type": "cardpractice"}
+]

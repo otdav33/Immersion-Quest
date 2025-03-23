@@ -1,0 +1,41 @@
+[
+{"type": "preloadsounds", "sounds": ["かあ", "さあ", "たあ", "きい", "けい", "しい", "せい", "ぬう", "のう", "むう", "もう", "こうこう", "ここ", "りゅう", "がくせい"]},
+  {
+    "type": "intro",
+    "pretext": "You’re almost done with hiragana! Good job! For this last lesson, you will be learning the long vowel sound in Japanese. This sound is created by placing a vowel after a consonant-vowel combination to prolong the sound of the vowel. "
+  },
+  {
+    "type": "mc",
+    "prompt": "This can be done by adding “あ”、”い”、or “う” to a character. To prolong the “a” sound in any hiragana character with the vowel sound “a,” you attach the character “あ”."
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s take “Ka,” (か) “Sa,” (さ) and “Ta” (た) as examples. If you want to extend their “a” vowel sound, ",
+    "options": ["かあ", "さあ", "たあ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "To prolong the “i” or “e” sound in any hiragana character, you attach the character “い”. Let’s take “Ki,” (き) “Ke,” (け) “Shi,” (し) and “Se” (せ).",
+    "options": ["きい", "けい", "しい", "せい"]
+  },
+  {
+    "type": "mc",
+    "prompt": "To prolong the “o” and “u” sounds in hiragana, you add the character “う”. For example, “Nu,” (ぬ) “No,” (の) “Mu,” (む) and “Mo,” (も).",
+    "options": ["ぬう", "のう", "むう", "もう"]
+  },
+  {
+    "type": "mc",
+    "prompt": "It’s important that you actually sound out the long vowel sound; otherwise you might be misunderstood. If you mean to say “こうこう” (high school) in Japanese but don’t properly sound out the long vowel, people might think you meant “ここ” (here).",
+    "options": ["Kō kō - こうこう", "Ko ko - ここ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s learn a few words using long vowel sounds. “Ryū” means “dragon.” It’s spelled in hiragana as “りゅう.“ It uses the small version of “ゆ” to replace the “i” sound in “Ri” () and ends with “う” to make the long vowel sound “u”. ",
+    "options": ["Ryū – りゅう"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Gakusei” means student. It’s written as “がくせい”. “Ga” (が) “Ku” (く) “Se” (せ) I (い)",
+    "options": ["Gakusei – がくせい"]
+  }
+]

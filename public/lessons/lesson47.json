@@ -1,0 +1,59 @@
+[
+{"type": "preloadsounds", "sounds": ["ダ", "ヂ", "ヅ", "デ", "ド", "デンワ"]},
+  {
+    "type": "intro",
+    "pretext": "The consonant-vowel sound of “T” turns into “D” sounds when written with dakuten (ﾞ).  ",
+    "options": ["Da – ダ", "Dji – ヂ", "Du – ヅ", "De – デ", "Do – ド"]
+  },
+  {"type": "mc", "prompt": "“Da” is written as “ダ”.", "options": ["Da – ダ"]},
+  {
+    "type": "mc",
+    "prompt": "Da",
+    "options": ["ド", "ダ", "ヂ", "ヅ"],
+    "answer": "ダ"
+  },
+  {"type": "mc", "prompt": "“Dji” is written as “ヂ”.", "options": ["Dji – ヂ"]},
+  {
+    "type": "mc",
+    "prompt": "Dji",
+    "options": ["ヅ", "デ", "ド", "ヂ"],
+    "answer": "ヂ"
+  },
+  {"type": "mc", "prompt": "“Du” is written as “ヅ”.", "options": ["Du –  ヅ"]},
+  {
+    "type": "mc",
+    "prompt": "Du",
+    "options": ["ド", "デ", "ヅ", "ダ"],
+    "answer": "ヅ"
+  },
+  {"type": "mc", "prompt": "“De” is written as “デ”.", "options": ["De – デ"]},
+  {
+    "type": "mc",
+    "prompt": "De",
+    "options": ["デ", "ド", "ダ", "ヅ"],
+    "answer": "デ"
+  },
+  {"type": "mc", "prompt": "“Do” is written as “ド”.", "options": ["Do –ド"]},
+  {
+    "type": "mc",
+    "prompt": "Do",
+    "options": ["ダ", "デ", "ド", "ヂ"],
+    "answer": "ド"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the katakana characters for the “D” sound in Japanese! Let’s review:",
+    "options": ["Da – ダ", "Dji – ヂ", "Du – ヅ", "De – デ", "Do – ド"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s use a character with the “D” sound in a Japanese word. “Denwa” means “telephone.” Using katakana, it is written as “De”(デ) “N”(ン) “Wa”(ワ).",
+    "options": ["Denwa – デンワ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Denwa",
+    "options": ["ナカマ", "カゾク", "ヒラガナ", "デンワ"],
+    "answer": "デンワ"
+  }
+]

@@ -1,0 +1,100 @@
+[
+{"type": "preloadsounds", "sounds": ["ファ", "フィ", "フ", "フェ", "フォ", "ワ", "ウィ", "ウ", "ウェ", "ウォ"]},
+  {
+    "type": "intro",
+    "pretext": "Let’s continue our lesson on the small vowels in katakana. One vital consonant that is missing in the Japanese native sounds is the “F” consonant. There is only one character that produces the “F” sound and that is “Fu” (フ). To get the rest of the sounds, you attach their respective vowels to the character “Fu” (フ).",
+    "options": ["Fa – ファ", "Fi – フィ", "Fu – フ", "Fe – フェ", "Fo – フォ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Fa” is written as “ファ”. It’s a combination of the character “Fu” (フ) and the small vowel “a” (ァ).",
+    "options": ["Fa – ファ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Fa",
+    "options": ["フォ", "フェ", "ファ", "フィ"],
+    "answer": "ファ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Fi” is written as “フィ”. It combines “Fu” (フ) with the small vowel “i” (ィ).",
+    "options": ["Fi – フィ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Fi",
+    "options": ["フォ", "フィ", "ファ", "フェ"],
+    "answer": "フィ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Fe” is written with “Fu” (フ) and the small vowel “e” (ェ). ",
+    "options": ["Fe – フェ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Fe",
+    "options": ["フォ", "ファ", "フィ", "フェ"],
+    "answer": "フェ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Fo” is written as “フォ”. It’s the sound “Fu” (フ) attached with the small vowel “o” (ォ).",
+    "options": ["Fo – フォ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Fo",
+    "options": ["ファ", "フォ", "フィ", "フェ "],
+    "answer": "フォ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s move on to the “W” sounds. Japanese only has two “W” sounds, “Wa” (ワ) and “Wo” (ヲ). There used to be “Wi” and “We” but they’re now obsolete. In order to get the rest of the “W” sounds, you have to use the small vowels. However, you don’t actually combine them with any of the established “W” sounds, you combine them with the vowel “U” (ウ). In this case, “U” is considered as the “Wu” sound for the “W” consonant sounds in Japanese. ",
+    "options": ["Wa – ワ", "Wi – ウィ", "Wu/U – ウ", "We – ウェ", "Wo – ウォ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Wi” is written as “ウィ”. It’s a combination of “U” (ウ) and the small vowel “i” (ィ).",
+    "options": ["Wi – ウィ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Wi",
+    "options": ["ウィ", "ウォ", "ウェ", "ウァ"],
+    "answer": "ウィ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“We” is written as “ウェ”. It combines “U” (ウ) with the small vowel “e” (ェ).",
+    "options": ["We – ウェ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "We",
+    "options": ["ウォ", "ウァ", "ウェ", "ウィ"],
+    "answer": "ウェ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Wo” is written as “ウォ,” a combination of “U” (ウ) and the small vowel “o” (ォ). You may be wondering why “Wo” is written as “ウォ” when it already has an established katakana character “ヲ”. That’s because “ヲ” is closer to the pronunciation “O” than it is to “Wo”. ",
+    "options": ["Wo – ウォ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the missing “F” and “W” consonant sounds. Let’s review:",
+    "options": [
+      "Fa – ファ",
+      "Fi – フィ",
+      "Fu – フ",
+      "Fe – フェ",
+      "Fo – フォ",
+      "Wa – ワ",
+      "Wi – ウィ",
+      "Wu/U – ウ",
+      "We – ウェ",
+      "Wo – ウォ"
+    ]
+  }
+]

@@ -1,0 +1,73 @@
+[
+{"type": "preloadsounds", "sounds": ["ぎゃ", "ぎゅ", "ぎょ", "じゃ", "じゅ", "じょ"]},
+  {
+    "type": "intro",
+    "pretext": "The small “や,” “ゆ,” and “よ” can also be added to characters modified by dakuten (゛) and handakuten (゜). When attached to the “i” vowel sound of the “G” consonant in hiragana, it becomes “Gya,” “Gyu,” and “Gyo” respectively.",
+    "options": ["Gya – ぎゃ", "Gyu – ぎゅ", "Gyo – ぎょ"]
+  },
+  {"type": "mc", "prompt": "“Gya” is written as “ぎゃ”.", "options": ["Gya – ぎゃ"]},
+  {
+    "type": "mc",
+    "prompt": "Gya",
+    "options": ["ぎゅ", "ぎゃ", "ぎょ"],
+    "answer": "ぎゃ"
+  },
+  {"type": "mc", "prompt": "“Gyu” is written as “ぎゅ”.", "options": ["Gyu – ぎゅ"]},
+  {
+    "type": "mc",
+    "prompt": "Gyu",
+    "options": ["ぎょ", "ぎゃ", "ぎゅ"],
+    "answer": "ぎゅ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Gyo” is written as “ぎょ”. ",
+    "options": ["Gyo – ぎょ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Gyo",
+    "options": ["ぎょ", "ぎゃ", "ぎゅ"],
+    "answer": "ぎょ"
+  },
+  {
+    "type": "mc",
+    "prompt": "The same goes for the “Ji” sound. It becomes “Jya,” “Jyu,” and “Jyo” when written with the small characters “や,” “ゆ,” and “よ”.",
+    "options": ["Jya – じゃ", "Jyu – じゅ", "Jyo – じょ"]
+  },
+  {"type": "mc", "prompt": "“Jya” is written as “じゃ”.", "options": ["Jya – じゃ"]},
+  {
+    "type": "mc",
+    "prompt": "Jya",
+    "options": ["じょ", "じゃ", "じゅ"],
+    "answer": "じゃ"
+  },
+  {"type": "mc", "prompt": "“Jyu” is written as “じゅ”.", "options": ["Jyu – じゅ"]},
+  {
+    "type": "mc",
+    "prompt": "Jyu",
+    "options": ["じゃ", "じゅ", "じょ "],
+    "answer": "じゅ"
+  },
+  {"type": "mc", "prompt": "“Jyo” is written as “じょ”.", "options": ["Jyo – じょ"]},
+  {
+    "type": "mc",
+    "prompt": "Jyo ",
+    "options": ["じょ", "じゃ", "じゅ"],
+    "answer": "じょ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the “G” and “J” sound affixed with the small “や,” “ゆ,” and “よ” in hiragana. Let’s review:"
+  },
+  {
+    "type": "mc",
+    "prompt": "G",
+    "options": ["Gya – ぎゃ", "Gyu – ぎゅ", "Gyo – ぎょ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "J",
+    "options": ["Jya – じゃ", "Jyu – じゅ", "Jyo – じょ"]
+  }
+]

@@ -1,0 +1,61 @@
+[
+  {
+    "type": "intro",
+    "pretext": "\"じゃない\" is a less formal way of saying \"isn't\" and is used in casual speech.",
+    "prompt": "じゃない - isn't",
+    "options": ["じゃない"]
+  },
+  {
+    "type": "t",
+    "prompt": "これはりんごじゃない",
+    "options": ["this", "isn't", "apple", "an"],
+    "options": ["this", "isn't", "an", "apple"]
+  },
+  {
+    "type": "t",
+    "pretext": "\"じゃない\" pretty much always goes at the sentence, by the way. Also, you generally don't put a particle before \"じゃない.\"",
+    "prompt": "I am not an apple",
+    "options": ["りんご", "私", "は", "じゃない"],
+    "answer": ["私", "は", "りんご", "じゃない"]
+  },
+  {
+    "type": "t",
+    "prompt": "Water is not juice.",
+    "options": ["じゃない", "水", "りんご", "ジュース", "は", "注文"],
+    "answer": ["水", "は", "ジュース", "じゃない"]
+  },
+  {
+    "type": "t",
+    "prompt": "My order was not water.",
+    "options": ["ジュース", "注文", "水", "は", "じゃない"],
+    "answer": ["注文", "は", "水", "じゃない"]
+  },
+  {"type": "t", "prompt": "It is not an apple.", "options": ["りんご", "じゃない"]},
+  {"type": "intro", "pretext": "いいえ is a more formal way of saying \"no.\"", "prompt": "いいえ - no (more formal)", "options": ["いいえ"]},
+  {
+    "type": "t",
+    "prompt": "いいえ、注文はジュースじゃない",
+    "options": ["order", "no", "juice", "isn't", "apple", "thank", "my"],
+    "answer": ["no", "my", "order", "isn't", "juice"]
+  },
+  {
+    "type": "intro",
+    "pretext": "You can say \"XはYだ\" or just \"XはY\" to mean \"X is Y.\" You don't have to use \"だ.\" \"だ\" gives the sentence a declarative flavor since the relationship between X and Y are more than just implied. In other words, \"だ\" makes it clear that a sentence a is statement, and not a question.",
+    "prompt": "だ - is (declarative, informal)",
+    "options": ["だ"]
+  },
+  {
+    "type": "t",
+    "prompt": "はい、注文は水だ。",
+    "options": ["juice", "water", "order", "is", "yes", "the"],
+    "answer": ["yes", "the", "order", "is", "water"]
+  },
+  {
+    "type": "t",
+    "prompt": "りんごだ。",
+    "options": ["apple", "an", "is", "it", "yes", "no"],
+    "answer": ["it", "is", "an", "apple"]
+  },
+  {"type": "newcards", "cards": ["じゃない", "だ", "いいえ"]},
+  {"type": "cardpractice"}
+]

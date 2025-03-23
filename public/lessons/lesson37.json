@@ -1,0 +1,104 @@
+[
+{"type": "preloadsounds", "sounds": ["ナ", "ニ", "ヌ", "ネ", "ノ", "ネコ"]},
+  {
+    "type": "intro",
+    "pretext": "The katakana characters for the “N” consonant sounds are:",
+    "options": ["Na – ナ", "Ni – ニ", "Nu – ヌ", "Ne – ネ", "No – ノ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Na” is represented by the character “ナ.” It looks like a knife (NA-ife). </p><img src='img/mnemonics/Katakana/N/na_katakana.jpg'>",
+    "options": ["Na – ナ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ナ” below:",
+	"tracing": ["ナ1", "ナ2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Na",
+    "options": ["ヌ", "ナ", "ニ", "ノ"],
+    "answer": "ナ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ni” is written as “ニ.” In Japanese, “Ni” can also mean the number two. You can use this to remember the katakana character of “Ni” as it is represented by TWO lines. </p><img src='img/mnemonics/Katakana/N/ni_katakana.jpg'>",
+    "options": ["Ni – ニ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ニ” below:",
+	"tracing": ["ニ1", "ニ2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ni",
+    "options": ["ノ", "ナ", "ネ", "ニ "],
+    "answer": "ニ "
+  },
+  {
+    "type": "mc",
+    "prompt": "“Nu” is written as “ヌ.” You can think of it as a pair of NUn chucks. </p><img src='img/mnemonics/Katakana/N/nu_katakana.jpg'>",
+    "options": ["Nu – ヌ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ヌ” below:",
+	"tracing": ["ヌ1", "ヌ2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Nu",
+    "options": ["ヌ", "ナ", "ノ", "ニ"],
+    "answer": "ヌ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ne” is written as “ネ.” It looks like a pile of sticks, something a bird would use to build a NEst. </p><img src='img/mnemonics/Katakana/N/ne_katakana.jpg'>",
+    "options": ["Ne – ネ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ネ” below:",
+	"tracing": ["ネ1", "ネ2", "ネ3", "ネ4"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ne",
+    "options": ["ノ", "ナ", "ヌ", "ネ"],
+    "answer": "ネ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“No” is written as “ノ.” This one is easy to remember as it is only one line. There is NO other line. You can also picture it as the curve of a NOse. </p><img src='img/mnemonics/Katakana/N/no_katakana.jpg'>",
+    "options": ["No – ノ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ノ” below:",
+	"tracing": ["ノ1"]
+  },
+  {
+    "type": "mc",
+    "prompt": "No",
+    "options": ["ナ", "ノ", "ニ", "ヌ"],
+    "answer": "ノ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the katakana characters for the “N” consonant sounds in Japanese. To recap:",
+    "options": ["Na – ナ", "Ni – ニ", "Nu – ヌ", "Ne – ネ", "No – ノ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Cat” in Japanese is “neko,” which is written in katakana as “ネコ”.",
+    "options": ["Neko – ネコ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Neko",
+    "options": ["ヒト", "ネコ", "カク", "ココ"],
+    "answer": "ネコ"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "type": "mc",
+    "pretext": "Nice! You’ve learned the consonant-vowel combinations for “T” and “N” in hiragana! Let’s take a short break to review what you’ve learned."
+  },
+  {
+    "type": "mc",
+    "prompt": "T",
+    "options": ["Ta - た", "Chi - ち", "Tsu - つ", "Te - て", "To - と"]
+  },
+  {
+    "type": "mc",
+    "prompt": "N",
+    "options": ["Na - な", "Ni - に", "Nu - ぬ", "Ne - ね", "No - の"]
+  },
+  {
+    "type": "mc",
+    "prompt": "H",
+    "options": ["Ha – は", "Hi – ひ", "Hu/Fu  – ふ", "He –  へ", "Ho – ほ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "M",
+    "options": ["Ma - ま", "Mi - み", "Mu - む", "Me - め", "Mo - も"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Tsu",
+    "options": ["つ", "て", "と", "ち"],
+    "answer": "つ"
+  },
+  {
+    "type": "mc",
+    "prompt": "To",
+    "options": ["つ", "ち", "と", "た"],
+    "answer": "と"
+  },
+  {
+    "type": "mc",
+    "prompt": "Chi",
+    "options": ["た", "ち", "て", "つ"],
+    "answer": "ち"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ta and Te",
+    "options": ["た and て", "つ and て", "た and ち"],
+    "answer": "た and て"
+  },
+  {
+    "type": "mc",
+    "prompt": "Na and Ni",
+    "options": ["ぬ and の", "な and に", "に and ね"],
+    "answer": "な and に"
+  },
+  {
+    "type": "mc",
+    "prompt": "Chi and Nu",
+    "options": ["ち and ぬ", "ち and の", "つ and ね"],
+    "answer": "ち and ぬ"
+  },
+  {
+    "type": "mc",
+    "prompt": "No",
+    "options": ["ぬ", "の", "に", "な"],
+    "answer": "の"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ne",
+    "options": ["な", "の", "つ", "ね"],
+    "answer": "ね"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ni",
+    "options": ["の", "ぬ", "に", "ね"],
+    "answer": "に"
+  },
+  {
+    "type": "mc",
+    "prompt": "ふ",
+    "options": ["Hu/Fu", "He", "Ha", "Ho"],
+    "answer": "Hu/Fu"
+  },
+  {
+    "type": "mc",
+    "prompt": "ほ",
+    "options": ["He", "Ha", "Hi", "Ho"],
+    "answer": "Ho"
+  },
+  {
+    "type": "mc",
+    "prompt": "He He",
+    "options": ["ひひ", "はは", "へへ"],
+    "answer": "へへ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Hi and Ha",
+    "options": ["ひ and は", "は and ひ", "へ and は"],
+    "answer": "ひ and は"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ma",
+    "options": ["ま", "む", "も", "ほ"],
+    "answer": "ま"
+  },
+  {
+    "type": "mc",
+    "prompt": "Mo Mo",
+    "options": ["もも", "むむ", "まま"],
+    "answer": "もも"
+  },
+  {
+    "type": "mc",
+    "prompt": "Me",
+    "options": ["ひ", "め", "み", "も"],
+    "answer": "め"
+  },
+  {
+    "type": "mc",
+    "prompt": "Mi and Mu",
+    "options": ["めも", "みむ", "まみ"],
+    "answer": "みむ"
+  },
+  {
+    "type": "outro",
+    "prompt": "Congratulations! We’re on the last few consonant-vowel combinations of hiragana! There’s still a long way to go though. Reward yourself and have another cookie!"
+  }
+]

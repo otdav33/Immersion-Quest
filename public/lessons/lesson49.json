@@ -1,0 +1,59 @@
+[
+{"type": "preloadsounds", "sounds": ["バ", "ビ", "ブ", "ベ", "ボ", "バナナ"]},
+  {
+    "type": "intro",
+    "pretext": "“H” consonant sounds become “B” sounds when modified with dakuten ( ﾞ).",
+    "options": ["Ba – バ", "Bi – ビ", "Bu – ブ", "Be – ベ", "Bo – ボ"]
+  },
+  {"type": "mc", "prompt": "“Ba” is written as “バ”.", "options": ["Ba – バ"]},
+  {
+    "type": "mc",
+    "prompt": "Ba",
+    "options": ["ビ", "ボ", "ブ", "バ"],
+    "answer": "バ"
+  },
+  {"type": "mc", "prompt": "“Bi” is written as “ビ”.", "options": ["Bi – ビ"]},
+  {
+    "type": "mc",
+    "prompt": "Bi ",
+    "options": ["ボ", "ビ", "バ", "ブ"],
+    "answer": "ビ"
+  },
+  {"type": "mc", "prompt": "“Bu” is written as “ブ”.", "options": ["Bu – ブ"]},
+  {
+    "type": "mc",
+    "prompt": "Bu",
+    "options": ["ブ", "ボ", "バ", "ベ"],
+    "answer": "ブ"
+  },
+  {"type": "mc", "prompt": "“Be” is written as “ベ”.", "options": ["Be – ベ"]},
+  {
+    "type": "mc",
+    "prompt": "Be",
+    "options": ["ボ", "バ", "ベ", "ビ"],
+    "answer": "ベ"
+  },
+  {"type": "mc", "prompt": "“Bo” is written as “ボ”.", "options": ["Bo – ボ"]},
+  {
+    "type": "mc",
+    "prompt": "Bo ",
+    "options": ["ブ", "ボ", "バ", "ベ"],
+    "answer": "ボ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the “B” consonant sounds in katakana. To recap:",
+    "options": ["Ba – バ", "Bi – ビ", "Bu – ブ", "Be – ベ", "Bo – ボ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Banana” is written in katakana as “Ba”(バ) “na”(ナ) “na”(ナ). ",
+    "options": ["Banana – バナナ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Banana",
+    "options": ["バナニャ", "カゾク", "ヒラガナ", "バナナ"],
+    "answer": "バナナ"
+  }
+]

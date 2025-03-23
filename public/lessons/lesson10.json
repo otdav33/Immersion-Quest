@@ -1,0 +1,174 @@
+[
+{"type": "preloadsounds", "sounds": ["や", "ゆ", "よ", "ら", "り", "る", "れ", "ろ", "ゆめ", "とり"]},
+  {
+    "type": "mc",
+    "pretext": "The “Y” consonant-vowel combination in Hiragana is a bit different from the rest. Unlike the other consonants, “Y” is paired only with “a,” “u,” and “o.” There used to be other “Y” consonant-vowel combinations but they are no longer the standard.",
+    "options": ["Ya - や", "Yu - ゆ", "Yo - よ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ya” is written as “や.” It would help you remember if you look at it as a YAk, a big furry animal with horns on their head. </p><img src='img/mnemonics/Hiragana/Y/ya_mnemonics.jpg'>",
+    "options": ["Ya - や"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “や” below:</p><img src='img/hiragana/ya.png'>",
+	"tracing": ["や1", "や2", "や3"]
+  },
+
+  {
+    "type": "mc",
+    "prompt": "Ya",
+    "options": ["め", "あ", "や", "よ"],
+    "answer": "や"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Yu” is written as “ゆ.” It kind of looks like the eye of fUrios cat. </p><img src='img/mnemonics/Hiragana/Y/yu_mnemonics.jpg'>",
+    "options": ["Yu - ゆ"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “ゆ” below:</p><img src='img/hiragana/yu.png'>",
+	"tracing": ["ゆ1", "ゆ2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Yu",
+    "options": ["ゆ", "よ", "め", "の"],
+    "answer": "ゆ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Yo” is written as “よ.” It looks like the character “Ma” (ま) except instead of two horizontal lines, it has one half-line facing the right. You can think of it as a YOYO. </p><img src='img/mnemonics/Hiragana/Y/yo_mnemonics.jpg'>",
+    "options": ["Yo - よ"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “よ” below:</p><img src='img/hiragana/yo.png'>",
+	"tracing": ["よ1", "よ2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Yo",
+    "options": ["ま", "も", "は", "よ"],
+    "answer": "よ"
+  },
+  {
+    "type": "mc",
+    "prompt": "And those were the “Y” consonant-vowel combinations in hiragana. To recap:",
+    "options": ["Ya - や", "Yu - ゆ", "Yo - よ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“R”, unlike “Y”, is paired with all 5 vowels. It’s:",
+    "options": ["Ra - ら", "Ri - り", "Ru - る", "Re - れ", "Ro - ろ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ra” is represented by the symbol “ら.” It looks like a 5 but someone broke off the top piece. Not to be confused with “Chi” (ち). Think of a LAmp to help you remember the character. </p><img src='img/mnemonics/Hiragana/R/ra_mnemonics.jpg'>",
+    "options": ["Ra - ら"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “ら” below:</p><img src='img/hiragana/ra.png'>",
+	"tracing": ["ら1", "ら2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ra",
+    "options": ["ち", "ら", "や", "ろ"],
+    "answer": "ら"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ri” is represented by the symbol “り.” It looks like a leaf. </p><img src='img/mnemonics/Hiragana/R/ri_mnemonics.jpg'>",
+    "options": ["Ri - り"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “り” below:</p><img src='img/hiragana/ri.png'>",
+	"tracing": ["り1", "り2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ri",
+    "options": ["ろ", "ら", "れ", "り"],
+    "answer": "り"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ru” is written as “る.” It looks like the number three but with its base LOOping inwards. </p><img src='img/mnemonics/Hiragana/R/ru_mnemonics.jpg'>",
+    "options": ["Ru - る"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “る” below:</p><img src='img/hiragana/ru.png'>",
+	"tracing": ["る1"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ru",
+    "options": ["ろ", "れ", "る", "り"],
+    "answer": "る"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Re” is written as “れ.” It’s similar to the small letter “n” but with two little strands of hair sticking out. </p><img src='img/mnemonics/Hiragana/R/re_mnemonics.jpg'>",
+    "options": ["Re - れ"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “れ” below:</p><img src='img/hiragana/re.png'>",
+	"tracing": ["れ1", "れ2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Re ",
+    "options": ["れ", "ろ", "る", "ら"],
+    "answer": "れ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ro” is written as “ろ.” It simply looks like a number 3. Not to be confused by “Ru” (る). You can think of a LOg. </p><img src='img/mnemonics/Hiragana/R/ro_mnemonics.jpg'>",
+    "options": ["Ro - ろ"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “ろ” below:</p><img src='img/hiragana/ro.png'>",
+	"tracing": ["ろ1"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ro",
+    "options": ["る", "ろ", "れ", "れ", "よ"],
+    "answer": "ろ"
+  },
+  {
+    "type": "mc",
+    "prompt": "And those were the consonant-vowel combinations of “R” in hiragana! To recap:",
+    "options": ["Ra - ら", "Ri - り", "Ru - る", "Re - れ", "Ro - ろ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s learn a word using these characters. “Yume” means “dream.” In hiragana, it is written as “ゆめ”.",
+    "options": ["Yume　- ゆめ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Yume",
+    "options": ["ゆめ", "とり", "あい"],
+	"answer": "ゆめ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Tori” means “bird.” In hiragana, it is written as “とり”.",
+    "options": ["Tori　- とり"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Tori”",
+    "options": ["ゆめ", "とり", "あい"],
+	"answer": "とり"
+  }
+]

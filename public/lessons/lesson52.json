@@ -1,0 +1,126 @@
+[
+  {
+    "type": "intro",
+    "pretext": "You’ve learned katakana with dakuten and handakuten! Only a few more lessons and you will be done with katakana. However, before proceeding to your next lessons, take a test and see how much you’ve learned! If you feel like you’re not ready, you can skip this and come back later."
+  },
+  {
+    "type": "mc",
+    "prompt": "Pa and Ba",
+    "options": ["ペ and ゲ", "パ and バ", "ゴ and ポ", "パ and ボ"],
+    "answer": "パ and バ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Gi and Di",
+    "options": ["グ and ヅ", "ヂ and ピ", "ギ and ゴ", "ギ and ヂ"],
+    "answer": "ギ and ヂ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ji and Pi",
+    "options": ["ピ and ポ", "ジ and ピ", "ヂ and ボ", "ギ and ピ"],
+    "answer": "ジ and ピ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Pu and Be",
+    "options": ["プ and ブ", "ゴ and ジ", "プ and ベ", "バ and ビ "],
+    "answer": "プ and ベ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Zo and Ze",
+    "options": ["ゾ and ゼ", "ザ and ズ", "ゾ and ダ", "パ and ジ"],
+    "answer": "ゾ and ゼ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Do and Du",
+    "options": ["ダ and ヅ", "ザ and ズ", "ド and ヅ", "ガ and グ"],
+    "answer": "ド and ヅ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Da and Go",
+    "options": ["ゴ and ダ", "ダ and ゴ", "ヅ and ダ", "バ and ゴ "],
+    "answer": "ダ and ゴ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Gu and Bu",
+    "options": ["グ and プ", "ペ and パ", "ガ and ブ", "グ and ブ"],
+    "answer": "グ and ブ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Po and Bo",
+    "options": ["ポ and ボ", "ゴ and ド", "ゾ and ボ", "ポ and ゴ"],
+    "answer": "ポ and ボ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Za and Ga",
+    "options": ["ガ and ギ", "ザ and グ", "ザ and ガ", "バ and ヂ"],
+    "answer": "ザ and ガ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Jikan (Time)",
+    "options": ["ジカン", "カゾク", "ナカマ", "バナナ"],
+    "answer": "ジカン"
+  },
+  {
+    "type": "mc",
+    "prompt": "Gakusei (Student)",
+    "options": ["ヒラガナ", "エンピツ", "ガクセイ", "カタカナ"],
+    "answer": "ガクセイ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Kazoku (Family)",
+    "options": ["バナナ", "カゾク", "デンワ", "ジカン"],
+    "answer": "カゾク"
+  },
+  {
+    "type": "mc",
+    "prompt": "Hiragana",
+    "options": ["カタカナ", "エンピツ", "ガクセイ", "ヒラガナ"],
+    "answer": "ヒラガナ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Denwa (Telephone)",
+    "options": ["デンワ", "ジカン", "カゾク", "バナナ"],
+    "answer": "デンワ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Basu (Bus)",
+    "options": ["パン", "ブタ", "バス", "ゴン"],
+    "answer": "バス"
+  },
+  {
+    "type": "mc",
+    "prompt": "Banana ",
+    "options": ["デンワ", "バナナ", "ジカン", "カゾク"],
+    "answer": "バナナ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Pan (Bread)",
+    "options": ["パン", "バス", "ブタ", "ミズ"],
+    "answer": "パン"
+  },
+  {
+    "type": "mc",
+    "prompt": "Enpitsu (Pencil)",
+    "options": ["ヒラガナ", "ガクセイ", "エンピツ", "ギンタマ"],
+    "answer": "エンピツ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Buta (Pig)",
+    "options": ["バス", "パン", "アイ", "ブタ"],
+    "answer": "ブタ"
+  }
+]

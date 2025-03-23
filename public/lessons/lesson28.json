@@ -1,0 +1,97 @@
+[
+  {
+    "type": "intro",
+    "pretext": "You’ve learned that the small “や,” “ゆ,” and “よ” can also be applied to hiragana characters modified with dakuten (゛) and handakuten (゜). Time for you to take a short quiz! But before that, let’s review:"
+  },
+  {
+    "type": "mc",
+    "prompt": "G and J",
+    "options": [
+      "Gya – ぎゃ",
+      "Gyu – ぎゅ",
+      "Gyo – ぎょ",
+      "Jya – じゃ",
+      "Jyu – じゅ",
+      "Jyo – じょ"
+    ]
+  },
+  {
+    "type": "mc",
+    "prompt": "B and P",
+    "options": [
+      "Bya – びゃ",
+      "Byu – びゅ",
+      "Byo – びょ",
+      "Pya – ぴゃ",
+      "Pyu – ぴゅ",
+      "Pyo – ぴょ"
+    ]
+  },
+  {
+    "type": "mc",
+    "prompt": "Pya",
+    "options": ["ぴゅ", "ぴょ", "ぴゃ"],
+    "answer": "ぴゃ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Pyo",
+    "options": ["ぴょ", "ぴゅ", "ぴゃ"],
+    "answer": "ぴょ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Gya",
+    "options": ["ぎゅ", "ぎゃ", "ぎょ"],
+    "answer": "ぎゃ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Byu",
+    "options": ["びゃ", "びゅ", "びょ"],
+    "answer": "びゅ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Gyu",
+    "options": ["ぎゃ", "ぎょ", "ぎゅ"],
+    "answer": "ぎゅ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Jyo",
+    "options": ["じょ", "じゃ", "じゅ"],
+    "answer": "じょ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Bya",
+    "options": ["びゅ", "びょ", "びゃ"],
+    "answer": "びゃ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Jyu",
+    "options": ["じゃ", "じょ", "じゅ"],
+    "answer": "じゅ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Gyo",
+    "options": ["ぎょ", "ぎゃ", "ぎゅ"],
+    "answer": "ぎょ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Byo",
+    "options": ["びゃ", "びょ", "びゅ"],
+    "answer": "びょ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Pyu",
+    "options": ["ぴょ", "ぴゅ", "ぴゃ"],
+    "answer": "ぴゅ"
+  },
+  {"type": "mc", "prompt": "Jya", "options": ["じゃ", "じょ", "じゅ"], "answer": "じゃ"}
+]

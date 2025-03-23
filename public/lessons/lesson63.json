@@ -1,0 +1,37 @@
+[
+{"type": "preloadsounds", "sounds": ["かあ", "カー", "コーヒー", "ケーキ", "ポケット", "バッグ"]},
+  {
+    "type": "intro",
+    "pretext": "In hiragana, to produce a long vowel sound, you would need to write a vowel next to the consonant sound of the vowel you want to prolong. For instance, if you want to create a long vowel sound with the consonant-vowel combination “ka,” (か) you would need to write the vowel “a” (あ) after the character “ka” (か).",
+    "options": ["Kaa – かあ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "In katakana, all you have to do is write a dash (ー) next to the characters to get a long vowel sound.",
+    "options": ["Kaa – カー"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s use the word “coffee” as an example. In Japanese, this would be written in romaji as “kohi”. It uses two long vowel sounds, “oo” and “ii”. To write this in katakana, you would write it as “コーヒー,” using the katakana character “Ko”(コ) and “Hi” (ヒ) and extending their vowel sounds using a dash “ー”.",
+    "options": ["Kohi – コーヒー"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s use another example. The word “cake” in Japanese is “keki.” This would be written in katakana as “ケーキ”",
+    "options": ["Keki – ケーキ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s proceed to double consonants. In hiragana we learned that double consonants are used to indicate a glottal stop. To create a double consonant, you would need to use the small character “っ.”  The same goes for katakana, only the character is different. To make a double consonant, you write the small character “ッ” before a consonant character."
+  },
+  {
+    "type": "mc",
+    "prompt": "Let's take the word “pocket” which in Japanese is “poketto”. In katakana, this would be written as “ポケット.”",
+    "options": ["Poketto – ポケット"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s have another word as an example. The word “baggu” means “bag.” This is written in katakana as “バッグ”",
+    "options": ["Baggu – バッグ"]
+  }
+]

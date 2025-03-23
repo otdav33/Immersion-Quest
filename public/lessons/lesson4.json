@@ -1,0 +1,114 @@
+[
+  {
+    "type": "mc",
+    "pretext": "Great job! You’ve barely scratched the surface. But still, let’s celebrate any and all progress because progress is progress, no matter how little! To celebrate, let’s go through a bunch of rapid-fire exercises. To recap our last two lessons:"
+  },
+  {
+    "type": "mc",
+    "prompt": "Vowels:",
+    "options": ["あ – a", "い – i ", "う – u ", "え – e ", "お – o "]
+  },
+  {
+    "type": "mc",
+    "prompt": "K",
+    "options": ["Ka – か", "Ki – き", "Ku – く", "Ke – け", "Ko – こ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "S",
+    "options": ["Sa - さ", "Shi - し", "Su - す", "Se - せ", "So - そ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Shi",
+    "options": ["す", "そ", "し", "せ"],
+    "answer": "し"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ka",
+    "options": ["け", "そ", "か", "こ"],
+    "answer": "か"
+  },
+  {
+    "type": "mc",
+    "prompt": "A and E",
+    "options": ["あ and い", "あ and え", "え and お", "お and あ"],
+    "answer": "あ and え"
+  },
+  {
+    "type": "mc",
+    "prompt": "O and U",
+    "options": ["お and う", "え and い", "い and お", "お and あ"],
+    "answer": "お and う"
+  },
+  {
+    "type": "mc",
+    "prompt": "Su",
+    "options": ["し", "す", "そ", "せ"],
+    "answer": "す"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ki",
+    "options": ["く", "け", "か", "き"],
+    "answer": "き"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ku",
+    "options": ["く", "き", "け", " こ"],
+    "answer": "く"
+  },
+  {
+    "type": "mc",
+    "prompt": "So",
+    "options": ["し", "す", "そ", "せ"],
+    "answer": "そ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Se",
+    "options": ["せ", "す", "さ", "そ"],
+    "answer": "せ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ke",
+    "options": ["き", "け", "こ", "く"],
+    "answer": "け"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ko",
+    "options": ["す", "き", "く", "こ"],
+    "answer": "こ"
+  },
+  {"type": "mc", "prompt": "i", "options": ["お", "あ", "え", "い"], "answer": "い"},
+  {"type": "mc", "prompt": "a", "options": ["あ", "え", "う", "お"], "answer": "あ"},
+  {"type": "mc", "prompt": "e", "options": ["お", "え", "う", "い"], "answer": "え"},
+  {
+    "type": "mc",
+    "prompt": "Here",
+    "options": ["かお", "ここ", "いす", "すし"],
+    "answer": "ここ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ai",
+    "options": ["かお", "いす", "あい", "すし"],
+    "answer": "あい"
+  },
+  {
+    "type": "mc",
+    "prompt": "Write",
+    "options": ["すし", "かく", "いす", "かお"],
+    "answer": "かく"
+  },
+  {
+    "type": "mc",
+    "prompt": "Sushi",
+    "options": ["ここ", "かお", "いす", "すし"],
+    "answer": "すし"
+  }
+]

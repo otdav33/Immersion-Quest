@@ -1,0 +1,104 @@
+[
+{"type": "preloadsounds", "sounds": ["タ", "チ", "ツ", "テ", "ト", "ツチ"]},
+  {
+    "type": "intro",
+    "pretext": "For the “T” consonant, we have:",
+    "options": ["Ta – タ", "Chi – チ", "Tsu – ツ", "Te – テ", "To – ト"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ta” is written as “タ.” It looks like the end of a Taco. </p><img src='img/mnemonics/Katakana/T/ta_katakana.jpg'>",
+    "options": ["Ta – タ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “タ” below:",
+	"tracing": ["タ1", "タ2", "タ3"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ta",
+    "options": ["ト", "タ", "テ", "ツ"],
+    "answer": "タ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Chi” is written as “チ.” Picture a block of CHEEse. </p><img src='img/mnemonics/Katakana/T/chi_katakana.jpg'>",
+    "options": ["Chi – チ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “チ” below:",
+	"tracing": ["チ1", "チ2", "チ3"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Chi",
+    "options": ["タ", "ト", "チ", "ツ"],
+    "answer": "チ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Tsu” is written as “ツ.” Not to be confused with the katakana character of “Shi” (シ). Think of a TSUnami when thinking of the character of “Tsu” (ツ). </p><img src='img/mnemonics/Katakana/T/tsu_katakana.jpg'>",
+    "options": ["Tsu – ツ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ツ” below:",
+	"tracing": ["ツ1", "ツ2", "ツ3"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Tsu",
+    "options": ["タ", "ツ", "シ", "ト"],
+    "answer": "ツ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Te” is written as a “テ.” It looks like a TElephone pole. </p><img src='img/mnemonics/Katakana/T/te_katakana.jpg'>",
+    "options": ["Te – テ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “テ” below:",
+	"tracing": ["テ1", "テ2", "テ3"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Te",
+    "options": ["ト", "ツ", "テ", "タ"],
+    "answer": "テ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“To” is written as “ト.” You can think of it as a TOtem pole. </p><img src='img/mnemonics/Katakana/T/to_katakana.jpg'>",
+    "options": ["To – ト"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ト” below:",
+	"tracing": ["ト1", "ト2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "To",
+    "options": ["タ", "ツ", "チ", "ト"],
+    "answer": "ト"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the characters of the “T” sounds in katakana! Let’s review:",
+    "options": ["Ta – タ", "Chi – チ", "Tsu – ツ", "Te – テ", "To – ト"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Tsuchi” means “soil”. It is written in katakana as “ツチ”.",
+    "options": ["Tsuchi – ツチ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Tsuchi",
+    "options": ["スシ", "ツチ", "ネコ", "カク"],
+    "answer": "ツチ"
+  }
+]

@@ -1,0 +1,15 @@
+[
+{"type": "survey", "prompt": "", "options": ["", "", "", "", ""]},
+{"type": "intro", "pretext": "", "prompt": "<ruby>目<rt>め</rt></ruby> - eye", "options": ["目"]},
+{"type": "mc", "prompt": "：", "options": ["", "", "", ""], "answer": ""},
+{"type": "mc", "prompt": ":", "options": ["", "", "", "", "", ""], "answer": "", "wrong-answer-text": ""},
+{"type": "ft", "prompt": "：", "options": ["", "", "", "", "", ""], "answer": ["", ""]},
+{"type": "tt", "prompt": ":", "options": ["", "", "", ""], "answer": ["", ""]},
+{"type": "ts", "pretext": "", "prompt": ":", "options": ["", "", "", "", "", ""], "answer": ["", "", "", "", "", ""]},
+{"type": "storyintro", "prompt": "<h1>Story X: Title</h1>"},
+{"type": "story", "pretext": "", "prompt": "", "options": ["", ""]},
+{"type": "storyoutro", "prompt": ""},
+{"type": "newcards", "cards": ["", "", "", "", "", ""]},
+{"type": "cardpractice"},
+{"type": "outro", "prompt": ""}
+]

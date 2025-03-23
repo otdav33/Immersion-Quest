@@ -1,0 +1,85 @@
+[
+  {
+    "type": "intro",
+    "pretext": "\"か\" means just one thing in Japanese, however there is no direct English equivalent. This lesson will cover all the different sides of its meaning.",
+    "prompt": "か - or/question marker particle",
+    "options": ["か"]
+  },
+  {
+    "type": "t",
+    "pretext": "\"か\" can just mean \"or,\" like in English. It replaces whatever particle would be there otherwise.",
+    "prompt": "水かジュースだ",
+    "options": ["it", "is", "water", "or", "juice"],
+    "answer": ["it", "is", "water", "or", "juice"]
+  },
+  {
+    "type": "t",
+    "pretext": "If you see \"required\" above a word, it means that you need to use it for this question, not that it is grammatically necessary.",
+    "prompt": "This is juice or water.",
+    "options": [
+      "これ",
+      "は",
+      "か",
+      "水",
+      "ジュース",
+      "<ruby class=\"required\">だ<rt>required</rt></ruby>"
+    ],
+    "answer": [
+      "これ",
+      "は",
+      "ジュース",
+      "か",
+      "水",
+      "<ruby class=\"required\">だ<rt>required</rt></ruby>"
+    ]
+  },
+  {
+    "type": "t",
+    "pretext": "You can also put \"か\" at the end of sentences to make them into questions. You also put a question mark at the end and raise your intonation at the end of the sentence like in English.",
+    "prompt": "水じゃないか？",
+    "options": ["This", "isn't", "water?"],
+    "answer": ["This", "isn't", "water?"]
+  },
+  {
+    "type": "t",
+    "prompt": "Is this not an apple?",
+    "options": ["じゃない", "か", "りんご", "みず", "下さい"],
+    "answer": ["りんご", "じゃない", "か"]
+  },
+  {
+    "type": "t",
+    "prompt": "Water or juice, please.",
+    "options": ["水", "りんご", "じゃない", "じゃない", "下さい", "か"],
+    "answer": ["みず", "か", "ジュース", "下さい"]
+  },
+  {
+    "type": "t",
+    "pretext": "Note: you cannot use \"か\" after \"だ\" in a sentence because \"だ\" is declarative. It makes something a statement. That is the opposite of making something a question. They just don't mix like that.",
+    "prompt": "ジュースか？",
+    "options": ["isn't", "it", "water", "juice", "please"],
+    "answer": ["isn't", "it", "juice"]
+  },
+  {
+    "type": "intro",
+    "prompt": "<ruby>オレンジ<rt>おれんじ</rt></ruby> - orange (fruit)",
+    "options": ["オレンジ"]
+  },
+  {
+    "type": "t",
+    "prompt": "りんごかオレンジを食べる。",
+    "options": ["apple", "an", "an", "or", "orange", "I", "eat"],
+    "answer": ["I", "eat", "an", "apple", "or", "an", "orange"]
+  },
+  {
+    "type": "t",
+    "prompt": "I drink water or juice.",
+    "options": ["飲む", "水", "ジュース", "下さい", "オレンジ", "か", "を"],
+    "answer": ["水", "か", "ジュース", "を", "飲む"]
+  },
+  {"type": "newcards", "cards": ["か", "オレンジ"]},
+  {"type": "cardpractice"},
+  {
+    "type": "outro",
+    "prompt": "Particles are an especially challenging part of Japanese. If you did even an OK job, you are doing great."
+  }
+]

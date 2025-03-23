@@ -1,0 +1,93 @@
+[
+{"type": "preloadsounds", "sounds": ["チャ", "チュ", "チョ", "ニャ", "ニュ", "ニョ"]},
+  {
+    "type": "intro",
+    "pretext": "When modified with the small characters “ャ,” “ュ,” and “ョ,” the “i” vowel sound in the “T” and “N” consonants become:",
+    "options": [
+      "Cha – チャ",
+      "Chu – チュ",
+      "Cho – チョ",
+      "Nya – ニャ",
+      "Nyu – ニュ",
+      "Nyo – ニョ"
+    ]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Cha” is written as “チャ”.",
+    "options": ["Cha – チャ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Cha",
+    "options": ["チョ", "チュ", "チャ"],
+    "answer": "チャ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Chu” is written as “チュ”.",
+    "options": ["Chu – チュ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Chu",
+    "options": ["チョ", "チュ", "チャ"],
+    "answer": "チュ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Cho” is written as “チョ”.",
+    "options": ["Cho – チョ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Cho",
+    "options": ["チャ", "チョ", "チュ"],
+    "answer": "チョ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Nya,” which is also the Japanese word for “Meow,” is written as “ニャ”.",
+    "options": ["Nya – ニャ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Nya",
+    "options": ["ニュ", "ニョ", "ニャ"],
+    "answer": "ニャ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Nyu” is written as “ニュ”.",
+    "options": ["Nyu – ニュ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Nyu",
+    "options": ["ニュ", "ニャ", "ニョ"],
+    "answer": "ニュ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Nyo” is written as “ニョ”.",
+    "options": ["Nyo – ニョ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Nyo",
+    "options": ["ニョ", "ニャ", "ニュ"],
+    "answer": "ニョ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the “i” vowel sounds of the “T” and “N” consonants written with “ャ,” “ュ,” and “ョ.” To recap:",
+    "options": [
+      "Cha – チャ",
+      "Chu – チュ",
+      "Cho – チョ",
+      "Nya – ニャ",
+      "Nyu – ニュ",
+      "Nyo – ニョ"
+    ]
+  }
+]

@@ -1,0 +1,93 @@
+[
+  {
+    "type": "intro",
+    "pretext": "Awesome! You’ve learned about dakuten (゛) and handakuten (゜) and what happens when you add a marker to the hiragana characters of “K,” “S,” and “T.” Let’s review:"
+  },
+  {
+    "type": "mc",
+    "prompt": "G",
+    "options": ["Ga - が", "Gi – ぎ", "Gu – ぐ", "Ge – げ", "Go – ご"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Z",
+    "options": ["Za – ざ", "Ji – じ", "Zu – ず", "Ze – ぜ", "Zo – ぞ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "D",
+    "options": ["Da – だ", "Dji – ぢ", "Dzu – づ ", "De – で", "Do – ど"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ga and Gi",
+    "options": ["ご and ど", "が and ぎ", "ず and ぞ", "が and じ"],
+    "answer": "が and ぎ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Za and Zu",
+    "options": ["ぜ＆ざ", "が and だ", "ざ and ず", "ぜand ぎ"],
+    "answer": "ざ and ず"
+  },
+  {
+    "type": "mc",
+    "prompt": "De and Do",
+    "options": ["で and ど", "ぢ and だ", "ご and ず", "ず and で"],
+    "answer": "で and ど"
+  },
+  {
+    "type": "mc",
+    "prompt": "Go and Ji",
+    "options": ["ぜand ぎ", "ず and で", "が and じ", "ご and じ"],
+    "answer": "ご and じ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Da and Dzu",
+    "options": ["ご and ど", "だ and づ", "ず and で", "ご and ず"],
+    "answer": "だ and づ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Gu and Ze",
+    "options": ["ぐ and ぜ", "ぜ＆ざ", "ご and ど", "が and だ"],
+    "answer": "ぐ and ぜ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ge",
+    "options": ["ぎ", "ご", "げ", "ぐ"],
+    "answer": "げ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Zo",
+    "options": ["ぞ", "ざ", "ず", "ぜ"],
+    "answer": "ぞ"
+  },
+  {
+    "type": "mc",
+    "prompt": " Dji",
+    "options": ["ど", "で", "ぢ", "だ"],
+    "answer": "ぢ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Hiragana",
+    "options": ["ひらがな", "みず", "だんせい", "くちびる"],
+    "answer": "ひらがな"
+  },
+  {
+    "type": "mc",
+    "prompt": "Mizu",
+    "options": ["くま", "みず", "にじ", "ちず"],
+    "answer": "みず"
+  },
+  {
+    "type": "mc",
+    "prompt": "Denwa",
+    "options": ["くちびる", "でんわ", "だんせい", "みず"],
+    "answer": "でんわ"
+  }
+]

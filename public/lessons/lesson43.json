@@ -1,0 +1,116 @@
+[
+  {
+    "type": "intro",
+    "pretext": "You made it through the basic characters of katakana! Before we proceed to learning katakana with dakuten and handakuten, take this short quiz! But first, let’s review:"
+  },
+  {
+    "type": "mc",
+    "prompt": "M",
+    "options": ["Ma – マ", "Mi – ミ", "Mu – ム", "Me – メ", "Mo – モ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Y and R",
+    "options": [
+      "Ya – ヤ",
+      "Yu – ユ",
+      "Yo – ヨ",
+      "Ra – ラ",
+      "Ri – リ",
+      "Ru – ル",
+      "Re – レ",
+      "Ro – ロ"
+    ]
+  },
+  {
+    "type": "mc",
+    "prompt": "W and N",
+    "options": ["Wa – ワ", "Wo – ヲ", "N – ン"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Me",
+    "options": ["マ", "メ", "モ", "ム"],
+    "answer": "メ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Re",
+    "options": ["ロ", "ラ", "レ", "ル"],
+    "answer": "レ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Wo",
+    "options": ["ワ", "ヤ", "ユ", "ヲ"],
+    "answer": "ヲ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ri",
+    "options": ["リ", "ル", "ロ", "ラ"],
+    "answer": "リ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ra",
+    "options": ["レ", "ロ", "ラ", "ル"],
+    "answer": "ラ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Mo ",
+    "options": ["ム", "モ", "マ", "ノ"],
+    "answer": "モ"
+  },
+  {"type": "mc", "prompt": "N", "options": ["ン", "シ", "ノ", "ナ"], "answer": "ン"},
+  {
+    "type": "mc",
+    "prompt": "Yu",
+    "options": ["ヨ", "ヤ", "ユ", "マ"],
+    "answer": "ユ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ma",
+    "options": ["モ", "ム", "マ", "ワ"],
+    "answer": "マ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Wa",
+    "options": ["ヲ", "ワ", "ヨ", "ヤ"],
+    "answer": "ワ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Yo",
+    "options": ["ユ", "ヤ", "ラ", "ヨ"],
+    "answer": "ヨ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ro ",
+    "options": ["レ", "ロ", "レ", "ヤ"],
+    "answer": "ロ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ya",
+    "options": ["ヨ", "ヲ", "ワ", "ヤ"],
+    "answer": "ヤ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ru",
+    "options": ["ル", "リ", "ロ", "ラ"],
+    "answer": "ル"
+  },
+  {
+    "type": "mc",
+    "prompt": "Mi ",
+    "options": ["モ", "ム", "ミ", "ニ"],
+    "answer": "ミ"
+  },
+  {"type": "mc", "prompt": "Mu", "options": ["ム", "マ", "メ", "モ"], "answer": "ム"}
+]

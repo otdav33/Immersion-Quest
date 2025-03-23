@@ -1,0 +1,114 @@
+[
+  {
+    "type": "intro",
+    "pretext": "Take a break from the lessons and have a short quiz. But first, let’s review what you’ve learned.",
+    "prompt": "You’ve learned about the small vowels and how they’re used to create sounds missing in the native Japanese sound set. Let's review:",
+    "options": [
+      "Ti – ティ",
+      "Tu – トゥ",
+      "She – シェ",
+      "Je – ジェ",
+      "Di – ディ",
+      "Du – ドゥ",
+      "Che – チェ"
+    ]
+  },
+  {
+    "type": "mc",
+    "prompt": "F and W",
+    "options": [
+      "Fa – ファ",
+      "Fi – フィ",
+      "Fu – フ",
+      "Fe – フェ",
+      "Fo – フォ",
+      "Wa – ワ",
+      "Wi – ウィ",
+      "Wu/U – ウ",
+      "We – ウェ",
+      "Wo – ウォ"
+    ]
+  },
+  {
+    "type": "mc",
+    "prompt": "V",
+    "options": ["Va – ヴァ", "Vi – ヴィ", "Vu – ヴ", "Ve – ヴェ", "Vo – ヴォ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "You’ve also learned about long vowels (ー) and the small “ッ”",
+    "options": ["Kohi – コーヒー", "Keki – ケーキ", "Poketto – ポケット", "Baggu – バッグ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "She",
+    "options": ["シェ", "シゥ", "シォ", "シャ"],
+    "answer": "シェ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Che",
+    "options": ["チョ", "チャ", "チェ", "チュ"],
+    "answer": "チェ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Du",
+    "options": ["ドィ", "ドァ", "ドゥ", "ドェ"],
+    "answer": "ドゥ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ti",
+    "options": ["テォ", "ティ", "テァ", "テゥ"],
+    "answer": "ティ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Va",
+    "options": ["ヴォ", "ヴィ", "ヴェ", "ヴァ"],
+    "answer": "ヴァ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Vu",
+    "options": ["ヴ", "バ", "ダ", "ゴ"],
+    "answer": "ヴ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Fo",
+    "options": ["ファ", "フェ", "フォ", "フィ"],
+    "answer": "フォ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Fa",
+    "options": ["フォ", "ファ", "フィ", "フェ"],
+    "answer": "ファ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Wo",
+    "options": ["ヲ", "ウォ", "ウェ", "ウィ"],
+    "answer": "ウォ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Wi",
+    "options": ["ウェ", "ウォ", "ウィ", "ウァ"],
+    "answer": "ウィ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Keki",
+    "options": ["ケーキー", "カーキ", "ケーキ", "コーヒー"],
+    "answer": "ケーキ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Baggu",
+    "options": ["バッグ", "ポケット", "バッド", "タップ"],
+    "answer": "バッグ"
+  }
+]

@@ -1,0 +1,100 @@
+[
+  {
+    "type": "intro",
+    "pretext": "You’ve made it through the end of the dakuten and handakuten lessons. Take a break and take this short quiz! But first, let’s review:"
+  },
+  {
+    "type": "mc",
+    "prompt": "B",
+    "options": ["Ba – バ", "Bi – ビ", "Bu – ブ", "Be – ベ", "Bo – ボ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "P",
+    "options": ["Pa – パ", "Pi – ピ", "Pu – プ", "Pe – ペ", "Po – ポ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Bu",
+    "options": ["バ", "ブ", "ベ", "ボ"],
+    "answer": "ブ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Pa",
+    "options": ["ポ", "ペ", "ピ", "パ"],
+    "answer": "パ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Pi",
+    "options": ["ピ", "ポ", "パ", "プ"],
+    "answer": "ピ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Bo",
+    "options": ["ベ", "ビ", "ボ", "バ"],
+    "answer": "ボ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Be",
+    "options": ["ビ", "ボ", "ベ", "バ"],
+    "answer": "ベ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Pe",
+    "options": ["ポ", "ペ", "パ", "ピ"],
+    "answer": "ペ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Pu",
+    "options": ["プ", "パ", "ピ", "ポ"],
+    "answer": "プ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ba",
+    "options": ["ボ", "ビ", "ベ", "バ"],
+    "answer": "バ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Po",
+    "options": ["ピ", "プ", "ポ", "パ"],
+    "answer": "ポ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Bi",
+    "options": ["バ", "ビ", "ボ", "ブ"],
+    "answer": "ビ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Pan",
+    "options": ["バス", "アイ", "パン", "オイ"],
+    "answer": "パン"
+  },
+  {
+    "type": "mc",
+    "prompt": "Basu",
+    "options": ["バス", "パン", "ハイ", "アイ"],
+    "answer": "バス"
+  },
+  {
+    "type": "mc",
+    "prompt": "Banana",
+    "options": ["エンピツ", "カゾク", "バナナ", "バナニャ"],
+    "answer": "バナナ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Enpitsu",
+    "options": ["ヒラガナ", "エンピツ", "カゾク", "バナニャ"],
+    "answer": "エンピツ"
+  }
+]

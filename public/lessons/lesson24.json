@@ -1,0 +1,97 @@
+[
+{"type": "preloadsounds", "sounds": ["ひゃ", "ひゅ", "ひょ", "みぃ", "みゅ", "みょ", "りゃ", "りゅ", "りょ"]},
+  {
+    "type": "intro",
+    "pretext": "The “H” sound with the vowel “i” in hiragana becomes “Hya,” “Hyu,” and “Hyo” when you combine them with “や,” “ゆ,” and “よ”.",
+    "options": ["Hya – ひゃ", "Hyu – ひゅ", "Hyo – ひょ"]
+  },
+  {"type": "mc", "prompt": "Hya is written as “ひゃ”.", "options": ["Hya – ひゃ"]},
+  {
+    "type": "mc",
+    "prompt": "Hya",
+    "options": ["ひゃ", "ひょ", "ひゅ"],
+    "answer": "ひゃ"
+  },
+  {"type": "mc", "prompt": "Hyu is written at “ひゅ”.", "options": ["Hyu – ひょ"]},
+  {
+    "type": "mc",
+    "prompt": "Hyu",
+    "options": ["ひょ", "ひゃ", "ひゅ"],
+    "answer": "ひゅ"
+  },
+  {"type": "mc", "prompt": "Hyo is written as “ひょ”.", "options": ["Hyo – ひょ"]},
+  {
+    "type": "mc",
+    "prompt": "Hyo",
+    "options": ["ひゅ", "ひょ", "ひゃ"],
+    "answer": "ひょ"
+  },
+  {
+    "type": "mc",
+    "prompt": "The “i” vowel sound in “M” becomes “Myi,” “Myu,” and “Myo,” when combined with “や,” “ゆ,” and “よ”.",
+    "options": ["Myi – みぃ", "Myu – みゅ", "Myo – みょ"]
+  },
+  {"type": "mc", "prompt": "“Mya” is written as “みゃ”.", "options": ["Mya – みゃ"]},
+  {
+    "type": "mc",
+    "prompt": "Mya",
+    "options": ["みょ", "みゃ", "みゅ"],
+    "answer": "みゃ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Myu” is written as “みゅ”.",
+    "options": ["Myu  – みゅ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Myu",
+    "options": ["みゅ", "みょ", "みゃ"],
+    "answer": "みゅ"
+  },
+  {"type": "mc", "prompt": "“Myo” is written as “みょ”.", "options": ["Myo – みょ"]},
+  {
+    "type": "mc",
+    "prompt": "Myo",
+    "options": ["みゅ", "みゃ", "みょ"],
+    "answer": "みょ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Lastly, the “i” vowel sound in the “R” consonant in hiragana becomes “Rya,” “Ryu,” and “Ryo” when written with “や,” “ゆ,” and “よ” next to them. There are no combinations for “W” since “W” has no “i” vowel sound.",
+    "options": ["Rya – りゃ", "Ryu – りゅ", "Ryo – りょ"]
+  },
+  {"type": "mc", "prompt": "“Rya” is written as “りゃ”.", "options": ["Rya – りゃ"]},
+  {
+    "type": "mc",
+    "prompt": "Rya",
+    "options": ["りゃ", "りょ", "りゅ"],
+    "answer": "りゃ"
+  },
+  {"type": "mc", "prompt": "“Ryu” is written as “りゅ”.", "options": ["Ryu – りゅ"]},
+  {
+    "type": "mc",
+    "prompt": "Ryu",
+    "options": ["りょ", "りゃ", "りゅ"],
+    "answer": "りゅ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the “i” vowel sounds of “H,” “M,” and “R” with “や,” “ゆ,” and “よ”. Let’s recap:"
+  },
+  {
+    "type": "mc",
+    "prompt": "H",
+    "options": ["Hya – ひゃ", "Hyu – ひゅ", "Hyo – ひょ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "M",
+    "options": ["Myi – みぃ", "Myu – みゅ", "Myo – みょ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "R",
+    "options": ["Rya – りゃ", "Ryu – りゅ", "Ryo – りょ"]
+  }
+]

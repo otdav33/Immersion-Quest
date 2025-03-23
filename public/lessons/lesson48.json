@@ -1,0 +1,129 @@
+[
+  {
+    "type": "intro",
+    "pretext": "You’re halfway through your katakana lessons! Awesome! Take this short quiz and see how much you’ve learned. But first, let's review:"
+  },
+  {
+    "type": "mc",
+    "prompt": "G",
+    "options": ["Ga – ガ", "Gi – ギ", "Gu – グ", "Ge – ゲ", "Go – ゴ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Z",
+    "options": ["Za – ザ", "Ji – ジ", "Zu – ズ", "Ze – ゼ", "Zo – ゾ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "D",
+    "options": ["Da – ダ", "Dji – ヂ", "Du – ヅ", "De – デ", "Do – ド"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Do",
+    "options": ["ダ", "ド", "ヂ", "ヅ"],
+    "answer": "ド"
+  },
+  {
+    "type": "mc",
+    "prompt": "Zo",
+    "options": ["ザ", "ジ", "ズ", "ゾ"],
+    "answer": "ゾ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Da",
+    "options": ["ド", "ヂ", "ダ", "ヅ"],
+    "answer": "ダ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Gi",
+    "options": ["ギ", "ド", "ダ", "デ"],
+    "answer": "ギ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ji",
+    "options": ["ゾ", "ジ", "ザ", "ゼ"],
+    "answer": "ジ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Du",
+    "options": ["ヂ", "ダ", "ヅ", "ド"],
+    "answer": "ヅ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Dji",
+    "options": ["ヂ", "ド", "ダ", "ヅ"],
+    "answer": "ヂ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ga",
+    "options": ["ド", "ガ", "デ", "ヂ"],
+    "answer": "ガ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ze",
+    "options": ["ゾ", "ザ", "ジ", "ゼ"],
+    "answer": "ゼ"
+  },
+  {
+    "type": "mc",
+    "prompt": "De",
+    "options": ["ド", "ダ", "デ", "ヅ"],
+    "answer": "デ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Za",
+    "options": ["ガ", "ゾ", "ザ", "ゼ"],
+    "answer": "ザ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Zu",
+    "options": ["ゾ", "ズ", "ジ", "ゼ"],
+    "answer": "ズ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Go",
+    "options": ["ゲ", "ガ", "ギ", "ゴ"],
+    "answer": "ゴ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Gu",
+    "options": ["ゴ", "ガ", "ギ", "グ"],
+    "answer": "グ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ge",
+    "options": ["ガ", "ギ", "ゲ", "ゴ"],
+    "answer": "ゲ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Denwa",
+    "options": ["デンワ", "ナカマ", "カゾク"],
+    "answer": "デンワ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Kazoku",
+    "options": ["デンワ", "カゾク", "シロイ"],
+    "answer": "カゾク"
+  },
+  {
+    "type": "mc",
+    "prompt": "Gakusei",
+    "options": ["ヒラガナ", "ガクセイ", "カタカナ"],
+    "answer": "ガクセイ"
+  }
+]

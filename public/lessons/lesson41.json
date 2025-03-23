@@ -1,0 +1,104 @@
+[
+{"type": "preloadsounds", "sounds": ["ラ", "リ", "ル", "レ", "ロ", "トリ"]},
+  {
+    "type": "intro",
+    "pretext": "In katakana, the characters for the “R” consonant sounds are:",
+    "options": ["Ra – ラ", "Ri – リ", "Ru – ル", "Re – レ", "Ro – ロ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ra” is written as “ラ.” Think of a lake of LAva. </p><img src='img/mnemonics/Katakana/R/ra_katakana.jpg'>",
+    "options": ["Ra – ラ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ラ” below:",
+	"tracing": ["ラ1", "ラ2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ra",
+    "options": ["ロ", "ラ", "レ", "ル"],
+    "answer": "ラ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ri” is represented by the character “リ.” It similar to the hiragana character “Ri” (り). </p><img src='img/mnemonics/Katakana/R/ri_katakana.jpg'>",
+    "options": ["Ri – リ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ラ” below:",
+	"tracing": ["リ1", "リ2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ri ",
+    "options": ["ロ", "ラ", "リ", "ル"],
+    "answer": "リ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ru” is written as “ル.” Think of a LOOse screw. </p><img src='img/mnemonics/Katakana/R/ru_katakana.jpg'>",
+    "options": ["Ru – ル"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ル” below:",
+	"tracing": ["ル1", "ル2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ru",
+    "options": ["ル", "ラ", "レ", "リ"],
+    "answer": "ル"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Re” is written as “レ.” Think of a LEver. </p><img src='img/mnemonics/Katakana/R/re_katakana.jpg'>",
+    "options": ["Re – レ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “レ” below:",
+	"tracing": ["レ1"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Re ",
+    "options": ["ロ", "リ", "レ", "ラ"],
+    "answer": "レ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ro” is written as “ロ.” You can remember its character by thinking of a square LOck. </p><img src='img/mnemonics/Katakana/R/ro_katakana.jpg'>",
+    "options": ["Ro – ロ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ロ” below:",
+	"tracing": ["ロ1", "ロ2", "ロ3"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ro",
+    "options": ["ラ", "ル", "リ", "ロ"],
+    "answer": "ロ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the characters for the “R” consonant sounds in katakana. Let’s review:",
+    "options": ["Ra – ラ", "Ri – リ", "Ru – ル", "Re – レ", "Ro – ロ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Tori” means “bird.” In katakana, it is written as “トリ”.",
+    "options": ["Tori – トリ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Tori",
+    "options": ["ツチ", "トリ", "ユメ", "ヒト"],
+    "answer": "トリ"
+  }
+]

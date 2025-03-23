@@ -1,0 +1,71 @@
+[
+  {
+    "type": "intro",
+    "pretext": "You did it! You've learned the “B” and “P” sounds in hiragana. To celebrate this important milestone, you should take a short quiz! But first, let's review:"
+  },
+  {
+    "type": "mc",
+    "prompt": "B",
+    "options": ["Ba – ば", "Bi – び", "Bu – ぶ", "Be – べ", "Bo – ぼ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "P",
+    "options": ["Pa – ぱ", "Pi – ぴ", "Pu – ぷ", "Pe – ぺ", "Po – ぽ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Bi",
+    "options": ["び", "ば", "ぽ", "ぴ"],
+    "answer": "び"
+  },
+  {
+    "type": "mc",
+    "prompt": "Po",
+    "options": ["ぱ", "ぽ", "ば", "ぼ"],
+    "answer": "ぽ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Pa",
+    "options": ["ば", "ぽ", "ぱ", "ぺ"],
+    "answer": "ぱ"
+  },
+  {"type": "mc", "prompt": "Ba", "options": ["ぼ", "ぱ", "ば", "ぽ"], "answer":"ば"},
+  {
+    "type": "mc",
+    "prompt": "Be and Bo",
+    "options": ["ぴ and ぽ", "べ and ぼ", "び and ぼ", "ペ and ぽ"],
+    "answer": "べ and ぼ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Pi and Pe",
+    "options": ["ぴ and ぺ", "び and べ", "ぼ and ば", "ぽ and ぽ"],
+    "answer": "ぴ and ぺ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Pu",
+    "options": ["ぱ", "ぺ", "ぽ", "ぷ"],
+    "answer": "ぷ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Bu",
+    "options": ["ぷ", "ぶ", "ぺ", "べ"],
+    "answer": "ぶ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Buta",
+    "options": ["ばす", "ぶた", "あい", "いえ"],
+    "answer": "ぶた"
+  },
+  {
+    "type": "mc",
+    "prompt": "Enpitsu",
+    "options": ["えんぴつ", "かたかな", "ひらがな", "くちびる"],
+    "answer": "えんぴつ"
+  }
+]

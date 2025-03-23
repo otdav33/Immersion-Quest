@@ -1,0 +1,105 @@
+[
+  {"type": "preloadsounds", "sounds": ["さ", "し", "す", "せ", "そ", "すし"]},
+  {
+    "type": "intro",
+    "prompt": "Next, we have the consonant “S” paired with the vowels “a”, “i”, “u”, “e”, and “o”.",
+    "options": ["Sa - さ", "Shi - し", "Su - す", "Se - せ", "So - そ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Sa” is represented by the character “さ”. The character “さ” is also used in Japanese to mean “I don’t know”, so if you ever forget the character, just think of a person shrugging. </p><img src='img/mnemonics/Hiragana/S/sa_mnemonics.jpg'>",
+    "options": ["Sa - さ"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “さ” below:</p><img src='img/hiragana/sa.png'>",
+	"tracing": ["さ1", "さ2", "さ3"]
+  },
+
+  {
+    "type": "mc",
+    "prompt": "Sa",
+    "options": ["さ", "す", "し", "そ"],
+    "answer": "さ"
+  },
+  {
+    "type": "mc",
+    "prompt": "There is no “Si” sound in Japanese. In its place is “Shi,” which is represented by the character “し.” It looks like half of a SHIp’s anchor. </p><img src='img/mnemonics/Hiragana/S/shi_mnemonics.jpg'>",
+    "options": ["Shi - し"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “し” below:</p><img src='img/hiragana/shi.png'>",
+	"tracing": ["し1"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Shi",
+    "options": ["す", "そ", "し", "せ"],
+    "answer": "し"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Su” is written as “す”. It looks like a SUper Slow Snail. </p><img src='img/mnemonics/Hiragana/S/su_mnemonics.jpg'>",
+    "options": ["Su - す"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “す” below:</p><img src='img/hiragana/su.png'>",
+	"tracing": ["す1", "す2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Su",
+    "options": ["せ", "す", "し", "そ"],
+    "answer": "す"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Se” is written as the character “せ”. It has a rectangular shape, just like a CEllphone. </p><img src='img/mnemonics/Hiragana/S/se_mnemonics.jpg'>",
+    "options": ["Se - せ"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “せ” below:</p><img src='img/hiragana/se.png'>",
+	"tracing": ["せ1", "せ2", "せ3"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Se",
+    "options": ["せ", "そ", "し", "さ"],
+    "answer": "せ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“So” is written as the character “そ”. You can think of SOmebody SAWing a log. </p><img src='img/mnemonics/Hiragana/S/so_mnemonics.jpg'>",
+    "options": ["So - そ"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “そ” below:</p><img src='img/hiragana/so.png'>",
+	"tracing": ["そ1"]
+  },
+  {
+    "type": "mc",
+    "prompt": "So",
+    "options": ["さ", "し", "そ", "す"],
+    "answer": "そ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the consonant-vowels of “S” in hiragana. To recap:",
+    "options": ["Sa - さ", "Shi - し", "Su - す", "Se - せ", "So - そ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s learn words with the consonant-vowels of “S”. “Sushi” is a Japanese food and is written as “すし” with the characters of “Su” (す) and “Shi” (し).",
+    "options": ["Sushi - すし"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Sushi",
+    "options": ["かさ", "すし", "いす"],
+    "answer": "すし"
+  }
+]

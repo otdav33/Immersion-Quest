@@ -1,0 +1,132 @@
+[
+{"type": "preloadsounds", "sounds": ["ヒャ", "ヒュ", "ヒョ", "ミャ", "ミュ", "ミョ", "リャ", "リュ", "リョ"]},
+  {
+    "type": "intro",
+    "pretext": "When written with “ャ,” “ュ,” and “ョ,” the “i” vowel sound of the consonants “H,” “M,” and “R,” becomes:",
+    "options": [
+      "Hya – ヒャ",
+      "Hyu – ヒュ",
+      "Hyo – ヒョ",
+      "Mya – ミャ",
+      "Myu – ミュ",
+      "Myo – ミョ",
+      "Rya – リャ",
+      "Ryu – リュ",
+      "Ryo – リョ"
+    ]
+  },
+  {
+    "type": "mc",
+    "prompt": "\"Hya\" is written as “ヒャ”.",
+    "options": ["Hya – ヒャ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Hya",
+    "options": ["ヒョ", "ヒュ", "ヒャ"],
+    "answer": "ヒャ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Hyu” is written as “ヒュ”.",
+    "options": ["Hyu – ヒュ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Hyu",
+    "options": ["ヒョ", "ヒュ", "ヒャ"],
+    "answer": "ヒュ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Hyo” is written as “ヒョ”.",
+    "options": ["Hyo – ヒョ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Hyo",
+    "options": ["ヒャ", "ヒョ", "ヒュ"],
+    "answer": "ヒョ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Mya” is written as “ミャ”.",
+    "options": ["Mya – ミャ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Mya",
+    "options": ["ミャ", "ミョ", "ミュ"],
+    "answer": "ミャ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Myu” is written as “ミュ”.",
+    "options": ["Myu – ミュ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Myu",
+    "options": ["ミョ", "ミュ", "ミャ"],
+    "answer": "ミュ"
+  },
+  {
+    "type": "survey",
+    "prompt": "“Myo” is written as “ミョ”.",
+    "options": ["Myo – ミョ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Myo",
+    "options": ["ミョ", "ミャ", "ミュ"],
+    "answer": "ミョ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Rya” is written as “リャ”.",
+    "options": ["Rya – リャ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Rya",
+    "options": ["リョ", "リャ", "リュ"],
+    "answer": "リャ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ryu” is written as “リュ”.",
+    "options": ["Ryu – リュ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ryu",
+    "options": ["リョ", "リャ", "リュ"],
+    "answer": "リュ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ryo” is written as “リョ”.",
+    "options": ["Ryo – リョ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ryo",
+    "options": ["リュ", "リョ", "リャ"],
+    "answer": "リョ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the modified “i” vowel sound for the consonants “H,” “M,” and “R.” To recap:",
+    "options": [
+      "Hya – ヒャ",
+      "Hyu – ヒュ",
+      "Hyo – ヒョ",
+      "Mya – ミャ",
+      "Myu – ミュ",
+      "Myo – ミョ",
+      "Rya – リャ",
+      "Ryu – リュ",
+      "Ryo – リョ"
+    ]
+  }
+]

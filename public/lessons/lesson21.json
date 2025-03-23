@@ -1,0 +1,132 @@
+[
+  {
+    "type": "intro",
+    "pretext": "You’ve learned dakuten (゛) and handakuten (゜)! Awesome! Take this test to see how much you remember. You don’t have to take this test right now if you’re not ready."
+  },
+  {
+    "type": "mc",
+    "prompt": "Ga and Za",
+    "options": ["が and ざ", "が and ご", "ご and ざ", "ぞ and ぐ"],
+    "answer": "が and ざ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Gi and Ji",
+    "options": ["ご and じ", "ぐ and ず", "ぎ and じ", "が and ざ"],
+    "answer": "ぎ and じ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Gu and Zu",
+    "options": ["ぐ and づ", "げ and ぜ", "ご and じ", "ぐ and ず"],
+    "answer": "ぐ and ず"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ge and Ze",
+    "options": ["ざ and が", "げ and ぜ", "ご and ぞ", "ぢ and び"],
+    "answer": "げ and ぜ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Go and Zo",
+    "options": ["ご and ぞ", "ぱ and ぴ", "だ and ば", "ご and が"],
+    "answer": "ご and ぞ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Da and Ba",
+    "options": ["だ and び", "ド andぼ", "だ and ば", "ぼ and ご"],
+    "answer": "だ and ば"
+  },
+  {
+    "type": "mc",
+    "prompt": "Dji and Bi",
+    "options": ["び and ぶ", "ぼ and ば", "ぢ and び", "ぶ and づ"],
+    "answer": "ぢ and び"
+  },
+  {
+    "type": "mc",
+    "prompt": "Dzu and Bu ",
+    "options": ["ぷ and が", "ぽ and ご", "ど and ぼ", "づ and ぶ"],
+    "answer": "づ and ぶ"
+  },
+  {
+    "type": "mc",
+    "prompt": "De and Be",
+    "options": ["で and ぼ", "で and ぽ", "で and べ", "で and ど"],
+    "answer": "で and べ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Do and Bo",
+    "options": ["ど and ぼ", "ぼ and ぐ", "ず and ぞ", "ど and ぷ"],
+    "answer": "ど and ぼ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Pa and Pi",
+    "options": ["ぱ and ぽ", "ぷ andぴ", "ぱ and ぴ", "ぴ and ぽ"],
+    "answer": "ぱ and ぴ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Pu and Pe",
+    "options": ["ぷ and ぽ", "ぺ andぱ", "ぱ and ぴ", "ぷ and ぺ"],
+    "answer": "ぷ and ぺ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Po",
+    "options": ["ぱ", "ぺ", "ぽ", "ぷ"],
+    "answer": "ぽ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Hiragana",
+    "options": ["かぞく", "ひらがな", "かたかな", "えんぴつ"],
+    "answer": "ひらがな"
+  },
+  {
+    "type": "mc",
+    "prompt": "Jikan (Time)",
+    "options": ["かぞく", "でんわ", "ばす", "じかん"],
+    "answer": "じかん"
+  },
+  {
+    "type": "mc",
+    "prompt": "Kazoku (Family)",
+    "options": ["でんわ", "かぞく", "じかん", "えんぴつ"],
+    "answer": "かぞく"
+  },
+  {
+    "type": "mc",
+    "prompt": "Denwa (Telephone)",
+    "options": ["でんわ", "かぞく", "じかん", "まずい"],
+    "answer": "でんわ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Buta (Pig)",
+    "options": ["ばす", "ぱん", "おい", "ぶた"],
+    "answer": "ぶた"
+  },
+  {
+    "type": "mc",
+    "prompt": "Basu (Bus)",
+    "options": ["ぱん", "ぶた", "ばす", "ぴざ"],
+    "answer": "ばす"
+  },
+  {
+    "type": "mc",
+    "prompt": "Pan (Bread)",
+    "options": ["ぱん", "ぴざ", "ばす", "ぶた"],
+    "answer": "ぱん"
+  },
+  {
+    "type": "mc",
+    "prompt": "Enpitsu (Pencil)",
+    "options": ["ひらがな", "えんぴつ", "かたかな", "べんとう"],
+    "answer": "えんぴつ"
+  }
+]

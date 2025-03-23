@@ -1,0 +1,82 @@
+[
+  {
+    "type": "intro",
+    "pretext": "You learned that characters modified with dakuten and handakuten can also be written with “ャ,” “ュ,” and “ョ”. Take this short quiz! But first, let’s review:"
+  },
+  {
+    "type": "mc",
+    "prompt": "G and J",
+    "options": [
+      "Gya – ギャ",
+      "Gyu – ギュ",
+      "Gyo – ギョ",
+      "Ja – ジャ",
+      "Ju – ジュ",
+      "Jo – ジョ"
+    ]
+  },
+  {
+    "type": "mc",
+    "prompt": "B and P",
+    "options": [
+      "Bya – ビャ",
+      "Byu – ビュ",
+      "Byo – ビョ",
+      "Pya – ピャ",
+      "Pyu – ピュ",
+      "Pyo – ピョ"
+    ]
+  },
+  {
+    "type": "mc",
+    "prompt": "Gyo",
+    "options": ["ギョ", "ギャ", "ギュ"],
+    "answer": "ギョ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Gyu",
+    "options": ["ギャ", "ギョ", "ギュ"],
+    "answer": "ギュ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Gya",
+    "options": ["ギョ", "ギュ", "ギャ"],
+    "answer": "ギャ"
+  },
+  {"type": "mc", "prompt": "Ja", "options": ["ジュ", "ジャ", "ジョ"], "answer": "ジャ"},
+  {"type": "mc", "prompt": "Jo", "options": ["ジョ", "ジュ", "ジャ"], "answer": "ジョ"},
+  {"type": "mc", "prompt": "Ju", "options": ["ジョ", "ジュ", "ジャ"], "answer": "ジュ"},
+  {
+    "type": "mc",
+    "prompt": "Byo",
+    "options": ["ビャ", "ビュ", "ビョ"],
+    "answer": "ビョ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Bya",
+    "options": ["ビョ", "ビャ", "ビュ"],
+    "answer": "ビャ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Byu",
+    "options": ["ビュ", "ビョ", "ビャ"],
+    "answer": "ビュ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Pyo",
+    "options": ["ピャ", "ピョ", "ピュ"],
+    "answer": "ピョ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Pyu",
+    "options": ["ピュ", "ピョ", "ピャ"],
+    "answer": "ピュ"
+  },
+  {"type": "mc", "prompt": "Pya", "options": ["ピョ", "ピュ", "ピャ"], "answer": "ピャ"}
+]

@@ -1,0 +1,106 @@
+[
+  {
+    "type": "mc",
+    "pretext": "Take a quick break from learning katakana by taking this short quiz! But first, let’s recap:"
+  },
+  {
+    "type": "mc",
+    "prompt": "T",
+    "options": ["Ta – タ", "Chi – チ", "Tsu – ツ", "Te – テ", "To – ト"]
+  },
+  {
+    "type": "mc",
+    "prompt": "N",
+    "options": ["Na – ナ", "Ni – ニ", "Nu – ヌ", "Ne – ネ", "No – ノ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "H",
+    "options": ["Ha – ハ", "Hi – ヒ", "Hu – フ", "He – ヘ", "Ho – ホ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Chi",
+    "options": ["ハ", "チ", "ツ", "テ"],
+    "answer": "チ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ha",
+    "options": ["ホ", "フ", "ヘ", "ハ"],
+    "answer": "ハ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ho",
+    "options": ["ノ", "ホ", "ナ", "ヒ"],
+    "answer": "ホ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ne",
+    "options": ["ネ", "ノ", "ナ", "ニ"],
+    "answer": "ネ"
+  },
+  {
+    "type": "mc",
+    "prompt": "No",
+    "options": ["ト", "ツ", "ノ", "ナ"],
+    "answer": "ノ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Tsu",
+    "options": ["テ", "タ", "ナ", "ツ"],
+    "answer": "ツ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ni",
+    "options": ["ハ", "ニ", "チ", "ツ"],
+    "answer": "ニ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Na",
+    "options": ["ノ", "ヌ", "フ", "ナ"],
+    "answer": "ナ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Hu",
+    "options": ["フ", "ハ", "ヘ", "ヒ"],
+    "answer": "フ"
+  },
+  {
+    "type": "mc",
+    "prompt": "He",
+    "options": ["ホ", "ノ", "ヘ", "ト"],
+    "answer": "ヘ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ta",
+    "options": ["タ", "テ", "チ", "ト"],
+    "answer": "タ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Te",
+    "options": ["ヘ", "ホ", "テ", "タ"],
+    "answer": "テ"
+  },
+  {
+    "type": "mc",
+    "prompt": "To",
+    "options": ["ホ", "ト", "ナ", "ヌ"],
+    "answer": "ト"
+  },
+  {
+    "type": "mc",
+    "prompt": "Nu",
+    "options": ["ネ", "ナ", "ヌ", "タ"],
+    "answer": "ヌ"
+  },
+  {"type": "mc", "prompt": "Hi", "options": ["ヒ", "ホ", "ハ", "ノ"], "answer": "ヒ"}
+]

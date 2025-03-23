@@ -1,0 +1,112 @@
+[
+{"type": "preloadsounds", "sounds": ["ティ", "パーティー", "トゥ", "タトゥー", "シェ", "ジェ", "ディ", "ドゥ", "チェ"]},
+  {
+    "type": "intro",
+    "pretext": "In katakana, vowels also have a small version that can be used to modify the sounds of existing consonant characters. Hiragana has this as well but it isn’t used often. "
+  },
+  {
+    "type": "mc",
+    "prompt": "This is more common in katakana because katakana characters are used to write foreign words and sometimes foreign words have sounds that can’t be spelled using only the basic Japanese syllable sounds. To account for these missing sounds, you write the small version of a vowel after a consonant."
+  },
+  {
+    "type": "mc",
+    "prompt": "For instance, if a foreign word uses the sound “Ti,” it would be impossible to write using only a single katakana character. To get the “Ti” sound, you would need to write the small version of the katakana character “i”(イ) right after the consonant sound “Te”(テ). This changes it from Te (テ) to Ti (ティ). ",
+    "options": ["Ti – ティ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ti",
+    "options": ["チィ", "ティ", "ナィ", "モィ"],
+    "answer": "ティ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Pātī” is “Party” in Japanese. It is written as “パーティー”.",
+    "options": ["Pātī – パーティー"]
+  },
+  {
+    "type": "mc",
+    "pretext": "There are other missing sounds besides “Ti”. Let’s go through them together.",
+    "prompt": "Another missing sound from the consonant “T” in Japanese is the “Tu” sound. In order to get this sound, you need to take the character “To” (ト) and attach it with a small “u” (ゥ). This becomes “Tu”  (トゥ).",
+    "options": ["Tu – トゥ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Tu",
+    "options": ["テゥ", "レゥ", "トゥ", "ソゥ"],
+    "answer": "トゥ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Tatū” is “Tattoo” in English. It is written in katakana as “タトゥー”. ",
+    "options": ["Tatū – タトゥー"]
+  },
+  {
+    "type": "mc",
+    "prompt": "The sound “she” is also absent in the Japanese consonant sounds. We have the standard “Shi” (シ), which can be modified to create “Sha,” (シャ) “Shu,” (シュ), and “Sho” (ショ) by attaching it with the small version of “Ya,” (ヤ) “Yu,” (ユ) and “Yo” (ヨ). To get “She,” you have to write the small vowel “e” (エ) right after the character “Shi” (シ).",
+    "options": ["She – シェ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "She",
+    "options": ["ソェ", "ツェ", "シェ", "ンェ"],
+    "answer": "シェ"
+  },
+  {
+    "type": "mc",
+    "prompt": "The same can be applied to characters written with dakuten. “Ji” (ジ) can be attached with the small vowel “e” (ェ) to get “Je” (ジェ).",
+    "options": ["Je – ジェ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Je",
+    "options": ["ヅェ", "ゾェ", "ズェ", "ジェ"],
+    "answer": "ジェ"
+  },
+  {
+    "type": "mc",
+    "prompt": "The “D” consonant is missing the same set of sounds as the “T” consonant, “Di” and “Du”. The same way we got “Ti,” (ティ) we write the small vowel “i” (ィ) right after the character “De” (ディ).",
+    "options": ["Di – ディ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Di",
+    "options": ["ドィ", "ヂィ", "ディ", "ダィ"],
+    "answer": "ディ"
+  },
+  {
+    "type": "mc",
+    "prompt": "The same logic can be applied to get the sound “Du,” except instead of the small vowel “i,” (ィ) we write the small vowel “u” (ゥ) after the character “Do” (ド).",
+    "options": ["Du – ドゥ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Du",
+    "options": ["ドゥ", "デゥ", "ヅゥ", "ダゥ"],
+    "answer": "ドゥ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Another missing sound is the sound “Che.” To get this, write “Chi” (チ) and then attach it with the small vowel “e” (ェ).",
+    "options": ["Che – チェ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Che",
+    "options": ["テェ", "トェ", "チェ", "タェ"],
+    "answer": "チェ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were some of the missing sounds in Japanese. We’ll learn the rest on our next lesson. Let’s recap the sounds we’ve learned this lesson:",
+    "options": [
+      "Ti – ティ",
+      "Tu – トゥ",
+      "She – シェ",
+      "Je – ジェ",
+      "Di – ディ",
+      "Du – ドゥ",
+      "Che – チェ"
+    ]
+  }
+]

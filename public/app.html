@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Immersion Quest</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css" />
+
+    <!--update the version number as needed-->
+    <script defer src="/__/firebase/10.12.2/firebase-app-compat.js"></script>
+    <script defer src="/__/firebase/10.12.2/firebase-auth-compat.js"></script>
+    <script defer src="/__/firebase/10.12.2/firebase-database-compat.js"></script>
+    <script defer src="/__/firebase/10.12.2/firebase-firestore-compat.js"></script>
+    <script defer src="/__/firebase/10.12.2/firebase-functions-compat.js"></script>
+    <script defer src="/__/firebase/10.12.2/firebase-messaging-compat.js"></script>
+    <script defer src="/__/firebase/10.12.2/firebase-storage-compat.js"></script>
+    <script defer src="/__/firebase/10.12.2/firebase-analytics-compat.js"></script>
+    <script defer src="/__/firebase/10.12.2/firebase-remote-config-compat.js"></script>
+    <script defer src="/__/firebase/10.12.2/firebase-performance-compat.js"></script>
+
+    <script defer src="/__/firebase/init.js"></script>
+    <script defer src="main.js"></script>
+  </head>
+  <body>
+    <div class="flex-down">
+      <!--
+        <ul class="navbar">
+        <li class="navbar"><a href="index.html">Home</a></li>
+        <li class="navbar"><a href="about.html">About</a></li>
+        <li class="navbar"><a href="login.html">Login/Logout</a></li>
+        </ul>
+      -->
+      <div class="flex-top">
+      <button id="hamburgerbutton" onclick="hamburgerTray()">☰</button>
+      <h2 class="topTitle flex-grow">Immersion Quest</h2>
+      <button id="showhideromanizationbutton" onclick="showHideRomanization()" hidden>あ(a)</button>
+      <button id="lessonselectorbutton" onclick="lessonSelectorMenu()">📚</button>
+        <!--
+      <button id="authbutton" onclick="authTray()">Login/Logout</button>
+        -->
+      </div>
+      <div id="hamburger-container" class="tray" hidden>
+        <label for="speakers">Select TTS speaker:</label>
+        <select name="speakers" id="speakers">
+          <option value="2">VOICEVOX - 春日部つむぎ (Tsumugi Kasukabe)</option>
+          <option value="0">VOICEVOX - ずんだもん (Zundamon)</option>
+        </select>
+        <br>
+        <br>
+        <!--
+      </div>
+      <div id="auth-container" class="tray" hidden>
+        -->
+        <div id="login-container">
+          <button id="googlelogin" onclick="loginGoogle()">Sign in with Google</button>
+          <p>-- Or --</p>
+          <label for="email">Email</label>
+          <input name="email" id="email" />
+          <label for="password">Password</label>
+          <input name="password" id="password" type="password" />
+          <button id="login" onclick="loginEmail()">Login</button>
+          <button id="signup" onclick="signupEmail()">Sign Up</button>
+          <button id="resetpassword" onclick="resetPassword()">Reset Password for above email</button>
+        </div>
+        <div id="logout-container">
+          <button id="logout" onclick="logout()">Logout</button>
+        </div>
+      </div>
+      <div id="lessonselector-container" class="tray" hidden>
+        <p>lesson selector menu currently not implemented</p>
+        <label for="lessonnumber">Lesson number:</label>
+        <input name="lessonnumber" id="lessonnumber" type="number"></input>
+        <button id="lessongo" onclick="lessonGo()">Go to lesson</button>
+      </div>
+
+      <div id="exercise" class="tray flex-grow"></div>
+
+      <div id="bottombar" class="bottombar">
+        <div class="bottombarcontainer">
+          <div class="feedback" id="feedbackArea"></div>
+          <button id="nextButton">Next</button>
+        </div>
+      </div>
+    </div>
+  </body>
+</html>

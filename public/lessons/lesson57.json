@@ -1,0 +1,68 @@
+[
+{"type": "preloadsounds", "sounds": ["ギャ", "ギュ", "ギョ", "ジャ", "ジュ", "ジョ"]},
+  {
+    "type": "intro",
+    "prompt": "Characters modified with dakuten and handakuten can also be written with small “ャ,” “ュ,” and “ョ.” Just like with the basic characters, this replaces the “i” in their vowel sounds with “Ya” (ャ), “Yu” (ュ), and “Yo”( ョ). "
+  },
+  {
+    "type": "mc",
+    "prompt": "The “G” sound written with “ャ,” “ュ,” and “ョ” becomes:",
+    "options": ["Gya – ギャ", "Gyu – ギュ", "Gyo – ギョ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Gya” is written as “ギャ”.",
+    "options": ["Gya – ギャ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Gya",
+    "options": ["ギョ", "ギャ", "ギュ"],
+    "answer": "ギャ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Gyu” is written as “ギュ”.",
+    "options": ["Gyu – ギュ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Gyu",
+    "options": ["ギュ", "ギャ", "ギョ"],
+    "answer": "ギュ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Gyo” is written as “ギョ”.",
+    "options": ["Gyo – ギョ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Gyo",
+    "options": ["ギュ", "ギャ", "ギョ"],
+    "answer": "ギョ"
+  },
+  {
+    "type": "mc",
+    "prompt": "The “i” vowel sound “Ji” becomes:",
+    "options": ["Ja – ジャ", "Ju – ジュ", "Jo – ジョ"]
+  },
+  {"type": "mc", "prompt": "“Ja” is written as “ジャ”.", "options": ["Ja – ジャ"]},
+  {"type": "mc", "prompt": "Ja", "options": ["ジュ", "ジョ", "ジャ"], "answer": "ジャ"},
+  {"type": "mc", "prompt": "“Ju” is written as “ジュ”.", "options": ["Ju – ジュ"]},
+  {"type": "mc", "prompt": "Ju", "options": ["ジュ", "ジョ", "ジャ"], "answer": "ジュ"},
+  {"type": "mc", "prompt": "“Jo” is written as “ジョ”.", "options": ["Jo – ジョ"]},
+  {"type": "mc", "prompt": "Jo", "options": ["ジュ", "ジョ", "ジャ"], "answer": "ジョ"},
+  {
+    "type": "mc",
+    "prompt": "Those were the “J” and “G” consonant sounds written with “ャ,” “ュ,” and “ョ” in katakana. Let’s review:",
+    "options": [
+      "Gya – ギャ",
+      "Gyu – ギュ",
+      "Gyo – ギョ",
+      "Ja – ジャ",
+      "Ju – ジュ",
+      "Jo – ジョ"
+    ]
+  }
+]

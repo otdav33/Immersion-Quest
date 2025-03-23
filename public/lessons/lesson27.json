@@ -1,0 +1,69 @@
+[
+{"type": "preloadsounds", "sounds": ["びゃ", "びゅ", "びょ", "ぴゃ", "ぴゅ", "ぴょ"]},
+  {
+    "type": "intro",
+    "pretext": "The “i” vowel sound for the “B” consonant in hiragana becomes “Bya,” “Byu,” and “Byo,” when combined with the small characters “や,” “ゆ,” and “よ”.",
+    "options": ["Bya – びゃ", "Byu – びゅ", "Byo – びょ"]
+  },
+  {"type": "mc", "prompt": "“Bya” is written as “びゃ”.", "options": ["Bya – びゃ"]},
+  {
+    "type": "mc",
+    "prompt": "Bya",
+    "options": ["びょ", "びゃ", "びゅ"],
+    "answer": "びゃ"
+  },
+  {"type": "mc", "prompt": "“Byu” is written as “びゅ”.", "options": ["Byu – びゅ"]},
+  {
+    "type": "mc",
+    "prompt": "Byu",
+    "options": ["びゃ", "びょ", "びゅ"],
+    "answer": "びゅ"
+  },
+  {"type": "mc", "prompt": "“Byo” is written as “びょ”.", "options": ["Byo – びょ"]},
+  {
+    "type": "mc",
+    "prompt": "Byo",
+    "options": ["びょ", "びゅ", "びゃ"],
+    "answer": "びょ"
+  },
+  {
+    "type": "mc",
+    "prompt": "The same goes for the “P” sounds. By adding the small characters “や,” “ゆ,” and “よ” to the “i” vowel sound for the hiragana “P,” it becomes “Pya,” “Pyu,” and “Pyo”.",
+    "options": ["Pya – ぴゃ", "Pyu – ぴゅ", "Pyo – ぴょ"]
+  },
+  {"type": "mc", "prompt": "“Pya” is written as “ぴゃ”.", "options": ["Pya – ぴゃ"]},
+  {
+    "type": "mc",
+    "prompt": "Pya",
+    "options": ["ぴょ", "ぴゅ", "ぴゃ"],
+    "answer": "ぴゃ"
+  },
+  {"type": "mc", "prompt": "“Pyu” is written as “ぴゅ”.", "options": ["Pyu – ぴゅ"]},
+  {
+    "type": "mc",
+    "prompt": "Pyu",
+    "options": ["ぴゃ", "ぴゅ", "ぴょ"],
+    "answer": "ぴゅ"
+  },
+  {"type": "mc", "prompt": "“Pyo” is written as “ぴょ”.", "options": ["Pyo – ぴょ"]},
+  {
+    "type": "mc",
+    "prompt": "Pyo",
+    "options": ["ぴゅ", "ぴゃ", "ぴょ"],
+    "answer": "ぴょ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the “i” vowel sound of “B” and “P” in hiragana combined with the small “や,” “ゆ,” and “よ.” To recap:"
+  },
+  {
+    "type": "mc",
+    "prompt": "B",
+    "options": ["Bya – びゃ", "Byu – びゅ", "Byo – びょ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "P",
+    "options": ["Pya – ぴゃ", "Pyu – ぴゅ", "Pyo – ぴょ"]
+  }
+]

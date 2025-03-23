@@ -1,0 +1,81 @@
+[
+  {
+    "type": "intro",
+    "pretext": "You’ve made it! You’ve learned the vowels and the first two consonant sounds in katakana! Let’s celebrate with a quiz. But first, let’s review what you’ve learned so far:"
+  },
+  {
+    "type": "mc",
+    "prompt": "Vowels",
+    "options": ["a – ア ", "i – イ", "u – ウ", "e – エ", "o – オ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "K",
+    "options": ["Ka – カ", "Ki – キ", "Ku – ク", "Ke – ケ", "Ko – コ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "S",
+    "options": ["Sa – サ", "Shi – シ", "Su – ス", "Se – セ", "So – ソ"]
+  },
+  {"type": "mc", "prompt": "i", "options": ["オ", "イ", "ア", "エ"], "answer": "イ"},
+  {
+    "type": "mc",
+    "prompt": "Ki",
+    "options": ["カ", "コ", "キ", "ク"],
+    "answer": "キ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Shi",
+    "options": ["シ", "ス", "ソ", "サ"],
+    "answer": "シ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Su",
+    "options": ["ソ", "サ", "ス", "セ"],
+    "answer": "ス"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ke",
+    "options": ["コ", "カ", "ケ", "キ"],
+    "answer": "ケ"
+  },
+  {"type": "mc", "prompt": "e", "options": ["ア", "オ", "エ", "イ"], "answer": "エ"},
+  {"type": "mc", "prompt": "o", "options": ["ア", "オ", "イ", "エ"], "answer": "オ"},
+  {
+    "type": "mc",
+    "prompt": "Ka",
+    "options": ["コ", "キ", "カ", "ケ"],
+    "answer": "カ"
+  },
+  {
+    "type": "mc",
+    "prompt": "So",
+    "options": ["シ", "サ", "ス", "ソ"],
+    "answer": "ソ"
+  },
+  {"type": "mc", "prompt": "a", "options": ["ア", "オ", "エ", "イ"], "answer": "ア"},
+  {
+    "type": "mc",
+    "prompt": "Sa",
+    "options": ["セ", "ソ", "サ", "シ"],
+    "answer": "サ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Se",
+    "options": ["ソ", "セ", "サ", "シ"],
+    "answer": "セ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Ko",
+    "options": ["キ", "コ", "ク", "カ"],
+    "answer": "コ"
+  },
+  {"type": "mc", "prompt": "u", "options": ["ウ", "イ", "ア", "エ"], "answer": "ウ"},
+  {"type": "mc", "prompt": "Ku", "options": ["ケ", "ク", "コ", "カ"], "answer": "ク"}
+]

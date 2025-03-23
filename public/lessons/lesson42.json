@@ -1,0 +1,115 @@
+[
+{"type": "preloadsounds", "sounds": ["ヤ", "ユ", "ヨ", "ワ", "ヲ", "ン", "ユメ"]},
+  {
+    "type": "intro",
+    "pretext": "In this lesson, we will be covering two consonant sounds and the letter “N.” Just like in hiragana, the “Y” consonant only has three sounds, “Ya,” “Yu,” and “Yo,” and the “W” consonant only has two sounds, “Wa,” and “Wo.” ",
+    "options": ["Ya – ヤ", "Yu – ユ", "Yo – ヨ", "Wa – ワ", "Wo – ヲ", "N – ン"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ya” is written as “ヤ.” It looks like the hiragana character “Ya” (や). </p><img src='img/mnemonics/Katakana/YWN/ya_katakana.jpg'>",
+    "options": ["Ya – ヤ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ヤ” below:",
+	"tracing": ["ヤ1", "ヤ2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ya",
+    "options": ["ヨ", "ユ", "ヤ", "ワ"],
+    "answer": "ヤ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Yu” is written as “ユ.” It’s a U-sed straw on an empty cup. </p><img src='img/mnemonics/Katakana/YWN/yu_katakana.jpg'>",
+    "options": ["Yu – ユ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ユ” below:",
+	"tracing": ["ユ1", "ユ2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Yu",
+    "options": ["ヨ", "ヤ", "ヲ", "ユ"],
+    "answer": "ユ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Yo” is written “ヨ.” You can look at it as a cup of YOgurt. </p><img src='img/mnemonics/Katakana/YWN/yo_katakana.jpg'>",
+    "options": ["Yo – ヨ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ヨ” below:",
+	"tracing": ["ヨ1", "ヨ2", "ヨ3"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Yo",
+    "options": ["ヤ", "ヨ", "ユ", "ン"],
+    "answer": "ヨ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Let’s move on to the “W” consonant sounds. “Wa” is written as “ワ.” It looks like the hook of a question mark (?). You can use this to remember the character by thinking of the question “WhAt?” </p><img src='img/mnemonics/Katakana/YWN/wa_katakana.jpg'>",
+    "options": ["Wa – ワ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ワ” below:",
+	"tracing": ["ワ1", "ワ2"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Wa",
+    "options": ["ヲ", "ヤ", "ワ", "ヨ"],
+    "answer": "ワ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Wo” is written as “ヲ.” It looks like the ear of a WOlf. </p><img src='img/mnemonics/Katakana/YWN/wo_katakana.jpg'>",
+    "options": ["Wo – ヲ"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ヲ” below:",
+	"tracing": ["ヲ1", "ヲ2", "ヲ3"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Wo",
+    "options": ["ワ", "ヤ", "ヨ", "ヲ"],
+    "answer": "ヲ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Lastly, we have the letter “N,” which is represented by the character “ン.” It’s a tennis racket hitting a teNNis ball. </p><img src='img/mnemonics/Katakana/YWN/n_katakana.jpg'>",
+    "options": ["N – ン"]
+  },
+  {  
+	"type": "drawing",
+	"prompt": "Try tracing the character “ン” below:",
+	"tracing": ["ン1", "ン2"]
+  },
+  {"type": "mc", "prompt": "N", "options": ["オ", "ア", "ン", "シ"], "answer": "ン"},
+  {
+    "type": "mc",
+    "prompt": "Those were the last of the Japanese consonant sounds and their katakana characters. Let’s review:",
+    "options": ["Ya – ヤ", "Yu – ユ", "Yo – ヨ", "Wa – ワ", "Wo – ヲ", "N – ン"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Dream” in Japanese is “yume.” In katakana, this is written as “ユメ”.",
+    "options": ["Yume – ユメ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Yume",
+    "options": ["マチ", "スシ", "ヒト", "ユメ"],
+    "answer": "ユメ"
+  }
+]

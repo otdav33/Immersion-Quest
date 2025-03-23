@@ -1,0 +1,63 @@
+[
+{"type": "preloadsounds", "sounds": ["ぽけっと", "まって", "まて", "かっぱ　まき"]},
+  {
+    "type": "intro",
+    "pretext": "“Ya,” “Yu,” and “Yo” aren’t the only hiragana characters with smaller versions that help modify other characters. “Tsu” also has a small version that allows hiragana to have double consonants. In hiragana, unless you’re using the consonant “n,” there’s no way to get a double consonant. However, the small “tsu” (っ) makes it possible."
+  },
+  {
+    "type": "mc",
+    "prompt": "You simply write it before the consonant you want to repeat, and instead of being read as “tsu,” it is read as the repeated consonant. For instance, “っく” isn’t read as “tsuku”; it’s read as “kku.” Similarly, “っぽ” isn’t read as “tsupo”; it is read as “ppo.”"
+  },
+  {
+    "type": "mc",
+    "prompt": "っり",
+    "options": ["Riri", "Rri", "Tsuri"],
+    "answer": "Rri"
+  },
+  {
+    "type": "mc",
+    "prompt": "っご",
+    "options": ["Ggo", "Tsugo", "Gogo "],
+    "answer": "Ggo"
+  },
+  {
+    "type": "mc",
+    "prompt": "Words with the small “っ” are pronounced with a glottal stop. The glottal stop sound does exist in English, however it is much more common in Japanese. In English, it exists in words like uh-oh and important (some people do pronounce “important” with the normal “t” sound, though it is not common.)"
+  },
+  {
+    "type": "mc",
+    "prompt": "To make a glottal stop, you abruptly stop the sound you are making with your throat. "
+  },
+  {
+    "type": "mc",
+    "prompt": "In Japanese, the glottal stop is spelled with a small version of the character “つ” (っ). As far as why it is not some other character, I have no idea. If you have trouble making the glottal stop sound, you can do a double consonant instead (like how you make the “t” sound twice in “cattail”). It is usually romanized as a double-consonant for this reason. E.g. ぽけっと -> poketto (though very occasionally it is spelled poketxtsuto or poketltuto or something to denote that there is a small つ there)",
+    "options": ["Poketto – ぽけっと"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Poketto",
+    "options": ["まって", "ぽけっと", "かっぱ"],
+    "answer": "ぽけっと"
+  },
+  {
+    "type": "mc",
+    "prompt": "In any case, it is important that there’s some kind of pause or something so that you aren’t misunderstood. For example, “きって” means “stamp” but “きて” means “come here.” In fact, you can be ruder than you mean to by making this mistake. For example, to ask a person to wait for you, you could say \"まって,\" but \"まて\" is how you would command a dog to stop and it would be considered rude under most circumstances to talk to a person that way. ",
+    "options": ["Matte – まって", "Mate – まて"]
+  },
+  {"type": "mc", "prompt": "Matte", "options": ["まって", "まて"], "answer": "まって"},
+  {
+    "type": "mc",
+    "prompt": "Another word that uses the small “っ” is the word “kappa maki” which is the Japanese name for a cucumber sushi roll. Despite its meaning, “kappa maki” does not directly translate to “cucumber sushi roll.” While “maki” means “roll,” “kappa” does not mean “cucumber” or “sushi.”"
+  },
+  {
+    "type": "mc",
+    "prompt": "In Japanese mythology, there is a green water creature called “Kappa,” who is said to love cucumbers. The sushi roll is named after this creature. “Kappa maki” is written as “かっぱ　まき.” “Ka” (か) “Ppa” (っぱ) “Ma” (ま) “Ki” (き)",
+    "options": ["Kappa Maki – かっぱ　まき"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Kappa ",
+    "options": ["かっぱ", "まって", "ぽけっと"],
+    "answer": "かっぱ"
+  }
+]

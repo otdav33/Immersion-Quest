@@ -1,0 +1,104 @@
+[
+{"type": "preloadsounds", "sounds": ["は", "ひ", "ふ", "へ", "ほ", "ひと"]},
+  {
+    "type": "mc",
+    "pretext": "The consonant-vowel combinations of “H” in Hiragana are:",
+    "options": ["Ha – は", "Hi – ひ", "Hu/Fu  – ふ", "He –  へ", "Ho – ほ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ha” is written as “は.” It looks like a very fancy topHAt. </p><img src='img/mnemonics/Hiragana/H/ha_mnemonics.jpg'>",
+    "options": ["Ha – は"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “は” below:</p><img src='img/hiragana/ha.png'>",
+	"tracing": ["は1", "は2", "は3"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ha",
+    "options": ["へ", "は", "ふ", "ひ"],
+    "answer": "は"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Hi” is written as  “ひ.” “ひ” also means “sun” in Japanese. You can use this to help you remember the character as it looks like the sun shooting off rays. </p><img src='img/mnemonics/Hiragana/H/hi_mnemonics.jpg'>",
+    "options": ["Hi – ひ"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “ひ” below:</p><img src='img/hiragana/hi.png'>",
+	"tracing": ["ひ1"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Hi",
+    "options": ["ふ", "へ", "ひ", "ほ"],
+    "answer": "ひ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Hu,” which is sometimes written as “Fu” since there is no dedicated “Hu” sound in Japanese, is represented by the character “ふ.” It looks like a nose surrounded by wrinkles, as if it smelled something awful and went “FOO-ey”. </p><img src='img/mnemonics/Hiragana/H/hu_mnemonics.jpg'>",
+    "options": ["Hu/Fu – ふ"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “ふ” below:</p><img src='img/hiragana/hu.png'>",
+	"tracing": ["ふ1", "ふ2", "ふ3", "ふ4"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Hu/Fu",
+    "options": ["ほ", "ひ", "へ", "ふ"],
+    "answer": "ふ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“He” is written as “へ.” It looks like the letter “L” fell down and needs HElp. </p><img src='img/mnemonics/Hiragana/H/he_mnemonics.jpg'>",
+    "options": ["He – へ"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “へ” below:</p><img src='img/hiragana/he.png'>",
+	"tracing": ["へ1"]
+  },
+  {
+    "type": "mc",
+    "prompt": "He",
+    "options": ["へ", "ひ", " ふ", "は"],
+    "answer": "へ"
+  },
+  {
+    "type": "mc",
+    "prompt": "“Ho” is written as “ほ.” Its character is similar to “Ha” (は) except it has two horizontal lines instead of one. Its shaped like a HOtel building. </p><img src='img/mnemonics/Hiragana/H/ho_mnemonics.jpg'>",
+    "options": ["Ho – ほ"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “ほ” below:</p><img src='img/hiragana/ho.png'>",
+	"tracing": ["ほ1", "ほ2", "ほ3", "ほ4"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ho",
+    "options": ["は", "ふ", "ほ", "ひ"],
+    "answer": "ほ"
+  },
+  {
+    "type": "mc",
+    "prompt": "Those were the consonant-vowel combinations of “H” in hiragana! To recap:",
+    "options": ["Ha – は", "Hi – ひ", "Hu/Fu – ふ", "He – へ", "Ho – ほ"]
+  },
+  {
+    "type": "mc",
+    "prompt": "The word “people” is “hito” in Japanese. That’s “Hi” (ひ) and “To” (と).",
+    "options": ["Hito - ひと"]
+  },
+  {
+    "type": "mc",
+    "prompt": "People",
+    "options": ["ひと", "はな", "ほし"],
+    "answer": "ひと"
+  }
+]

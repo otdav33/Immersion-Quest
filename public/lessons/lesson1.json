@@ -1,0 +1,79 @@
+[
+{"type": "preloadsounds", "sounds": ["あ", "ああ", "あああ", "い", "いい", "いいい", "う", "うう", "ううう", "え", "ええ", "えええ", "お", "おお", "おおお", "あい", "いえ", "おい"]},
+  {
+    "type": "mc",
+    "pretext": "Japanese can be a little intimidating to learn, especially with all the different characters. Don’t worry! We’ll take it slow, starting with hiragana. Let us first learn the vowels in hiragana. “a,” “i,” “u,” “e,” and “o”.",
+    "options": ["a - あ", "i - い", "u - う", "e - え", "o - お"]
+  },
+  {
+    "type": "mc",
+    "prompt": "“a” is “あ.” An easy way to remember this would be to think of the character as an apple with a stem. </p><img src='img/mnemonics/Hiragana/Vowels/a_mnemonics.jpg'>",
+    "options": ["あ - a", "ああ - aa", "あああ - aaa"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “あ” below:</p><img src='img/hiragana/a.png'>",
+	"tracing": ["あ1", "あ2", "あ3"]
+  },
+  {"type": "mc", "prompt": "a", "options": ["あ", "い", "う", "え"], "answer": "あ"},
+  {
+    "type": "mc",
+    "prompt": "Next is “i.” “i” is represented by “い.” You can think of it as the shape of a melting Ice cube. </p><img src='img/mnemonics/Hiragana/Vowels/i_mnemonics.jpg'>",
+    "options": ["い - i", "いい - i", "いいい - iii"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “い” below:</p><img src='img/hiragana/i.png'>",
+	"tracing": ["い1", "い2"]
+  },  
+  {"type": "mc", "prompt": "i", "options": ["あ", "え", "う", "い"], "answer": "い"},
+  {
+    "type": "mc",
+    "prompt": "Our next vowel is “u.” “u” is represented by “う.” This one should be easy to remember as the character already looks like the letter “u” on its side. </p><img src='img/mnemonics/Hiragana/Vowels/u_mnemonics.jpg'>",
+    "options": ["う - u", "うう - uu", "ううう - uuu"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “う” below:</p><img src='img/hiragana/u.png'>",
+	"tracing": ["う1", "う2"]
+  },
+  {"type": "mc", "prompt": "u", "options": ["い", "う", "え", "あ"], "answer": "う"},
+  {
+    "type": "mc",
+    "prompt": "Our next vowel is “e.” “e” is represented by the character “え.” Its sharp edge looks like an Elf’s ear. </p><img src='img/mnemonics/Hiragana/Vowels/e_mnemonics.jpg'>",
+    "options": ["え - e", "ええ - ee", "えええ - ee"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “え” below:</p><img src='img/hiragana/e.png'>",
+	"tracing": ["え1", "え2"]
+  }, 
+  {"type": "mc", "prompt": "e", "options": ["え", "あ", "う", "い"], "answer": "え"},
+  {
+    "type": "mc",
+    "prompt": "Our last vowel is “o.” This is drawn as “お,” which is very similar to the hiragana character “a” (あ). However, instead of an apple, you can think of it as an Orange with a stem and a leaf. </p><img src='img/mnemonics/Hiragana/Vowels/o_mnemonics.jpg'>",
+    "options": ["お - o", "おお - oo", "おおお - ooo"]
+  },
+  {
+	"type": "drawing",
+	"prompt": "<p>Try tracing the character “お” below:</p><img src='img/hiragana/o.png'>",
+	"tracing": ["お1", "お2", "お3"]
+  }, 
+  {"type": "mc", "prompt": "o", "options": ["え", "い", "う", "お"], "answer": "お"},
+  {
+    "type": "mc",
+    "prompt": "And those were the vowels in hiragana! To recap, it's:",
+    "options": ["あ – a", "い – i", "う – u", "え – e", "お – o"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Let's apply these characters to a Japanese word. You don't need to remember this word. “Ai” means love. It is written in hiragana as “あい”.",
+    "options": ["Ai - あい"]
+  },
+  {
+    "type": "mc",
+    "prompt": "Ai",
+    "options": ["あい", "いえ", "おい"],
+	"answer": "あい"
+  }
+]
